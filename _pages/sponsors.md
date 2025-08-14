@@ -1,47 +1,23 @@
 ---
 title: Sponsorship
 layout: single
-excerpt: "EACL 2024 Sponsors"
+excerpt: "EACL 2026 Sponsorship"
 permalink: /sponsors
 sidebar:
   nav: faq
-toc: true
-toc_only: true
-toc_sticky: true
-toc_icon: "cog"
+toc: false
 ---
 
-## Platinum Sponsor
-<a href="https://megagon.ai/">
-   <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo" style="width:450px;">
-</a>
+# Sponsorship Opportunities
 
-## Gold Sponsor
-<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">
-   <img src="/assets/images/logos/bloomberg.jpg" alt="Clickable Megagon Logo" style="width:400px;">
-</a> 
+We invite you to sponsor the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
 
-<a href="https://careers.snowflake.com/us/en/blogarticle/hearts-full-of-ml-brains-full-of-knowledge-the-snowflake-cognitive-services-team">
-   <img src="/assets/images/logos/snowflake.png" alt="Clickable Snowflake Logo" style="width:400px;">
-</a> 
+Sponsoring EACL 2026 is an excellent opportunity to support the natural language processing community and to gain visibility for your organization among a diverse group of leading academic and industry researchers.
 
-## Bronze Sponsor
-<a href="https://research.adobe.com/">
-   <img src="/assets/images/logos/adobe.jpg" alt="Clickable Megagon Logo" style="width:400px;">
-</a> 
+---
 
-<a href="https://babelscape.com/">
-   <img src="/assets/images/logos/babelscape.jpg" alt="Clickable Megagon Logo" style="width:400px;">
-</a> 
+### Sponsorship Brochure
 
-## Diversity and Inclusion Champion
+The EACL 2026 sponsorship brochure, which will detail the different sponsorship tiers and their benefits, will be made available here in due course.
 
-<a href="https://www.h-its.org">
-   <img src="/assets/images/logos/hits.jpg" alt="Clickable Megagon Logo" style="width:400px;">
-</a> 
-
-<hr>
-<b>Sponsorship brochure</b>
-
-The sponsorship brochure for EACL 2024 is available at <a href="/downloads/Sponsorship-brochure-for-ACL-2024-conferences-2023-12-19.pdf">this link</a>.
-
+For preliminary inquiries, please feel free to reach out to the EACL 2026 Sponsorship Chairs (contact details to be announced). We thank you for your interest and support.

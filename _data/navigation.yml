@@ -17,7 +17,7 @@ main:
 program:
   - title: Program
     children:
-      - title: "EACL 2024 Program of Events"
+      - title: "EACL 2026 Program of Events"
         url: /program/main/   
       - title: "Invited Speakers"
         url: /program/invited/             
@@ -35,7 +35,7 @@ program:
 registration:
   - title: Registration
     children:
-      - title: "EACL 2024 Registration"
+      - title: "EACL 2026 Registration"
         url: /registration       
       - title: "Virtual Discounted Registration"
         url: /virtualdiscounts
