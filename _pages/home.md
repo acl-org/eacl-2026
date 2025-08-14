@@ -1,5 +1,5 @@
 ---
-title: "<br>The&nbsp;19th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter<br> of&nbsp;the&nbsp;Association for&nbsp;Computational Linguistics<br>Dates & Location To Be Announced<br><br><br>"
+title: "<br>The&nbsp;19th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter<br> of&nbsp;the&nbsp;Association for&nbsp;Computational Linguistics<br>Rabat, Morocco<br>March 24-29, 2026<br><br><br>"
 layout: splash
 permalink: /
 header:
