@@ -14,7 +14,7 @@ sidebar:
   "Tutorial": "Tutorial Chair",
   "Demo": "Demonstration Chair",
   "SRW": "Student Research Workshop Chair",
-  "Facutly SRW": "Faculty Advisor to the Student Research Workshop",
+  "Faculty SRW": "Faculty Advisor to the Student Research Workshop",
   "Industry": "Industry Chair",
   "Sponsorship": "Sponsorship Chair",
   "Publication": "Publication Chair",
@@ -26,7 +26,7 @@ sidebar:
   "ED&I": "Diversity and Inclusion Chair"
 } %}
 
-{% assign ordered_roles = "General|Program|Workshop|Tutorial|Demo|SRW|Facutly SRW|Industry|Sponsorship|Publication|Publicity|Communications|Website|Local Chair|Local Organization|ED&I" | split:"|" %}
+{% assign ordered_roles = "General|Program|Workshop|Tutorial|Demo|SRW|Faculty SRW|Industry|Sponsorship|Publication|Publicity|Communications|Website|Local Chair|Local Organization|ED&I" | split:"|" %}
 
 {% for role in ordered_roles %}
   {% assign people = site.data.organizers | where: "Role", role %}
