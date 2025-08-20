@@ -128,3 +128,9 @@ $page-max-width: 904px;
   gap: 1.5rem; /* This adds space between the cards */
   margin-bottom: 2rem; /* Adds space below each group */
 }
+/* Show full name and affiliation (no truncation) */
+.committee-card__name,
+.committee-card__affil { white-space: normal; overflow: visible; text-overflow: unset; }
+
+/* Optional: make cards a bit wider so long affiliations look nice */
+.committee-list { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 1.25rem; }
