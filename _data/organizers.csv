@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Role,Name,Affiliation,Scholar,Photo,Email,Country,Reply,Invitation
 Tutorial,Rodrigo Wilkens,University of Exeter,https://scholar.google.com/citations?hl=en&user=-sIkqlEAAAAJ,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=-sIkqlEAAAAJ&citpid=3,r.wilkens@exeter.ac.uk,UK,Yes,
 Tutorial,Aline Paes,UFF,https://scholar.google.com.br/citations?hl=en&user=PXVlXCEAAAAJ,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=PXVlXCEAAAAJ&citpid=2,alinepaes@ic.uff.br,Brazil,Yes,
@@ -25,6 +26,8 @@ Publication,Fernando Alva Manchego,U. Cardiff,https://scholar.google.co.uk/citat
 Local Organization,Khalid Choukri,ELRA/ELDA,https://scholar.google.co.uk/citations?hl=en&user=Q5StSoMAAAAJ,https://www.elra.info/wp-content/uploads/2023/12/Sans-titre-1.png,Khalid Choukri <choukri@elda.org>,France,Yes,
 Local Chair,Karim Bouzoubaa,Mohammadia School of Engineers,https://scholar.google.co.uk/citations?hl=en&user=ArRLQkkAAAAJ,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=ArRLQkkAAAAJ&citpid=2,Karim BOUZOUBAA <bouzoubaa@emi.ac.ma>,,Yes,
 =======
+=======
+>>>>>>> parent of 94885ca (update data)
 ﻿Name,Affiliation,Scholar,Email,Country,Role,Reply,Invitation,Photo,,,,,,,,,,,,,,,,
 Rodrigo Wilkens,University of Exeter,https://scholar.google.com/citations?hl=en&user=-sIkqlEAAAAJ,r.wilkens@exeter.ac.uk,UK,Tutorial,Yes,,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=-sIkqlEAAAAJ&citpid=3,,,,,,,,,,,,,,,,
 Aline Paes,UFF,https://scholar.google.com.br/citations?hl=en&user=PXVlXCEAAAAJ,alinepaes@ic.uff.br,Brazil,Tutorial,Yes,,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=PXVlXCEAAAAJ&citpid=2,,,,,,,,,,,,,,,,
@@ -978,4 +981,7 @@ Karim Bouzoubaa,Mohammadia School of Engineers,https://scholar.google.co.uk/cita
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
+<<<<<<< HEAD
+>>>>>>> parent of 94885ca (update data)
+=======
 >>>>>>> parent of 94885ca (update data)
