@@ -14,7 +14,7 @@ sidebar:
   "Tutorial": "Tutorial Chair",
   "Demo": "Demonstration Chair",
   "SRW": "Student Research Workshop Chair",
-  "Facutly SRW": "Faculty Advisor to the Student Research Workshop",
+  
   "Faculty SRW": "Faculty Advisor to the Student Research Workshop",
   "Industry": "Industry Chair",
   "Sponsorship": "Sponsorship Chair",
@@ -27,39 +27,49 @@ sidebar:
   "ED&I": "Diversity and Inclusion Chair"
 } %}
 
-{% assign preferred = "General|Program|Workshop|Tutorial|Demo|SRW|Facutly SRW|Faculty SRW|Industry|Sponsorship|Publication|Publicity|Communications|Website|Local Chair|Local Organization|ED&I" | split:"|" %}
+{% assign preferred = "General|Program|Workshop|Tutorial|Demo|SRW|Faculty SRW|Industry|Sponsorship|Publication|Publicity|Communications|Website|Local Chair|Local Organization|ED&I" | split:"|" %}
+
 {% assign groups = site.data.organizers | group_by: "Role" %}
 
+{% comment %} Loop through the roles in your preferred order {% endcomment %}
 {% for r in preferred %}
   {% assign bucket = groups | where: "name", r | first %}
-  {% if bucket and bucket.items and bucket.items.size > 0 %}
-    {% assign base = role_headings[r] | default:r | append:" Chair" %}
-    {% assign heading = bucket.items.size > 1 | default:false | if: base | replace:"Chair","Chairs" %}
-    {% if bucket.items.size == 1 %}{% assign heading = base %}{% endif %}
+  {% if bucket and bucket.items.size > 0 %}
+
+{% comment %} Correctly get the base heading from the map {% endcomment %}
+{% assign heading = role_headings[r] | default: r %}
+
+{% comment %} Correctly pluralize the heading if there is more than one person {% endcomment %}
+{% if bucket.items.size > 1 %}
+  {% assign heading = heading | replace: "Chair", "Chairs" %}
+{% endif %}
 
 ### {{ heading }}
 <div class="committee-list">
   {% for p in bucket.items %}
-  {% include committee_card.html name=p.Name affiliation=p.Affiliation photo=p.Photo url=p.Scholar %}
+    {% include committee_card.html name=p.Name affiliation=p.Affiliation photo=p.Photo url=p.Scholar %}
   {% endfor %}
 </div>
-
   {% endif %}
 {% endfor %}
 
+{% comment %} Loop through any remaining groups not in the preferred list {% endcomment %}
 {% for g in groups %}
   {% unless preferred contains g.name %}
-    {% assign base = role_headings[g.name] | default:g.name | append:" Chair" %}
-    {% assign heading = g.items.size > 1 | default:false | if: base | replace:"Chair","Chairs" %}
-    {% if g.items.size == 1 %}{% assign heading = base %}{% endif %}
+
+{% comment %} Correctly get the base heading from the map {% endcomment %}
+{% assign heading = role_headings[g.name] | default: g.name %}
+
+{% comment %} Correctly pluralize the heading if there is more than one person {% endcomment %}
+{% if g.items.size > 1 %}
+  {% assign heading = heading | replace: "Chair", "Chairs" %}
+{% endif %}
 
 ### {{ heading }}
 <div class="committee-list">
   {% for p in g.items %}
-  {% include committee_card.html name=p.Name affiliation=p.Affiliation photo=p.Photo url=p.Scholar %}
+    {% include committee_card.html name=p.Name affiliation=p.Affiliation photo=p.Photo url=p.Scholar %}
   {% endfor %}
 </div>
-
   {% endunless %}
 {% endfor %}
-
