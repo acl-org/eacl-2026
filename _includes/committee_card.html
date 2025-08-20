@@ -1,0 +1,9 @@
+<div class="committee-card">
+  <img src="{{ include.photo }}" alt="{{ include.name }}" loading="lazy" decoding="async" />
+  <div class="committee-card__text">
+    <div class="committee-card__name">
+      {% if include.url %}<a href="{{ include.url }}">{{ include.name }}</a>{% else %}{{ include.name }}{% endif %}
+    </div>
+    {% if include.affiliation %}<div class="committee-card__affil">{{ include.affiliation }}</div>{% endif %}
+  </div>
+</div>

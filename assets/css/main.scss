@@ -72,3 +72,51 @@ $page-max-width: 904px;
 @import "buttons";
 @import "inputs";
 @import "cards";
+
+
+/* Committee cards */
+.committee-list {
+  margin: 0;
+  padding: 0;
+}
+
+.committee-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid #e5e7eb; /* subtle divider */
+}
+
+.committee-card:last-child {
+  border-bottom: 0;
+}
+
+.committee-card img {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #eef2f7; /* light ring */
+}
+
+.committee-card__name {
+  font-weight: 700;
+  font-size: 1.25rem; /* ~20px */
+  line-height: 1.2;
+  margin-bottom: 2px;
+}
+
+.committee-card__name a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.committee-card__name a:hover {
+  text-decoration: underline;
+}
+
+.committee-card__affil {
+  color: #6b7280; /* gray-500 */
+  font-size: 1rem;
+}
