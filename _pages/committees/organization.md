@@ -31,25 +31,41 @@ sidebar:
   "Sponsorship": "Sponsorship Chair",
   "Publication": "Publication Chair",
   "Publicity": "Publicity Chair",
+  "Communications": "Internal Communications Chair",  <!-- fallback if CSV uses "Communications" -->
   "Website": "Website Chair",
   "Local": "Local Arrangements Chair",
   "ED&I": "Diversity and Inclusion Chair"
 } %}
 
+{% assign preferred = "General|Program|Local Organization|Workshop|Tutorial|Internal Communications" | split:"|" %}
 {% assign groups = site.data.organizers | group_by: "Role" %}
 
-{%- comment -%} Your desired order comes first {%- endcomment -%}
-{% assign preferred = "General|Program|Local Organization|Workshop|Tutorial|Internal Communications" | split: "|" %}
-
-{%- comment -%} 1) Print preferred roles in this exact order {%- endcomment -%}
+{% comment %} 1) Print preferred roles in this exact order {% endcomment %}
 {% for r in preferred %}
   {% assign bucket = groups | where: "name", r | first %}
   {% if bucket and bucket.items.size > 0 %}
-    {% assign base = role_headings[r] | default: r %}
-    {% assign heading = base %}
-    {% if bucket.items.size > 1 %}
-      {% assign heading = heading | replace: "Chair", "Chairs" %}
+
+    {% comment %} Get base heading; avoid double-adding "Chair" if role already ends with it {% endcomment %}
+    {% assign _mapped = role_headings[r] %}
+    {% if _mapped %}
+      {% assign heading = _mapped %}
+    {% else %}
+      {% assign _last = r | split: ' ' | last %}
+      {% if _last == "Chair" or _last == "Chairs" %}
+        {% assign heading = r %}
+      {% else %}
+        {% assign heading = r | append: " Chair" %}
+      {% endif %}
     {% endif %}
+
+    {% comment %} Pluralize when more than one person {% endcomment %}
+    {% if bucket.items.size > 1 %}
+      {% assign _last_word = heading | split: ' ' | last %}
+      {% if _last_word == "Chair" %}
+        {% assign heading = heading | append: "s" %}
+      {% endif %}
+    {% endif %}
+
 ### {{ heading }}
 <div class="committee-list">
   {% for p in bucket.items %}
@@ -59,14 +75,30 @@ sidebar:
   {% endif %}
 {% endfor %}
 
-{%- comment -%} 2) Then show any remaining roles not listed above {%- endcomment -%}
+{% comment %} 2) Then print any remaining roles not listed above {% endcomment %}
 {% for g in groups %}
   {% unless preferred contains g.name %}
-    {% assign base = role_headings[g.name] | default: g.name %}
-    {% assign heading = base %}
-    {% if g.items.size > 1 %}
-      {% assign heading = heading | replace: "Chair", "Chairs" %}
+
+    {% comment %} Get base heading; avoid double-adding "Chair" {% endcomment %}
+    {% assign _mapped = role_headings[g.name] %}
+    {% if _mapped %}
+      {% assign heading = _mapped %}
+    {% else %}
+      {% assign _last = g.name | split: ' ' | last %}
+      {% if _last == "Chair" or _last == "Chairs" %}
+        {% assign heading = g.name %}
+      {% else %}
+        {% assign heading = g.name | append: " Chair" %}
+      {% endif %}
     {% endif %}
+
+    {% if g.items.size > 1 %}
+      {% assign _last_word = heading | split: ' ' | last %}
+      {% if _last_word == "Chair" %}
+        {% assign heading = heading | append: "s" %}
+      {% endif %}
+    {% endif %}
+
 ### {{ heading }}
 <div class="committee-list">
   {% for p in g.items %}
@@ -75,4 +107,3 @@ sidebar:
 </div>
   {% endunless %}
 {% endfor %}
-
