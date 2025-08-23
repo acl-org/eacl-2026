@@ -120,3 +120,17 @@ $page-max-width: 904px;
   color: #6b7280; /* gray-500 */
   font-size: 1rem;
 }
+/* --- Organizing Committee Layout --- */
+.committee-list {
+  display: grid;
+  /* This creates columns that are at least 250px wide */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem; /* This adds space between the cards */
+  margin-bottom: 2rem; /* Adds space below each group */
+}
+/* Show full name and affiliation (no truncation) */
+.committee-card__name,
+.committee-card__affil { white-space: normal; overflow: visible; text-overflow: unset; }
+
+/* Optional: make cards a bit wider so long affiliations look nice */
+.committee-list { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 1.25rem; }

@@ -4,7 +4,10 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/header.png"
-  caption: 'Photo by <a href="https://unsplash.com/@d_mccullough">Daniel McCullough</a> on <a href="http://www.unsplash.com">Unsplash</a>'
+  caption: 'Image courtesy of
+    <a href="https://www.visitmorocco.com/en/travel-info/gallery" target="_blank" rel="noopener">
+      Moroccan National Tourist Office
+    </a>.'
 excerpt: "<br/><br/>"
 ---
 ## News
