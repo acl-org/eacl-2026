@@ -13,6 +13,19 @@ sidebar:
 .committee-card__text{flex:1 1 auto;}
 .committee-card__name{font-weight:700;font-size:1.125rem;line-height:1.2;white-space:normal;overflow:visible;text-overflow:unset;}
 .committee-card__affil{white-space:normal;overflow:visible;text-overflow:unset;line-height:1.35;margin-top:.125rem;}
+/* remove any residual dividers inside cards */
+.committee-card, .committee-card * { border: 0 !important; box-shadow: none !important; }
+
+/* grey line just under each section title (applies only when a .committee-list follows) */
+h3 + .committee-list {
+  border-top: 1px solid #e5e7eb;  /* gray-200 */
+  padding-top: .75rem;            /* space between line and cards */
+  margin-top: .25rem;             /* space between title and line */
+}
+
+/* optional: a little space above each title */
+.page__content h3 { margin-top: 2rem; }
+
 </style>
 
 {% comment %} Map short role categories -> display headings {% endcomment %}
