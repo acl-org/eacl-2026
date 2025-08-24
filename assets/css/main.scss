@@ -138,8 +138,8 @@ $page-max-width: 904px;
 /* Bigger circular avatar + a bit more room for the grid */
 .committee-card { gap: 1rem; }
 .committee-card img{
-  width: 120px;          /* ↑ was 64px */
-  height: 120px;         /* keep square */
+  width: 100px;          /* ↑ was 64px */
+  height: 100px;         /* keep square */
   border-radius: 9999px; /* circle */
   object-fit: cover;
   object-position: 50% 40%; /* slight upward bias for faces */
