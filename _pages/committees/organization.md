@@ -96,8 +96,11 @@ h3 + .committee-list {
       {%- assign _parts = row | split: "§" -%}
       {%- assign _idx = _parts[1] | plus: 0 -%}
       {%- assign person = bucket.items[_idx] -%}
-      {% include committee_card.html name=p.Name affiliation=p.Affiliation photo=p.Photo url=p.Scholar %}
-
+      {% include committee_card.html
+           name=person.Name
+           affiliation=person.Affiliation
+           photo=person.Photo
+           url=person.Scholar %}
     {%- endunless -%}
   {%- endfor -%}
 </div>

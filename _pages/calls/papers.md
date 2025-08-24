@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 <h1>EACL 2026</h1>
 
-The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) invites the submission of long and short papers on substantial, original, and unpublished research on Natural Language Processing. EACL 2026 will take place in Rabat, Morocco, from March 24 to 29, 2026.
+The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) invites the submission of long and short papers on substantial, original, and unpublished research on Natural Language Processing. The location and dates for EACL 2026 will be announced soon.
 
 ## Submit
 
