@@ -81,10 +81,30 @@ h3 + .committee-list {
 
 ### {{ heading }}
 <div class="committee-list">
-  {% for p in bucket.items %}
-    {% include committee_card.html name=p.Name affiliation=p.Affiliation photo=p.Photo url=p.Scholar %}
-  {% endfor %}
+  {%- assign _annot = "" -%}
+  {%- for p in bucket.items -%}
+    {%- assign _name = p.Name | strip -%}
+    {%- comment -%} take last token as surname; strip parentheses like "(May)" {%- endcomment -%}
+    {%- assign _surname = _name | replace: "(", " " | replace: ")", " " | split: " " | last | downcase -%}
+    {%- assign _annot = _annot
+        | append: _surname | append: "§" | append: forloop.index0
+        | append: "¶" -%}
+  {%- endfor -%}
+  {%- assign _rows = _annot | split: "¶" | sort_natural -%}
+  {%- for row in _rows -%}
+    {%- unless row == "" -%}
+      {%- assign _parts = row | split: "§" -%}
+      {%- assign _idx = _parts[1] | plus: 0 -%}
+      {%- assign person = bucket.items[_idx] -%}
+      {% include committee_card.html
+           name=person.Name
+           affiliation=person.Affiliation
+           photo=person.Photo
+           url=person.Scholar %}
+    {%- endunless -%}
+  {%- endfor -%}
 </div>
+
   {% endif %}
 {% endfor %}
 
@@ -114,9 +134,29 @@ h3 + .committee-list {
 
 ### {{ heading }}
 <div class="committee-list">
-  {% for p in g.items %}
-    {% include committee_card.html name=p.Name affiliation=p.Affiliation photo=p.Photo url=p.Scholar %}
-  {% endfor %}
+  {%- assign _annot = "" -%}
+  {%- for p in g.items -%}
+    {%- assign _name = p.Name | strip -%}
+    {%- assign _surname = _name | replace: "(", " " | replace: ")", " "
+                              | split: " " | last | downcase -%}
+    {%- assign _annot = _annot
+        | append: _surname | append: "§" | append: forloop.index0
+        | append: "¶" -%}
+  {%- endfor -%}
+  {%- assign _rows = _annot | split: "¶" | sort_natural -%}
+  {%- for row in _rows -%}
+    {%- unless row == "" -%}
+      {%- assign _parts = row | split: "§" -%}
+      {%- assign _idx = _parts[1] | plus: 0 -%}
+      {%- assign person = g.items[_idx] -%}
+      {% include committee_card.html
+           name=person.Name
+           affiliation=person.Affiliation
+           photo=person.Photo
+           url=person.Scholar %}
+    {%- endunless -%}
+  {%- endfor -%}
 </div>
+
   {% endunless %}
 {% endfor %}
