@@ -8,10 +8,10 @@ sidebar:
 toc: false
 ---
 
-<!-- <h1>Conference Venue</h1> -->
+<h1>Conference Venue</h1>
 
 <p>
-EACL 2026 will take place in Rabat, Morocco, from March 24 to 29, 2026.
+The venue for EACL 2026 will be announced soon.
 </p>
 
 <p>
