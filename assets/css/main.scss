@@ -134,24 +134,3 @@ $page-max-width: 904px;
 
 /* Optional: make cards a bit wider so long affiliations look nice */
 .committee-list { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 1.25rem; }
-
-/* Bigger circular avatar + a bit more room for the grid */
-.committee-card { gap: 1rem; }
-.committee-card img{
-  width: 100px;          /* ↑ was 64px */
-  height: 100px;         /* keep square */
-  border-radius: 9999px; /* circle */
-  object-fit: cover;
-  object-position: 50% 40%; /* slight upward bias for faces */
-}
-
-/* Wider card columns so text doesn't feel cramped next to the bigger photo */
-.committee-list{
-  grid-template-columns: repeat(auto-fill, minmax(520px, 1fr));
-}
-
-/* Optional: only go big on medium+ screens */
-@media (max-width: 640px){
-  .committee-card img{ width: 96px; height: 96px; }
-  .committee-list{ grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); }
-}
