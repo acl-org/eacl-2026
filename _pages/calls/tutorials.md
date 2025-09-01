@@ -24,11 +24,13 @@ In both cases, the aim of a tutorial is primarily to help understand a scientifi
 
 Tutorials will be held at the EACL 2026 conference venue.
 
+
+> This is a **shared call with ACL 2026**.
+
 ## Important Dates
 
-Proposal submission and notification deadlines will be announced here.
-
-##### All deadlines are 11:59 PM UTC-12:00 (“anywhere on Earth”).
+- Proposal submission deadline: **20 October 2025**
+- Notification of acceptance: **8 December 2025**
 
 ## Fee Waiving
 

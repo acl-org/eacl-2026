@@ -18,9 +18,13 @@ The 19th Conference of the European Chapter of the Association for Computational
 
 Workshops will be held at the same venue as the main EACL 2026 conference.
 
+> This is a **shared call with ACL 2026**.
+
 ## Important Dates
 
-Proposal submission and notification deadlines will be announced in due course.
+- Proposal submission deadline: **5 September 2025**
+- Notification of acceptance: **22 September 2025**
+
 
 ##### All deadlines are 11:59 PM UTC-12:00 (“anywhere on Earth”).
 

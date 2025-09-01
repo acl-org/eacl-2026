@@ -11,6 +11,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+
 <h1>EACL 2026</h1>
 
 The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026) invites the submission of long and short papers on substantial, original, and unpublished research on Natural Language Processing. EACL 2026 will take place in Rabat, Morocco, from March 24 to 29, 2026.
@@ -27,7 +28,22 @@ The authors should contact ARR with any questions about the review process at [e
 
 As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
 
-**The full schedule and deadlines for EACL 2026 will be announced here.**
+## Important Dates
+
+- ARR submission deadline: **6 October 2025**
+- Author response & reviewer discussion: **18 – 24 November 2025**
+- Meta-reviews released: **11 December 2025**
+- EACL commitment deadline: **14 December 2025**
+
+
+<summary><strong>Review timeline (info for reviewers/ACs)</strong></summary>
+
+- Reviewer registration closes: **8 October 2025**
+- Reviewing: **5 – 10 November 2025**
+- Emergency reviews: **11 – 17 November 2025**
+
+
+##### All deadlines are 11:59 PM UTC-12:00 (“anywhere on Earth”).
 
 ## Paper Submission Information
 
