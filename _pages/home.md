@@ -14,7 +14,7 @@ excerpt: "<br/><br/>"
 
 <div class="notice--info" markdown="1">
   <h2 id="welcome-to-eacl-2026">Welcome!</h2>
-  The website for EACL 2026 is now live. Please check back for future updates on dates, location, and calls for papers.
+  The website for EACL 2026 is live. The Call for Papers is announced—see the <a href="{{ "/calls/papers/" | relative_url }}">CFP page</a> for details.
 </div>
 
 ## Welcome!
@@ -23,7 +23,11 @@ Welcome to the 19th Conference of the European Chapter of the Association for Co
 
 ## Important Dates
 
-Important dates for EACL 2026 will be announced in due course.
+*(All deadlines 23:59 AoE)*
+
+- ARR submission deadline: **6 October 2025**
+- Author response & reviewer discussion: **18 – 24 November 2025**
+- EACL commitment deadline: **14 December 2025**
 
 ## EACL 2026 Anti-Harassment Policy
 
