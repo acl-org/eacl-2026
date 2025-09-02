@@ -28,6 +28,7 @@ Welcome to the 19th Conference of the European Chapter of the Association for Co
 - ARR submission deadline: **6 October 2025**
 - Author response & reviewer discussion: **18 – 24 November 2025**
 - EACL commitment deadline: **14 December 2025**
+- Notification: **3 January 2026**
 
 ## EACL 2026 Anti-Harassment Policy
 
