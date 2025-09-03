@@ -45,6 +45,8 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
+      - title: "Student Research Workshop"
+        url: /calls/srw/
       - title: "System Demonstrations"
         url: /calls/demos/        
       - title: "Workshops"
