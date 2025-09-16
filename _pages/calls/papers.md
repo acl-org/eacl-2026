@@ -94,9 +94,11 @@ Long and short papers will be presented orally or as posters, as determined by t
 
 All accepted papers must be presented at the conference—either online or in-person—in order to appear in the proceedings. Authors of papers accepted for presentation at EACL 2026 must notify the program chairs by the withdrawal deadline if they wish to withdraw the paper. At least one author of each accepted paper must register for EACL 2026 by the early registration deadline.
 
+
 ### Paper Submission and Anonymity
 
-Following standard ACL and ARR policy, submitted papers must be prepared for two-way anonymized review, and no deanonymized preprint may be posted in the month prior to submission. Please see the [ARR CfP](https://aclrollingreview.org/cfp) for more detail.
+Following ARR guidelines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review. However, the new policy incentivizes anonymous submissions by special paper awards and priority in acceptance decisions for borderline papers. You select the preprint status of the submission in the submission form. If you choose the ‘binding’ non-preprint option, you commit to not preprinting until after the review cycle is over, under the penalty of desk rejection. Please see the [ARR CfP](https://aclrollingreview.org/cfp) for more details.
+
 
 ### Policies on Authorship, Citation and Ethics
 
