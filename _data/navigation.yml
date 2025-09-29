@@ -51,9 +51,11 @@ calls:
         url: /calls/demos/        
       - title: "Workshops"
         url: /calls/workshops/
+      - title: "Industry Track"
+        url: /calls/industry/
       - title: "Tutorials"
         url: /calls/tutorials/
-      - title: "diversity & inclusion subsidies"
+      - title: "Diversity & Inclusion Subsidies"
         url: /calls/d-i-subsidies/        
       - title: "Student Volunteers"
         url: /calls/student-volunteers/
