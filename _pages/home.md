@@ -16,10 +16,15 @@ excerpt: "<br/><br/>"
   <h2 id="welcome-to-eacl-2026">Welcome!</h2>
   The website for EACL 2026 is live. The Call for Papers is announced—see the <a href="{{ "/calls/papers/" | relative_url }}">CFP page</a> for details.
 </div>
-<div class="notice--success" markdown="1">
+<div class="notice--info" markdown="1">
   <h2 id="industry-track">EACL Industry Track</h2>
   The Industry Track Call for Papers is announced—see the
   <a href="{{ "/calls/industry/" | relative_url }}">CFP page</a> for details.
+</div>
+<div class="notice--info" markdown="1">
+  <h2 id="industry-track">EACL Student Research Workshop</h2>
+  The Student Research Workshop Call for Papers is announced—see the
+  <a href="{{ "/calls/srw/" | relative_url }}">CFP page</a> for details.
 </div>
 
 
