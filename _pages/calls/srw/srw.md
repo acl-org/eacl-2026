@@ -45,6 +45,16 @@ toc_icon: "cog"
 }
 </style>
 
+<div class="srw-quick-links" style="border:1px solid #ccc;border-radius:6px;padding:0.85rem 1rem;background:#f5f7fa;margin:1.5rem 0;">
+<strong>Submission Links</strong>
+<ul style="margin:0.5rem 0 0 1.1rem;">
+  <li>Pre-submission Mentorship: <em>Coming soon (TBA)</em></li>
+  <li>Main SRW Paper Submission: <a href="https://openreview.net/group?id=eacl.org/EACL/2026/SRW">https://openreview.net/group?id=eacl.org/EACL/2026/SRW</a></li>
+  <li>ARR Commitment Site: <em>Coming soon (TBA)</em></li>
+</ul>
+<small>ARR commitment and mentorship links will be added once OpenReview groups are live.</small>
+</div>
+
 ## About the Student Research Workshop
 
 The EACL 2026 Student Research Workshop (SRW) is a forum to bring together students investigating various areas of Computational Linguistics and Natural Language Processing. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.
@@ -131,7 +141,7 @@ You CAN submit a paper at the SRW submission deadline even if you did not partic
 
 ## How to submit
 There are two routes for paper submission:  
-* **Direct Submission**: Papers should be submitted through OpenReview. Each paper will receive a minimum of three reviews. The review process will follow the ARR review policy. The submission link is [TBA].
+* **Direct Submission**: Papers should be submitted through OpenReview. Each paper will receive a minimum of three reviews. The review process will follow the ARR review policy. The submission link is [https://openreview.net/group?id=eacl.org/EACL/2026/SRW](https://openreview.net/group?id=eacl.org/EACL/2026/SRW).
 * **ACL Rolling Review (ARR) Papers**: Papers which have already been reviewed through the ARR system can be committed to the SRW. These papers will not be re-reviewed. Program Chairs will make acceptance decisions based on the ARR reviews and meta-reviews. ARR papers should be committed through OpenReview. When making a new submission, you will be able to specify the details of the ARR paper that you want to commit, including the OpenReview ID of your paper. The commitment site link is [TBA].
 
 
