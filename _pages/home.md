@@ -26,7 +26,11 @@ excerpt: "<br/><br/>"
   The Student Research Workshop Call for Papers is announced—see the
   <a href="{{ "/calls/srw/" | relative_url }}">CFP page</a> for details.
 </div>
-
+<div class="notice--info" markdown="1">
+  <h2 id="System-track">EACL System Demonstrations</h2>
+  Call for System Demonstrations—see the
+  <a href="{{ "/calls/demos/" | relative_url }}">CFP page</a> for details.
+</div>
 
 ## Welcome!
 

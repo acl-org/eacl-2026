@@ -11,72 +11,108 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<h1>EACL 2026</h1>
-<h2>Call for System Demonstrations</h2>
-**Submission link: To be announced**<br />
+# EACL 2026 - Call for System Demonstrations
 
-The system demonstration track at EACL 2026 is a venue for papers describing system demonstrations, ranging from early prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest.
+The EACL 202 System Demonstration Program Committee invites proposals for the Demonstrations Program. Demonstrations may range from early research prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest. **We additionally strongly encourage demonstrations of industrial systems that are technologically innovative, given the current state of the art of theory and applied research in natural language processing**.
 
-All accepted demos are published in a companion volume of the conference proceedings. We expect at least one of the authors to present a live demo during a demo session at EACL 2026, with an accompanying poster, either virtually or in-person.
+Areas of interest include all topics related to theoretical and applied natural language processing, such as (but not limited to) the topics listed on the main conference website.
 
-Submissions will undergo a single-blind reviewing process. Therefore, papers may include author and affiliation information, and freely make references to previously published material, and URLs.
+Submitted systems may be of the following types:
 
-Just as in previous years, we are incorporating ethical considerations in the review process. Authors will be allowed extra unlimited space after the main content for a broader impact statement or other discussions of ethics. Please review the [ACL code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics) before submitting.
+- Natural language processing systems or system components
 
-
-## Important Dates
-
-Important dates for the EACL 2026 System Demonstrations track will be announced soon.
-
-## Paper Submission Information
-
-### Topics of Interest
-
-Of interest are all topics related to theoretical and applied computational linguistics, such as (but not limited to) the topics listed on the [main conference call for papers page](../papers/). Submitted systems papers may be of the following types:
-
-- Natural Language Processing systems or system components
 - Application systems using language technology components
-- Software tools for Computational Linguistics research
-- Software for analysis, demonstration, or evaluations
+
+- Software tools for natural language processing research
+
+- Software for demonstration or evaluation
+
 - Software supporting learning or education
+
 - Tools for data visualization and annotation
+
+- Tools for model inspection
+
 - Development tools
 
-**Please note:** Commercial sales and marketing activities are not appropriate in the system demonstration track at EACL 2026.
+Papers describing accepted demonstrations will be published in a companion volume of the EACL 2026 conference proceedings. We require at least one of the authors to present a live demo during a demo session at EACL 2026, with an accompanying poster. At least one author of each accepted paper must register for EACL 2026 and present the demo. Please note: Commercial sales and marketing activities are not appropriate in the Demonstrations Program and should be arranged as part of the Exhibit Program.
 
+## Important Dates:
 
-### Submission Guidelines
+- Paper submission deadline: Monday, 1 December 2025
 
-All submissions should be made electronically via the official conference submission system, once it is announced.
+- Notification of acceptance: Tuesday, 10 February 2026
 
-Submissions must include the following:
+- Camera-ready submission: Friday, 20 February 2026
 
-1.  A **paper** describing the motivation and the technical details of the system, including visual aids (e.g., screenshots, snapshots, or diagrams). See examples of recently accepted demo papers in [ACL 2025](https://aclanthology.org/events/acl-2025/#-demo), [NAACL 2025](https://aclanthology.org/events/naacl-2025/#-demo), [EMNLP 2024](https://aclanthology.org/events/emnlp-2024/#-demos), and [EACL 2024](https://aclanthology.org/events/eacl-2024/#2024eacl-demo). The papers must be no more than six (6) pages long, plus unlimited extra space for an optional ethics/broader impact statement and also unlimited space for references. Please use the [official ACL style files](https://github.com/acl-org/acl-style-files). Accepted papers will be given one additional page of content, so that reviewers’ comments can be taken into account. Any papers that do not follow the official style guidelines and page limits will be automatically rejected.
+- Main Conference: Tuesday-Sunday, 24-29 March 2026
 
-2.  A **short video** (max. 2 minutes) demonstrating the system. This video will be used to evaluate the paper, but it will not be published unless requested. A screencast with audio narration is a natural choice for demos that can be presented on a screen. To ensure accessibility for deaf or hard-of-hearing viewers, we encourage authors to caption videos prior to submission. A video of a user interacting with the system can also be used, but should be self-explanatory. The production quality of the video is not of interest. We recommend that you publish your video on a service like YouTube or Vimeo and include the link in your paper.
+All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”). Note that there is no rebuttal stage.
 
-In addition, we strongly recommend that all demos be made available via one of the following formats: (a) a live demo website, or (b) a website with a downloadable installation package of the demo.
+## Submission Guidelines:
 
-### Submission Policy
+Submissions must include the following (all three components are mandatory; submissions missing any of them will be desk-rejected):
 
-The demo paper has to be original, written specifically for this conference, and cannot be submitted elsewhere. The paper must also report on a substantial improvement (>30%) if the system that is being described has been reported elsewhere before.
+### A Paper
 
-Authors submitting more than one demo paper to EACL 2026 must ensure that the submissions do not overlap significantly (>25%) with each other. Submissions of identical or closely related work to multiple tracks at EACL 2026 will be rejected by all tracks.
+- A paper submitted to accompany a demonstration should outline the design of the system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to natural language processing.
 
-### Reviewing Policy
+- Technical details of the system are required, including visual aids (e.g., screenshots, snapshots, or diagrams).
 
-Reviewing will be single-blind, and thus authors do not need to conceal their identity. The demo papers should include the authors’ names and affiliations. Self-references are also allowed. Relevant papers that meet formatting requirements will be assessed on the basis of their relevance to the demo track, contribution, clarity, completeness, and novelty.
+A paper can do this by addressing the following questions:
 
-### Ethics Policy
+- Motivation, Fit & Novelty - What problem does the system solve, why is it important, how does it fit the EACL community, and what is novel in both the underlying work and the demonstration compared to existing systems and related demos?
 
-Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work is an important consideration. We ask that all authors read the code and ensure that their work is conformant to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns about their work.
+- Related Work & Contribution - How well are relevant prior research and related demonstrations described, and how clearly is the system’s contribution positioned in relation to them?
 
-Authors will be allowed extra space after the 6th page for a broader impact statement or other discussions of ethics. The review form will include a section addressing these issues and papers flagged for ethical concerns will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted.
+- System & Demonstration Description - How clearly are the system architecture and functionality presented, who is the intended audience, and how well is the demonstration itself described, including the quality and usability of the user interface?
 
-### Best Demo Award
+- Evaluation, Availability & Licensing - How has the system been tested or validated (experiments, benchmarks, user studies), how can it be accessed (demo website or package), and under what license is it distributed?
 
-We will present a Best Demo Paper Award. The winner will be chosen based on the contribution and the completeness of the system, as assessed by the reviewers and also based on the live demo at the conference.
+- Presentation Quality - Is the paper clearly written, well structured, free from errors, and supported by appropriate visual aids (figures, screenshots, diagrams)?
 
-## Contact Information
+Note that this year, submissions that do not report any form of evaluation may be desk-rejected.
 
-The co-chairs for the 2026 Demo Track will be announced here. In the meantime, please direct general inquiries to the EACL 2026 organizing committee.
+Paper submission is electronic, using the **OpenReview conference management system**. The submission site can be found at
+
+https://openreview.net/group?id=eacl.org/EACL/2026/Demo
+
+Submissions can contain up to 6 pages (longer submissions will be desk rejected), plus unlimited extra space for an optional ethics/broader impact statement, and also unlimited space for references and informative appendices. Accepted papers will be given one additional page of content, so that reviewers’ comments can be taken into account.
+
+Submissions must conform to the EACL 2026 official style guidelines, and they must be in PDF format. Style files should meet the requirements of the EACL main conference. Submissions need to describe original, unpublished work, as publication in EACL will be archival. Any papers that do not follow the official style guidelines and page limits will be desk-rejected.
+
+### A Demonstration Video
+
+A short (at most 2.5 minutes) screencast video demonstrating the system together with your paper submission. This screencast will be used to evaluate the paper, but won’t be published unless requested. For demos that can be presented on a screen, a screencast with audio narration is the most suitable format. If this is not feasible, a video showcasing user interaction with the system may be utilized. Production quality is not a priority, so we encourage simply creating a screencast of the software being demoed with minimal to no editing. We encourage publishing your video on YouTube or a similar site and including the link in your paper. If you prefer not to upload the video publicly, please submit it as supplementary material in MPEG4 format when you submit your paper through the official website.
+
+Authors must include the demo video link both in the submitted PDF paper and in the OpenReview submission form.
+
+### Live Demo Website or Installable Package
+
+A link to a live demo website, or a link to a downloadable installation package of the demo. Note that this is a strict requirement enforced this year, and submissions that do not provide links will be desk-rejected. Exceptions will be made only in cases where sharing a link is clearly impossible, such as when special hardware is required. In such cases, authors must clearly state why a link cannot be provided.
+
+Authors must provide the demo website or package link both in the submitted PDF paper and in the OpenReview submission form.
+
+## Multiple Submission Policy
+
+We follow the Multiple Submission Policy of the CFPs of the EACL 2026 main conference. The paper cannot be submitted elsewhere while in review at EACL 2026. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops), as well as ARR. In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to the EACL 2026 System Demonstrations Track must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
+
+## Reviewing Policy
+
+Reviewing will be single-blind, so authors do not need to conceal their identity. The paper should include the authors’ names and affiliations. Self-references are also allowed.
+
+## Ethics Policy
+
+Authors are required to honor the ethical code set out in the ACM Code of Ethics. The ethical impact of our research, the use of data, and potential applications of our work have always been important considerations, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code and ensure that their work conforms to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics or have inadequately addressed legitimate ethical concerns about their work.
+
+Authors will be allowed extra space after the 6th page for a broader impact statement or other discussion of ethics. The EACL demonstration review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditionally accepted will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed.
+
+Demonstration Co-chairs
+
+- Danilo Croce
+
+- Jochen Leidner
+
+- Nafise Sadat Moosavi
+
+Contact: eacl-demo-chairs-2026@googlegroups.com
