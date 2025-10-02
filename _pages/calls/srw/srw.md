@@ -48,11 +48,11 @@ toc_icon: "cog"
 <div class="srw-quick-links" style="border:1px solid #ccc;border-radius:6px;padding:0.85rem 1rem;background:#f5f7fa;margin:1.5rem 0;">
 <strong>Submission Links</strong>
 <ul style="margin:0.5rem 0 0 1.1rem;">
-  <li>Pre-submission Mentorship: <em>Coming soon (TBA)</em></li>
+  <li>Pre-submission Mentorship: <a href="https://openreview.net/group?id=eacl.org/EACL/2026/SRW_Mentorship">https://openreview.net/group?id=eacl.org/EACL/2026/SRW_Mentorship</a></li>
   <li>Main SRW Paper Submission: <a href="https://openreview.net/group?id=eacl.org/EACL/2026/SRW">https://openreview.net/group?id=eacl.org/EACL/2026/SRW</a></li>
   <li>ARR Commitment Site: <em>Coming soon (TBA)</em></li>
 </ul>
-<small>ARR commitment and mentorship links will be added once OpenReview groups are live.</small>
+<small>ARR commitment link will be added once available.</small>
 </div>
 
 ## About the Student Research Workshop
@@ -136,7 +136,7 @@ For additional submission instructions, please check the [Author Guidelines]({{ 
 <p>Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for the formality of the paper including formatting before we match it with mentors.</p>
 <p>The participants will be assigned a mentor who will review and will provide feedback by December 1, 2025. This mentor will not be the same person who will review the final submission. The feedback will be in the form of guidelines and suggestions to improve the overall writing, which should ideally be incorporated before the actual submission deadline.</p>
 You CAN submit a paper at the SRW submission deadline even if you did not participate in the pre-submission mentoring. **If you did submit a draft for pre-submission mentoring, you will need to make a new submission for the final version of the paper. The submission website will have separate tracks for pre-submission mentorship and the final paper submission.**
-<p>The submission link for the Pre-submission Mentorship Program is [TBA].</p>
+<p>The submission link for the Pre-submission Mentorship Program is <a href="https://openreview.net/group?id=eacl.org/EACL/2026/SRW_Mentorship">https://openreview.net/group?id=eacl.org/EACL/2026/SRW_Mentorship</a>.</p>
 
 
 ## How to submit
