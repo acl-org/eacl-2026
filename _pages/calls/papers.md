@@ -26,6 +26,7 @@ The authors should contact ARR with any questions about the review process at [e
 
 As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
 
+**Submission link (ARR October 2025):** [OpenReview – ARR October 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/October){:target="_blank" rel="noopener"}
 ## Important Dates
 
 - ARR submission deadline: **6 October 2025**
@@ -39,6 +40,7 @@ As in recent years, some of the presentations at the conference will be for pape
 - Reviewer registration closes: **8 October 2025**
 - Reviewing: **5 – 10 November 2025**
 - Emergency reviews: **11 – 17 November 2025** -->
+
 
 
 ##### All deadlines are 11:59 PM UTC-12:00 (“anywhere on Earth”).
