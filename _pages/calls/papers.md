@@ -118,4 +118,7 @@ While we are open to different types of limitations, just mentioning that a set 
 
 ## Contact Information
 
-The Program Co-chairs for EACL 2026 will be announced here.
+For questions about the main CFP, please email the Program Chairs at
+**[eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com)**.
+You can find the Program Chairs’ names on the
+[organization page]({{ "/committees/organization/" | relative_url }}).
