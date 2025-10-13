@@ -22,7 +22,8 @@ We invite submissions describing innovations and implementations in all areas of
 
 Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-arr-and-acl-policies), there is no anonymity period requirement. Papers can be posted on arXiv or other online repositories at any time.
 
-**Submission link:** *to be announced*
+**Submission link:** [OpenReview – EACL 2026 Industry Track](https://openreview.net/group?id=eacl.org/EACL/2026/Industry_Track){:target="_blank" rel="noopener"}
+
 
 ## Topics
 
