@@ -3,7 +3,7 @@ title: "<br>The&nbsp;19th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/header.png"
+  overlay_image: "/assets/images/new_header.png"
   caption: 'Image courtesy of
     <a href="https://www.visitmorocco.com/en/travel-info/gallery" target="_blank" rel="noopener">
       Moroccan National Tourist Office
