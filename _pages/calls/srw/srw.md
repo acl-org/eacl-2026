@@ -43,6 +43,70 @@ toc_icon: "cog"
   border-color: #999 #999 #444;
   border-bottom-color: #222;
 }
+
+/* News feed styles */
+.news-feed {
+  --nf-bg: #ffffff;
+  --nf-border: #e5e7eb;
+  --nf-text: #111827;
+  --nf-muted: #6b7280;
+  --nf-accent: #2563eb;
+  --nf-accent-weak: rgba(37, 99, 235, 0.08);
+
+  background: var(--nf-bg);
+  border: 1px solid var(--nf-border);
+  border-radius: 8px;
+  padding: 14px 12px; /* more breathing room */
+  margin: 1rem 0 1.75rem; /* avoid collisions with neighbors */
+  max-height: 280px;
+  overflow: auto;
+  position: relative;
+  box-sizing: border-box;
+  clear: both; /* in case previous sections use floats */
+}
+.news-feed::-webkit-scrollbar { width: 8px; }
+.news-feed::-webkit-scrollbar-thumb {
+  background-color: #cbd5e1;
+  border-radius: 4px;
+}
+.news-feed__list { list-style: none; margin: 0; padding: 0; }
+.news-feed__item {
+  display: grid;
+  grid-template-columns: 120px 1fr; /* wider date column to prevent wrap/overlap */
+  gap: 1.5em; /* a bit more separation */
+  align-items: start;
+  padding: 12px 10px;
+  border-left: 3px solid transparent;
+  border-radius: 6px;
+  border-top: 1px dashed var(--nf-border);
+}
+.news-feed__item:first-child { border-top: none; }
+.news-feed__item:hover {
+  background: var(--nf-accent-weak);
+  border-left-color: var(--nf-accent);
+}
+.news-feed__date { color: var(--nf-muted); white-space: nowrap; margin-top: 2px; line-height: 1.3; }
+.news-feed__content { color: var(--nf-text); line-height: 1.5; }
+.news-feed a { color: var(--nf-accent); text-decoration: none; }
+.news-feed a:hover { text-decoration: underline; }
+/* reduce top margin when News follows a heading */
+h2 + .news-feed { margin-top: 0.5rem; }
+@media (max-width: 600px) {
+  .news-feed__item { grid-template-columns: 1fr; gap: 6px; padding: 12px; }
+  .news-feed { max-height: 360px; margin: 0.75rem 0 1.5rem; }
+  .news-feed__date { white-space: normal; }
+}
+
+/* Ensure long URLs in quick links wrap within container */
+.srw-quick-links, .srw-quick-links li, .srw-quick-links a {
+  overflow-wrap: anywhere; /* modern */
+  word-break: break-word;  /* fallback */
+}
+.srw-quick-links a {
+  white-space: normal;
+  display: inline-block;
+  max-width: 100%;
+}
 </style>
 
 <div class="srw-quick-links" style="border:1px solid #ccc;border-radius:6px;padding:0.85rem 1rem;background:#f5f7fa;margin:1.5rem 0;">
@@ -54,6 +118,20 @@ toc_icon: "cog"
 </ul>
 <small>ARR commitment link will be added once available.</small>
 </div>
+
+## News
+<div class="news-feed" role="feed" aria-label="Recent updates">
+  <ul class="news-feed__list">
+    <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-10-17">Oct 17, 2025</time>
+      <div class="news-feed__content">
+        Additional guideline on the use of generative AI writing assistance tools has been added.
+        See the SRW Author Guidelines <a href="{{ '/calls/srw/guidelines/#use-of-ai-writing-assistance' | relative_url }}">here</a>.
+      </div>
+    </li>
+  </ul>
+</div>
+
 
 ## About the Student Research Workshop
 

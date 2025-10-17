@@ -74,3 +74,10 @@ We require the first author of papers during submission to provide proof of stud
 
 EACL SRW 2026 enforces a strict policy against multiple submissions. Papers submitted to EACL SRW 2026 must not have been previously published, accepted for publication, or be currently under review at another archival venue (e.g., a journal, conference, or workshop). Furthermore, submissions, including those that overlap significantly in content or results, may not be sent to any other archival venue during the EACL SRW 2026 review period.
 Authors submitting more than one paper to EACL 2026 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single EACL 2026 track (Main, Industry, SRW or Demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
+
+## Use of AI Writing Assistance
+EACL SRW 2026 follows the ARR AI writing assistance policy. Authors must consult and comply with: [https://aclrollingreview.org/cfp#ai-writingcoding-assistance-policy](https://aclrollingreview.org/cfp#ai-writingcoding-assistance-policy).
+
+In addition to the ARR policy, the following specific guidelines apply to EACL SRW 2026 submissions given the spirit and purpose of the SRW:
+- The SRW encourages students to use generative AI only for refinement tasks such as grammar correction, improving clarity, or rephrasing, but not for generating substantive content, ideas, analysis, or conclusions in their research papers.
+- The core ideas, structure, analysis, and conclusions must be the student's own.
