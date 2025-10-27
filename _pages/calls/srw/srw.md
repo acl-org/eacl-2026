@@ -123,6 +123,12 @@ h2 + .news-feed { margin-top: 0.5rem; }
 <div class="news-feed" role="feed" aria-label="Recent updates">
   <ul class="news-feed__list">
     <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-10-27">Oct 27, 2025</time>
+      <div class="news-feed__content">
+        Following request from the community, the pre-submission mentorship deadline has been extended to October 29th, 2025.
+      </div>
+    </li>
+    <li class="news-feed__item" role="article">
       <time class="news-feed__date" datetime="2025-10-17">Oct 17, 2025</time>
       <div class="news-feed__content">
         Additional guideline on the use of generative AI writing assistance tools has been added.
@@ -152,7 +158,7 @@ Topics of interest for the SRW are the same as for the main EACL 2026 conference
 All accepted papers and thesis proposals will be presented in the main conference poster sessions, which will give students an opportunity to interact with and to present their work to a large and diverse audience, including top researchers in the field and assigned mentors.
 
 ## Important Dates
-* **Pre-submission mentorship deadline**: October 27th, 2025
+* **Pre-submission mentorship deadline**: ~~October 27th, 2025~~ October 29th, 2025
 * **Pre-submission mentorship feedback due**: December 1, 2025
 * **Direct Workshop paper submission deadline**: December 22, 2025
 * **ARR Commitment deadline**: TBC
@@ -198,7 +204,7 @@ All accepted papers and thesis proposals will be presented in the main conferenc
 <p>Submissions must follow the restrictions of the main conference.</p>
 * Short papers consist of up to four (4) pages of content, plus unlimited references. Upon acceptance, they will be given five (5) content pages in the proceedings.  
 * Long papers consist of up to eight (8) pages of content, plus unlimited references. Upon acceptance, they will be given nine (9) content pages in the proceedings.  
-* Thesis proposals consist of up to eight (8) pages of content, plus unlimited references. The title must begin with “Thesis Proposal:”. Upon acceptance, they will be given nine (9) content pages in the proceedings.  
+* Thesis proposals consist of up to eight (8) pages of content, plus unlimited references. **The title must begin with “Thesis Proposal:”.** Upon acceptance, they will be given nine (9) content pages in the proceedings.  
 
 Paper submissions must use the official ACL style templates. The paper templates are available as an Overleaf template and can also be downloaded directly via [https://aclrollingreview.org/cfp](https://aclrollingreview.org/cfp) under 'Paper Submission Process, Criteria and Templates'. All submissions must be in PDF format.
 
@@ -210,7 +216,7 @@ For additional submission instructions, please check the [Author Guidelines]({{ 
 
 ## Pre-submission Mentorship Program
 <p>The SRW offers students the opportunity to receive feedback prior to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student’s work, not to critique the work itself. Participation is optional but encouraged. The pre-submission mentorship is not anonymous.</p>
-<p>Students wishing to participate in the pre-submission mentorship must submit their paper draft by October 27th, 2025.</p>
+<p>Students wishing to participate in the pre-submission mentorship must submit their paper draft by October 29th, 2025.</p>
 <p>Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for the formality of the paper including formatting before we match it with mentors.</p>
 <p>The participants will be assigned a mentor who will review and will provide feedback by December 1, 2025. This mentor will not be the same person who will review the final submission. The feedback will be in the form of guidelines and suggestions to improve the overall writing, which should ideally be incorporated before the actual submission deadline.</p>
 You CAN submit a paper at the SRW submission deadline even if you did not participate in the pre-submission mentoring. **If you did submit a draft for pre-submission mentoring, you will need to make a new submission for the final version of the paper. The submission website will have separate tracks for pre-submission mentorship and the final paper submission.**
