@@ -43,6 +43,70 @@ toc_icon: "cog"
   border-color: #999 #999 #444;
   border-bottom-color: #222;
 }
+
+/* News feed styles */
+.news-feed {
+  --nf-bg: #ffffff;
+  --nf-border: #e5e7eb;
+  --nf-text: #111827;
+  --nf-muted: #6b7280;
+  --nf-accent: #2563eb;
+  --nf-accent-weak: rgba(37, 99, 235, 0.08);
+
+  background: var(--nf-bg);
+  border: 1px solid var(--nf-border);
+  border-radius: 8px;
+  padding: 14px 12px; /* more breathing room */
+  margin: 1rem 0 1.75rem; /* avoid collisions with neighbors */
+  max-height: 280px;
+  overflow: auto;
+  position: relative;
+  box-sizing: border-box;
+  clear: both; /* in case previous sections use floats */
+}
+.news-feed::-webkit-scrollbar { width: 8px; }
+.news-feed::-webkit-scrollbar-thumb {
+  background-color: #cbd5e1;
+  border-radius: 4px;
+}
+.news-feed__list { list-style: none; margin: 0; padding: 0; }
+.news-feed__item {
+  display: grid;
+  grid-template-columns: 120px 1fr; /* wider date column to prevent wrap/overlap */
+  gap: 1.5em; /* a bit more separation */
+  align-items: start;
+  padding: 12px 10px;
+  border-left: 3px solid transparent;
+  border-radius: 6px;
+  border-top: 1px dashed var(--nf-border);
+}
+.news-feed__item:first-child { border-top: none; }
+.news-feed__item:hover {
+  background: var(--nf-accent-weak);
+  border-left-color: var(--nf-accent);
+}
+.news-feed__date { color: var(--nf-muted); white-space: nowrap; margin-top: 2px; line-height: 1.3; }
+.news-feed__content { color: var(--nf-text); line-height: 1.5; }
+.news-feed a { color: var(--nf-accent); text-decoration: none; }
+.news-feed a:hover { text-decoration: underline; }
+/* reduce top margin when News follows a heading */
+h2 + .news-feed { margin-top: 0.5rem; }
+@media (max-width: 600px) {
+  .news-feed__item { grid-template-columns: 1fr; gap: 6px; padding: 12px; }
+  .news-feed { max-height: 360px; margin: 0.75rem 0 1.5rem; }
+  .news-feed__date { white-space: normal; }
+}
+
+/* Ensure long URLs in quick links wrap within container */
+.srw-quick-links, .srw-quick-links li, .srw-quick-links a {
+  overflow-wrap: anywhere; /* modern */
+  word-break: break-word;  /* fallback */
+}
+.srw-quick-links a {
+  white-space: normal;
+  display: inline-block;
+  max-width: 100%;
+}
 </style>
 
 <div class="srw-quick-links" style="border:1px solid #ccc;border-radius:6px;padding:0.85rem 1rem;background:#f5f7fa;margin:1.5rem 0;">
@@ -54,6 +118,26 @@ toc_icon: "cog"
 </ul>
 <small>ARR commitment link will be added once available.</small>
 </div>
+
+## News
+<div class="news-feed" role="feed" aria-label="Recent updates">
+  <ul class="news-feed__list">
+    <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-10-27">Oct 27, 2025</time>
+      <div class="news-feed__content">
+        Following request from the community, the pre-submission mentorship deadline has been extended to October 29th, 2025.
+      </div>
+    </li>
+    <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-10-17">Oct 17, 2025</time>
+      <div class="news-feed__content">
+        Additional guideline on the use of generative AI writing assistance tools has been added.
+        See the SRW Author Guidelines <a href="{{ '/calls/srw/guidelines/#use-of-ai-writing-assistance' | relative_url }}">here</a>.
+      </div>
+    </li>
+  </ul>
+</div>
+
 
 ## About the Student Research Workshop
 
@@ -74,7 +158,7 @@ Topics of interest for the SRW are the same as for the main EACL 2026 conference
 All accepted papers and thesis proposals will be presented in the main conference poster sessions, which will give students an opportunity to interact with and to present their work to a large and diverse audience, including top researchers in the field and assigned mentors.
 
 ## Important Dates
-* **Pre-submission mentorship deadline**: October 27th, 2025
+* **Pre-submission mentorship deadline**: ~~October 27th, 2025~~ October 29th, 2025
 * **Pre-submission mentorship feedback due**: December 1, 2025
 * **Direct Workshop paper submission deadline**: December 22, 2025
 * **ARR Commitment deadline**: TBC
@@ -120,7 +204,7 @@ All accepted papers and thesis proposals will be presented in the main conferenc
 <p>Submissions must follow the restrictions of the main conference.</p>
 * Short papers consist of up to four (4) pages of content, plus unlimited references. Upon acceptance, they will be given five (5) content pages in the proceedings.  
 * Long papers consist of up to eight (8) pages of content, plus unlimited references. Upon acceptance, they will be given nine (9) content pages in the proceedings.  
-* Thesis proposals consist of up to eight (8) pages of content, plus unlimited references. The title must begin with “Thesis Proposal:”. Upon acceptance, they will be given nine (9) content pages in the proceedings.  
+* Thesis proposals consist of up to eight (8) pages of content, plus unlimited references. **The title must begin with “Thesis Proposal:”.** Upon acceptance, they will be given nine (9) content pages in the proceedings.  
 
 Paper submissions must use the official ACL style templates. The paper templates are available as an Overleaf template and can also be downloaded directly via [https://aclrollingreview.org/cfp](https://aclrollingreview.org/cfp) under 'Paper Submission Process, Criteria and Templates'. All submissions must be in PDF format.
 
@@ -132,7 +216,7 @@ For additional submission instructions, please check the [Author Guidelines]({{ 
 
 ## Pre-submission Mentorship Program
 <p>The SRW offers students the opportunity to receive feedback prior to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student’s work, not to critique the work itself. Participation is optional but encouraged. The pre-submission mentorship is not anonymous.</p>
-<p>Students wishing to participate in the pre-submission mentorship must submit their paper draft by October 27th, 2025.</p>
+<p>Students wishing to participate in the pre-submission mentorship must submit their paper draft by October 29th, 2025.</p>
 <p>Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for the formality of the paper including formatting before we match it with mentors.</p>
 <p>The participants will be assigned a mentor who will review and will provide feedback by December 1, 2025. This mentor will not be the same person who will review the final submission. The feedback will be in the form of guidelines and suggestions to improve the overall writing, which should ideally be incorporated before the actual submission deadline.</p>
 You CAN submit a paper at the SRW submission deadline even if you did not participate in the pre-submission mentoring. **If you did submit a draft for pre-submission mentoring, you will need to make a new submission for the final version of the paper. The submission website will have separate tracks for pre-submission mentorship and the final paper submission.**
