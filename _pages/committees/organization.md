@@ -26,6 +26,9 @@ h3 + .committee-list {
 /* optional: a little space above each title */
 .page__content h3 { margin-top: 2rem; }
 
+/* contact line & thin divider (for ED&I section) */
+.committee-contact{margin:.25rem 0 .5rem;color:#4b5563;font-size:.95rem;}
+.heading-divider{border-top:1px solid #e5e7eb;margin:.25rem 0 1rem;}
 </style>
 
 {% comment %} Map short role categories -> display headings {% endcomment %}
@@ -80,6 +83,13 @@ h3 + .committee-list {
     {% endif %}
 
 ### {{ heading }}
+{% comment %} ED&I contact line (preferred loop) {% endcomment %}
+{% if r == "ED&I" or r == "Diversity and Inclusion" %}
+<p class="committee-contact">
+  Contact: <a href="mailto:eacl2026deichairs@gmail.com">eacl2026deichairs@gmail.com</a>
+</p>
+<div class="heading-divider"></div>
+{% endif %}
 <div class="committee-list">
   {%- assign _annot = "" -%}
   {%- for p in bucket.items -%}
@@ -133,6 +143,13 @@ h3 + .committee-list {
     {% endif %}
 
 ### {{ heading }}
+{% comment %} ED&I contact line (remaining-groups loop) {% endcomment %}
+{% if g.name == "ED&I" or g.name == "Diversity and Inclusion" %}
+<p class="committee-contact">
+  Contact: <a href="mailto:eacl2026deichairs@gmail.com">eacl2026deichairs@gmail.com</a>
+</p>
+<div class="heading-divider"></div>
+{% endif %}
 <div class="committee-list">
   {%- assign _annot = "" -%}
   {%- for p in g.items -%}
