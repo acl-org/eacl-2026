@@ -21,7 +21,7 @@ toc: false
 - [22nd Workshop on Multiword Expressions](https://multiword.org/mwe2026/)
 - [VarDial 2026: Thirteenth Workshop on NLP for Similar Languages, Varieties and Dialects](https://sites.google.com/view/vardial-2026/home)
 - [WASSA 2026: 15th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis](https://workshop-wassa.github.io/)
-- Seventh Workshop on Teaching Natural Language Processing *(website TBA)*
+- [Seventh Workshop on Teaching Natural Language Processing](https://sites.google.com/view/teachingnlp-eacl-2026)
 - [SIGHUM (LaTeCH-CLfL) 2026: 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/sighum-latech-clfl-2026/)
 - [7th AfricaNLP Workshop: Multilingual Multimodal LLMs](https://sites.google.com/view/africanlp2026)
 - [SIGTYP: 8th Workshop on Research in Computational Linguistic Typology and Multilingual NLP](https://sigtyp.github.io/index.html)
