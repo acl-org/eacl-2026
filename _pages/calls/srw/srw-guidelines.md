@@ -18,6 +18,7 @@ toc_icon: "cog"
     <li><a href="{{ '/calls/srw/' | relative_url }}">Call</a></li>
     <li class="active"><a href="{{ '/calls/srw/guidelines/' | relative_url }}">Author Guidelines</a></li>
     <li><a href="{{ '/calls/srw/faq/' | relative_url }}">FAQ</a></li>
+    <li><a href="{{ '/calls/srw/mentor-guidelines/' | relative_url }}">Mentor Guidelines</a></li>
   </ul>
 </nav>
 
