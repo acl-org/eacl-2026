@@ -18,6 +18,7 @@ toc_icon: "cog"
     <li class="active"><a href="{{ '/calls/srw/' | relative_url }}">Call</a></li>
     <li><a href="{{ '/calls/srw/guidelines/' | relative_url }}">Author Guidelines</a></li>
     <li><a href="{{ '/calls/srw/faq/' | relative_url }}">FAQ</a></li>
+    <li><a href="{{ '/calls/srw/mentor-guidelines/' | relative_url }}">Mentor Guidelines</a></li>
   </ul>
 </nav>
 
@@ -122,6 +123,18 @@ h2 + .news-feed { margin-top: 0.5rem; }
 ## News
 <div class="news-feed" role="feed" aria-label="Recent updates">
   <ul class="news-feed__list">
+    <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-11-01">Nov 1, 2025</time>
+      <div class="news-feed__content">
+        The mentor guidelines have been published. Please see <a href="{{ '/calls/srw/mentor-guidelines/' | relative_url }}">here</a>.
+      </div>
+    </li>
+    <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-10-29">Oct 29, 2025</time>
+      <div class="news-feed__content">
+        The pre-submission mentorship deadline has passed. We have received a record number of 52 submissions for mentorship! Thank you to all students and mentors for your participation.
+      </div>
+    </li>
     <li class="news-feed__item" role="article">
       <time class="news-feed__date" datetime="2025-10-27">Oct 27, 2025</time>
       <div class="news-feed__content">
