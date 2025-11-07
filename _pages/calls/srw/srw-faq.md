@@ -50,6 +50,9 @@ toc_icon: "cog"
 A: Yes, as long as the other venues follow a similar double-submission policy. We refer authors to the detailed requirements outlined in our Author Guidelines.
 For papers submitted to the EACL main conference, please note that according to the ACL policy, authors are not permitted to submit the same work to another archival venue (such as SRW) while the paper is under review, committed, or awaiting a decision.
 
+### Q: Can I commit my ARR submission to SRW if it is rejected from the EACL main conference?
+A: Yes, you can commit your ARR submission to SRW if it is rejected from the EACL main conference, provided that it adheres to the SRW submission requirements. The deadline for committing ARR submissions to SRW is January 6, 2026.
+
 ### Q: If accepted, can a paper be published in the proceedings, even if the student cannot take part at the workshop?
 A: The EACL organizing team will attempt to provide travel grants to authors of all accepted papers. However, if things still don’t work out, we can discuss remote presentation options should your paper be accepted.
 

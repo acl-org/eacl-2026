@@ -115,14 +115,19 @@ h2 + .news-feed { margin-top: 0.5rem; }
 <ul style="margin:0.5rem 0 0 1.1rem;">
   <li>Pre-submission Mentorship: <a href="https://openreview.net/group?id=eacl.org/EACL/2026/SRW_Mentorship">https://openreview.net/group?id=eacl.org/EACL/2026/SRW_Mentorship</a></li>
   <li>Main SRW Paper Submission: <a href="https://openreview.net/group?id=eacl.org/EACL/2026/SRW">https://openreview.net/group?id=eacl.org/EACL/2026/SRW</a></li>
-  <li>ARR Commitment Site: <em>Coming soon (TBA)</em></li>
+  <li>ARR Commitment Site: <a href="https://openreview.net/group?id=eacl.org/EACL/2026/SRW_ARR_Commitment">https://openreview.net/group?id=eacl.org/EACL/2026/SRW_ARR_Commitment</a></li>
 </ul>
-<small>ARR commitment link will be added once available.</small>
 </div>
 
 ## News
 <div class="news-feed" role="feed" aria-label="Recent updates">
   <ul class="news-feed__list">
+    <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-11-10">Nov 7, 2025</time>
+      <div class="news-feed__content">
+        The ARR commitment site is now up. The deadline for ARR commitment is January 6, 2026.
+      </div>
+    </li>
     <li class="news-feed__item" role="article">
       <time class="news-feed__date" datetime="2025-11-01">Nov 1, 2025</time>
       <div class="news-feed__content">
@@ -168,13 +173,13 @@ Topics of interest for the SRW are the same as for the main EACL 2026 conference
 * **Improving your publication record**: Publishing a paper as an undergraduate or as a Master student is beneficial when applying for a PhD program. Publishing a paper in an EACL SRW workshop can be really helpful for improving students’ publication records.
 * **Negative results**: we encourage the submission of studies with negative results providing insights on why and in which scenarios a particular method fails.
 
-All accepted papers and thesis proposals will be presented in the main conference poster sessions, which will give students an opportunity to interact with and to present their work to a large and diverse audience, including top researchers in the field and assigned mentors.
+All accepted papers and thesis proposals will be presented in **the main conference poster sessions**, which will give students an opportunity to interact with and to present their work to a large and diverse audience, including top researchers in the field and assigned mentors.
 
 ## Important Dates
 * **Pre-submission mentorship deadline**: ~~October 27th, 2025~~ October 29th, 2025
 * **Pre-submission mentorship feedback due**: December 1, 2025
 * **Direct Workshop paper submission deadline**: December 22, 2025
-* **ARR Commitment deadline**: TBC
+* **ARR Commitment deadline**: January 6, 2025
 * **Notification of acceptance**: February 2, 2025
 * **Camera-ready papers due**: February 16, 2025
 * **Grant application deadline**: TBC
@@ -239,7 +244,8 @@ You CAN submit a paper at the SRW submission deadline even if you did not partic
 ## How to submit
 There are two routes for paper submission:  
 * **Direct Submission**: Papers should be submitted through OpenReview. Each paper will receive a minimum of three reviews. The review process will follow the ARR review policy. The submission link is [https://openreview.net/group?id=eacl.org/EACL/2026/SRW](https://openreview.net/group?id=eacl.org/EACL/2026/SRW).
-* **ACL Rolling Review (ARR) Papers**: Papers which have already been reviewed through the ARR system can be committed to the SRW. These papers will not be re-reviewed. Program Chairs will make acceptance decisions based on the ARR reviews and meta-reviews. ARR papers should be committed through OpenReview. When making a new submission, you will be able to specify the details of the ARR paper that you want to commit, including the OpenReview ID of your paper. The commitment site link is [TBA].
+* **ACL Rolling Review (ARR) Papers**: Papers which have already been reviewed through the ARR system can be committed to the SRW. These papers will not be re-reviewed. Program Chairs will make acceptance decisions based on the ARR reviews and meta-reviews. ARR papers should be committed through OpenReview. When making a new submission, you will be able to specify the details of the ARR paper that you want to commit, including the OpenReview ID of your paper. The commitment site link is [https://openreview.net/group?id=eacl.org/EACL/2026/SRW_ARR_Commitment](https://openreview.net/group?id=eacl.org/EACL/2026/SRW_ARR_Commitment).  
+The deadline for ARR commitment is January 6, 2026, which is shortly after the EACL main confernece notification date (January 3, 2026). Pappers rejected at the EACL main conference can be committed to the SRW if they meet the SRW submission requirements.
 
 
 
