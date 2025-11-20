@@ -179,11 +179,11 @@ All accepted papers and thesis proposals will be presented in **the main confere
 * **Pre-submission mentorship deadline**: ~~October 27th, 2025~~ October 29th, 2025
 * **Pre-submission mentorship feedback due**: December 1, 2025
 * **Direct Workshop paper submission deadline**: December 22, 2025
-* **ARR Commitment deadline**: January 6, 2025
-* **Notification of acceptance**: February 2, 2025
-* **Camera-ready papers due**: February 16, 2025
-* **Grant application deadline**: TBC
-* **Grant application notification**: TBC
+* **ARR Commitment deadline**: January 6, 2026
+* **Notification of acceptance**: February 2, 2026
+* **Camera-ready papers due**: February 16, 2026
+* **Grant application deadline**: February 9, 2026
+* **Grant application notification**: February 16, 2026
 * **Workshop dates**: TBC (the same as the main conference)
 
 **All deadlines are 11:59PM UTC-12 ("anywhere on Earth").**
