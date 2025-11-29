@@ -12,6 +12,11 @@ excerpt: "<br/><br/>"
 ---
 ## News
 
+<div class="notice--warning" markdown="1">
+**ACL/EACL 2026 statement on the OpenReview incident:**  
+[Read the official announcement on the ACL portal](https://www.aclweb.org/portal/content/statement-acl-and-eacl-2026-organizers-1).
+</div>
+
 <div class="notice--info" markdown="1">
   <h2 id="welcome-to-eacl-2026">Welcome!</h2>
   The website for EACL 2026 is live. The Call for Papers is announced—see the <a href="{{ "/calls/papers/" | relative_url }}">CFP page</a> for details.
