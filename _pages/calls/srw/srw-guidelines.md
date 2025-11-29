@@ -18,6 +18,7 @@ toc_icon: "cog"
     <li><a href="{{ '/calls/srw/' | relative_url }}">Call</a></li>
     <li class="active"><a href="{{ '/calls/srw/guidelines/' | relative_url }}">Author Guidelines</a></li>
     <li><a href="{{ '/calls/srw/faq/' | relative_url }}">FAQ</a></li>
+    <li><a href="{{ '/calls/srw/mentor-guidelines/' | relative_url }}">Mentor Guidelines</a></li>
   </ul>
 </nav>
 
@@ -69,6 +70,8 @@ We require the first author of papers during submission to provide proof of stud
 - A picture of your student card
 - A study enrollment document from your current institution
 - A transcript of your study
+
+Please ensure that the document clearly indicates your name, the institution's name, and **the validity period**. If your student status cannot be verified through the provided document, your submission may be subject to rejection.
 
 ## Double Submission
 
