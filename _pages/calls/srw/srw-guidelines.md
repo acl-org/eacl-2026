@@ -73,9 +73,10 @@ We require the first author of papers during submission to provide proof of stud
 
 Please ensure that the document clearly indicates your name, the institution's name, and **the validity period**. If your student status cannot be verified through the provided document, your submission may be subject to rejection.
 
-## Double Submission
+## Multiple Submission
 
 EACL SRW 2026 enforces a strict policy against multiple submissions. Papers submitted to EACL SRW 2026 must not have been previously published, accepted for publication, or be currently under review at another archival venue (e.g., a journal, conference, or workshop). Furthermore, submissions, including those that overlap significantly in content or results, may not be sent to any other archival venue during the EACL SRW 2026 review period.
+This policy also applies to the pre-submission mentorship program.
 Authors submitting more than one paper to EACL 2026 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single EACL 2026 track (Main, Industry, SRW or Demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
 
 ## Use of AI Writing Assistance
