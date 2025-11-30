@@ -90,6 +90,10 @@ Feel free to include any additional comments or advice that you believe would be
 
 Moreover, this section can be the place to mention any minor issues (e.g., typos, formatting errors) that you noticed during your review.
 
+### 5. Supplementary Material
+If you have an annotated version of the paper with comments or suggestions, you can upload it as supplementary material. This can be particularly helpful for student authors to see specific examples of areas that need improvement.
+
+
 ## Contact
 If you have any questions or need further assistance during the mentoring process, please feel free to reach out to the SRW Chairs at <a href="mailto:eaclsrw@gmail.com">eaclsrw@gmail.com</a>. While you can also reach out to us via OpenReview, email is preferred and faster for urgent matters as notifications on OpenReview are turned off for PC members by default.
 

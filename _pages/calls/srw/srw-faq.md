@@ -71,4 +71,7 @@ Yes, a systematic literature survey is suitable for submission to the EACL SRW, 
 ### Q: Is a researcher eligible to submit their work to EACL SRW if they graduated before the submission date but conducted the research during their PhD and remain affiliated with their university?
 No, first authors must be current students at the time of submission. The EACL SRW is intended exclusively for current students, so graduates are not eligible to submit even if the research was completed during their PhD studies.
 
+### Q: Can I submit a paper to the mentorship program while also concurrently submitting it to another workshop or conference (e.g., ARR)?
+No, you cannot submit a paper to the mentorship program if it is currently under review or has been submitted to another venue (like a workshop, conference, or ARR). Submitting the same work simultaneously to multiple places duplicates the efforts of our volunteer reviewers and mentors, which wastes valuable community resources. Furthermore, the mentorship program is specifically designed to provide focused guidance and feedback before you submit your work for the formal SRW review process; it is intended as an improvement step, not a parallel review channel.
+
 Please contact us at <a href="mailto:eaclsrw@gmail.com">eaclsrw@gmail.com</a> if you have any other questions.

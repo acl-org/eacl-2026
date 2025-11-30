@@ -123,6 +123,12 @@ h2 + .news-feed { margin-top: 0.5rem; }
 <div class="news-feed" role="feed" aria-label="Recent updates">
   <ul class="news-feed__list">
     <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-11-30">Nov 30, 2025</time>
+      <div class="news-feed__content">
+        The author guidelines and FAQ have been updated to clarify the multiple submission policy, which also applies to the pre-submission mentorship program.
+      </div>
+    </li>
+    <li class="news-feed__item" role="article">
       <time class="news-feed__date" datetime="2025-11-10">Nov 7, 2025</time>
       <div class="news-feed__content">
         The ARR commitment site is now up. The deadline for ARR commitment is January 6, 2026.
@@ -247,7 +253,7 @@ There are two routes for paper submission:
 * **ACL Rolling Review (ARR) Papers**: Papers which have already been reviewed through the ARR system can be committed to the SRW. These papers will not be re-reviewed. Program Chairs will make acceptance decisions based on the ARR reviews and meta-reviews. ARR papers should be committed through OpenReview. When making a new submission, you will be able to specify the details of the ARR paper that you want to commit, including the OpenReview ID of your paper. The commitment site link is [https://openreview.net/group?id=eacl.org/EACL/2026/SRW_ARR_Commitment](https://openreview.net/group?id=eacl.org/EACL/2026/SRW_ARR_Commitment).  
 The deadline for ARR commitment is January 6, 2026, which is shortly after the EACL main confernece notification date (January 3, 2026). Pappers rejected at the EACL main conference can be committed to the SRW if they meet the SRW submission requirements.
 
-
+We require all authors to have an OpenReview account to submit their papers. If you do not have an OpenReview account, please create one at [https://openreview.net/signup](https://openreview.net/signup) well in advance of the submission deadline. We do not accept late submissions due to account creation issues except for exceptional circumstances.
 
 ## Grants
 We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted here.
