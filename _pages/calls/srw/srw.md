@@ -123,6 +123,12 @@ h2 + .news-feed { margin-top: 0.5rem; }
 <div class="news-feed" role="feed" aria-label="Recent updates">
   <ul class="news-feed__list">
     <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-12-01">Dec 1, 2025</time>
+      <div class="news-feed__content">
+        The author guidelines and FAQ have been updated to include a limit on first-author submissions.
+      </div>
+    </li>
+    <li class="news-feed__item" role="article">
       <time class="news-feed__date" datetime="2025-11-30">Nov 30, 2025</time>
       <div class="news-feed__content">
         The author guidelines and FAQ have been updated to clarify the multiple submission policy, which also applies to the pre-submission mentorship program.
