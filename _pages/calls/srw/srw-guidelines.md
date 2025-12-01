@@ -81,9 +81,9 @@ Authors submitting more than one paper to EACL 2026 must ensure that the submiss
 
 ## Limit on First-Author Submissions
 
-**Each first author** is limited to submitting **no more than one (1) paper** to EACL SRW 2026. This policy is in place to ensure that all students have an equal opportunity to present their work and receive feedback.
-If an author is found to have submitted more than one paper as the first author, all submissions from that author will be desk-rejected without review.
-This policy applies only to the first author; co-authors may be involved in multiple submissions as long as they are not the first author.
+**Each first author** is limited to submitting **no more than two (2) papers** to EACL SRW 2026, **provided they are of different submission types.** This policy is in place to ensure that all students have an equal opportunity to present their work and receive feedback. Specifically, each individual may submit **up to one paper** for "Thesis Proposal" and **up to one paper** for "Research Paper".
+
+If an author is found to have submitted more than the allowed limit (e.g., two research papers), all submissions from that author will be desk-rejected without review. This policy applies only to the first author; co-authors may be involved in multiple submissions as long as they are not the first author.
 
 
 ## Use of AI Writing Assistance

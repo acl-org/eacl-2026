@@ -78,7 +78,7 @@ No, you cannot submit a paper to the mentorship program if it is currently under
 Yes, high school students are eligible to submit papers to EACL SRW as long as they meet the other submission requirements outlined in our Call for Papers and Author Guidelines.
 
 ### Q: Can I submit multiple papers to EACL SRW 2026 as the first author?
-No, we limit the number of submissions from the same first author to one (1) paper to EACL SRW 2026. This policy is in place to ensure that all students have an equal opportunity to present their work and receive feedback. If an author is found to have submitted more than one paper as the first author, all submissions from that author will be desk-rejected without review.
+Yes, each first author is allowed to submit up to two (2) papers to EACL SRW 2026, provided that the submissions are of different types (i.e., one "Thesis Proposal" and one "Research Paper"). This policy is designed to ensure that all students have an equal opportunity to present their work and receive feedback. If an author exceeds this limit (for example, by submitting two first-author research papers), all submissions from that author will be desk-rejected without review.
 
 
 Please contact us at <a href="mailto:eaclsrw@gmail.com">eaclsrw@gmail.com</a> if you have any other questions.
