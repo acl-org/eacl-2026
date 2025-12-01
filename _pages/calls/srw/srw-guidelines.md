@@ -79,6 +79,13 @@ EACL SRW 2026 enforces a strict policy against multiple submissions. Papers subm
 This policy also applies to the pre-submission mentorship program.
 Authors submitting more than one paper to EACL 2026 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single EACL 2026 track (Main, Industry, SRW or Demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
 
+## Limit on First-Author Submissions
+
+**Each first author** is limited to submitting **no more than two (2) papers** to EACL SRW 2026, **provided they are of different submission types.** This policy is in place to ensure that all students have an equal opportunity to present their work and receive feedback. Specifically, each individual may submit **up to one paper** for "Thesis Proposal" and **up to one paper** for "Research Paper".
+
+If an author is found to have submitted more than the allowed limit (e.g., two research papers), all submissions from that author will be desk-rejected without review. This policy applies only to the first author; co-authors may be involved in multiple submissions as long as they are not the first author.
+
+
 ## Use of AI Writing Assistance
 EACL SRW 2026 follows the ARR AI writing assistance policy. Authors must consult and comply with: [https://aclrollingreview.org/cfp#ai-writingcoding-assistance-policy](https://aclrollingreview.org/cfp#ai-writingcoding-assistance-policy).
 
