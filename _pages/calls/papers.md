@@ -18,9 +18,13 @@ The 19th Conference of the European Chapter of the Association for Computational
 
 ## Submit
 
-Paper submission and commitment will be handled via the ACL Rolling Review (ARR) system. Specific links for submission and commitment to EACL 2026 will be made available closer to the deadlines.
+
 
 For paper submission, EACL 2026 will use the [ACL Rolling Review (ARR) system](https://aclrollingreview.org/cfp). ARR works on a two-monthly review cycle. The "paper submission deadline" will be the latest date that new papers can be submitted to ARR and be reviewed in time to be considered by EACL 2026. Papers submitted in previous ARR rounds can also be considered. The "paper commitment deadline" is the date by which authors must choose, based on the reviews so far, whether to "commit" their ARR papers to be considered by EACL 2026.
+
+**Commitment site:**  
+[OpenReview — EACL 2026 Conference Commitment](https://openreview.net/group?id=eacl.org/EACL/2026/Conference&referrer=%5BHomepage%5D(%2F)){:target="_blank" rel="noopener"}
+
 
 The authors should contact ARR with any questions about the review process at [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org).
 
