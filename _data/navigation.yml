@@ -18,6 +18,10 @@ attending:
     children:
       - title: Visa Requirements
         url: /participants/visa/
+      - title: Conference Venue
+        url: /participants/venue/
+        # url: "{{ '/participants/venue/' | relative_url }}"
+
 
 program:
   - title: Program
