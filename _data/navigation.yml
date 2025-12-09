@@ -9,7 +9,7 @@ main:
   - title: "Registration"
     url: /registration/
   - title: "Program"
-    url: /program/main/
+    url: /program/overview/
   - title: "Sponsors"
     url: /sponsors/
 
@@ -27,7 +27,7 @@ program:
   - title: Program
     children:
       - title: "EACL 2026 Program of Events"
-        url: /program/main/
+        url: /program/overview/
       - title: "Invited Speakers"
         url: /program/invited/
       - title: "Workshops"
