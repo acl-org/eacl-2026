@@ -2,9 +2,9 @@
 title: Sponsorship
 layout: single
 excerpt: "EACL 2026 Sponsorship"
-permalink: /sponsors
+permalink: /sponsors/
 sidebar:
-  nav: faq
+  nav: sponsors
 toc: false
 ---
 
@@ -38,30 +38,3 @@ If your organization is interested in sponsoring the EACL, please refer to our *
 <div class="notice--warning" markdown="1">
 **Limited spots available!** The deadline to sponsor **EACL 2026** is **February 6, 2026**.
 </div>
-
-<!-- ---
-title: "Sponsors"
-layout: single
-excerpt: "EACL 2026 Sponsorship"
-permalink: /sponsors
-sidebar:
-  nav: about
----
-
-EACL 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
-
-If your organization is interested in sponsoring the EACL, please refer to our **Sponsorship Booklet** for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email
-[**sponsorship@aclweb.org**](mailto:sponsorship@aclweb.org), and the EACL Sponsorship Chairs:
-**Laurent Besacier** ([laurent.besacier@naverlabs.com](mailto:laurent.besacier@naverlabs.com)) and
-**Yassine Benajiba** ([Yassine.benajiba@oracle.com](mailto:Yassine.benajiba@oracle.com)).
-
-<p>
-  <a class="btn btn--primary" href="{{ '/assets/docs/EACL2026-Sponsorship-Booklet.pdf' | relative_url }}" target="_blank" rel="noopener">
-    Download Sponsorship Booklet (PDF)
-  </a>
-</p>
-
-<div class="notice--warning" markdown="1">
-**Limited spots available!** The deadline to sponsor **EACL 2026** is **February 6, 2026**.
-</div>
- -->
