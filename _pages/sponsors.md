@@ -1,5 +1,5 @@
 ---
-title: Sponsorship
+title: Sponsors
 layout: single
 excerpt: "EACL 2026 Sponsorship"
 permalink: /sponsors/
@@ -8,21 +8,7 @@ sidebar:
 toc: false
 ---
 
-<!-- # Sponsorship Opportunities
-
-We invite you to sponsor the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
-
-Sponsoring EACL 2026 is an excellent opportunity to support the natural language processing community and to gain visibility for your organization among a diverse group of leading academic and industry researchers.
-
----
-
-### Sponsorship Brochure
-
-The EACL 2026 sponsorship brochure, which will detail the different sponsorship tiers and their benefits, will be made available here in due course.
-
-For preliminary inquiries, please feel free to reach out to the EACL 2026 Sponsorship Chairs (contact details to be announced). We thank you for your interest and support. -->
-
-EACL 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
+<!-- EACL 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
 
 If your organization is interested in sponsoring the EACL, please refer to our **Sponsorship Booklet** for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email
 [**sponsorship@aclweb.org**](mailto:sponsorship@aclweb.org), and the EACL Sponsorship Chairs:
@@ -37,4 +23,58 @@ If your organization is interested in sponsoring the EACL, please refer to our *
 
 <div class="notice--warning" markdown="1">
 **Limited spots available!** The deadline to sponsor **EACL 2026** is **February 6, 2026**.
+</div>  -->
+
+
+
+EACL 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
+
+If your organization is interested in sponsoring the EACL, please refer to our [**Sponsorship Booklet**](#) for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email ACL Sponsorship Director, **Joel Tetreault** ([sponsorship@aclweb.org](mailto:sponsorship@aclweb.org)), and the EACL Sponsorship Chairs: **Laurent Besacier** ([laurent.besacier@naverlabs.com](mailto:laurent.besacier@naverlabs.com)) and **Yassine Benajiba** ([Yassine.benajiba@oracle.com](mailto:Yassine.benajiba@oracle.com)).
+
+<!-- <div style="text-align: center; margin-top: 20px; margin-bottom: 30px;">
+  <a class="btn btn--primary btn--large" href="{{ '/assets/docs/EACL2026-Sponsorship-Booklet.pdf' | relative_url }}" target="_blank" rel="noopener">
+    Download Sponsorship Booklet (PDF)
+  </a>
+</div> -->
+
+<div class="notice--warning" markdown="1">
+**Limited spots available!** The deadline to sponsor **EACL 2026** is **February 6, 2026**.
 </div>
+
+
+## Diamond
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; align-items: center; margin-bottom: 40px;">
+  </div>
+
+## Platinum
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-bottom: 40px;">
+  </div>
+
+## Gold
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-bottom: 40px;">
+  </div>
+
+## Silver
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
+  </div>
+
+## Bronze
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
+  </div>
+
+## Publisher
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
+  </div>
+
+## Diversity & Inclusion
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
+  </div>
+
+
