@@ -10,45 +10,60 @@ header:
     </a>.'
 excerpt: "<br/><br/>"
 ---
-## News
 
-<div class="notice--warning" markdown="1">
-**ACL/EACL 2026 statement on the OpenReview incident:**  
-[Read the official announcement on the ACL portal](https://www.aclweb.org/portal/content/statement-acl-and-eacl-2026-organizers-1).
-</div>
 
-<div class="notice--info" markdown="1">
-  <h2 id="welcome-to-eacl-2026">Welcome!</h2>
-  The website for EACL 2026 is live. The Call for Papers is announced—see the <a href="{{ "/calls/papers/" | relative_url }}">CFP page</a> for details.
-</div>
-<div class="notice--info" markdown="1">
-  <h2 id="industry-track">EACL Industry Track</h2>
-  The Industry Track Call for Papers is announced—see the
-  <a href="{{ "/calls/industry/" | relative_url }}">CFP page</a> for details.
-</div>
-<div class="notice--info" markdown="1">
-  <h2 id="industry-track">EACL Student Research Workshop</h2>
-  The Student Research Workshop Call for Papers is announced—see the
-  <a href="{{ "/calls/srw/" | relative_url }}">CFP page</a> for details.
-</div>
-<div class="notice--info" markdown="1">
-  <h2 id="System-track">EACL System Demonstrations</h2>
-  Call for System Demonstrations—see the
-  <a href="{{ "/calls/demos/" | relative_url }}">CFP page</a> for details.
-</div>
 
 ## Welcome!
 
-Welcome to the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas concerned with computational approaches to natural language.
+Welcome to the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). EACL 2026 will be held in Rabat, Morocco, from March 24–29, 2026. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas concerned with computational approaches to natural language. Here are some of our events and news.
+
+
+## News
+
+<div class="notice--info" markdown="1">
+**December 10, 2025**  
+The list of accepted tutorials is out and available in the [EACL 2026 Tutorials page](https://2026.eacl.org/program/tutorials/).
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="main-conference">EACL Main Conference</h2>
+  The Main Conference Call for Commitments is on <strong>December 14, 2025</strong> — see the
+  <a href="{{ "/calls/papers/" | relative_url }}">CFP page</a> for details.
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="workshops">EACL Workshops</h2>
+  The list of accepted workshops is available in the [EACL 2026 Workshops page](https://2026.eacl.org/program/workshops/).
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="tutorials">EACL Tutorials</h2>
+  The list of accepted tutorials is available in the [EACL 2026 Tutorials page](https://2026.eacl.org/program/tutorials/).
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="industry-track">EACL Industry Track</h2>
+  The Industry Track Call for Papers is announced — see the [CFP page](https://2026.eacl.org/calls/industry/) for details.
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="srw">EACL Student Research Workshop</h2>
+  The Student Research Workshop Call for Papers is announced — see the [CFP page](https://2026.eacl.org/calls/srw/) for details.
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="system-track">EACL System Demonstrations</h2>
+  Call for System Demonstrations — see the [CFP page](https://2026.eacl.org/calls/demos/) for details.
+</div>
 
 ## Important Dates
 
 *(All deadlines 23:59 AoE)*
 
-- ARR submission deadline: **6 October 2025**
-- Author response & reviewer discussion: **18 – 24 November 2025**
-- EACL commitment deadline: **14 December 2025**
-- Notification: **3 January 2026**
+- **Commitment deadline for EACL 2026:** December 14, 2025  
+- **Notification of acceptance:** January 3, 2026  
+- **Overall Conference:** March 24–29, 2026  
+
 
 ## EACL 2026 Anti-Harassment Policy
 
