@@ -15,7 +15,6 @@ toc_title: "On this page"
 | Time | Event |
 | :--- | :--- |
 | 08:30 - 17:00 | **Registration** |
-<!-- |  | **Workshops: Workshop numbers, times, and room locations TBA** | -->
 |  | **LChange: The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange'26)** |
 |  | **HeaLing: The Proceedings for the Workshop on Linguistic Analysis for Health (HeaLing)** |
 |  | **MWE: The Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)** |
@@ -33,7 +32,6 @@ toc_title: "On this page"
 | Time | Event |
 | :--- | :--- |
 | 08:30 - 17:00 | **Registration** |
-|  | **Workshops: Workshop numbers, times, and room locations TBA** |
 |  | **Field Matters: The Proceedings of the Fifth Workshop on NLP Applications to Field Linguistics** |
 |  | **SIGTURK: The Proceedings for the SIGTURK 2026 Workshop** |
 |  | **VarDial: The Proceedings for the Thirteenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2026)** |
