@@ -15,7 +15,7 @@ toc_title: "On this page"
 | Time | Event |
 | :--- | :--- |
 | 08:30 - 17:00 | **Registration** |
-|  | **Workshops: Workshop numbers, times, and room locations TBA** |
+<!-- |  | **Workshops: Workshop numbers, times, and room locations TBA** | -->
 |  | **LChange: The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange'26)** |
 |  | **HeaLing: The Proceedings for the Workshop on Linguistic Analysis for Health (HeaLing)** |
 |  | **MWE: The Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)** |
