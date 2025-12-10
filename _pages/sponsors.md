@@ -42,7 +42,7 @@ If your organization is interested in sponsoring the EACL, please refer to our [
 </div>
 
 
-## Diamond
+<!-- ## Diamond
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; align-items: center; margin-bottom: 40px;">
   </div>
@@ -76,5 +76,5 @@ If your organization is interested in sponsoring the EACL, please refer to our [
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
   </div>
-
+ -->
 
