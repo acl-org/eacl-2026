@@ -177,3 +177,16 @@ h3 + .committee-list {
 
   {% endunless %}
 {% endfor %}
+
+
+## Contact
+
+- **General Chair**: [Aline Villavicencio](https://sites.google.com/view/alinev)
+- **Program Chairs**: [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg.html), [Kentaro Inui](https://kentaro-inui.github.io/), Lluís Marquez Villodre
+
+For questions related to paper submission, email: <editors@aclrollingreview.org>  
+
+For questions related to paper commitment and program, email: <eacl26-pcs@googlegroups.com>  
+
+For all other questions, email: <eacl2026.contact@gmail.com>
+
