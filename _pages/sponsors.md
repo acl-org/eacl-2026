@@ -29,7 +29,7 @@ If your organization is interested in sponsoring the EACL, please refer to our *
 
 EACL 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
 
-If your organization is interested in sponsoring the EACL, please refer to our [**Sponsorship Booklet**](#) for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email ACL Sponsorship Director, **Joel Tetreault** ([sponsorship@aclweb.org](mailto:sponsorship@aclweb.org)), and the EACL Sponsorship Chairs: **Laurent Besacier** ([laurent.besacier@naverlabs.com](mailto:laurent.besacier@naverlabs.com)) and **Yassine Benajiba** ([Yassine.benajiba@oracle.com](mailto:Yassine.benajiba@oracle.com)).
+If your organization is interested in sponsoring the EACL, please refer to our [**Sponsorship Booklet**](https://drive.google.com/drive/u/0/search?q=sponsorship%20brochure) for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email ACL Sponsorship Director, **Joel Tetreault** ([sponsorship@aclweb.org](mailto:sponsorship@aclweb.org)), and the EACL Sponsorship Chairs: **Laurent Besacier** ([laurent.besacier@naverlabs.com](mailto:laurent.besacier@naverlabs.com)) and **Yassine Benajiba** ([Yassine.benajiba@oracle.com](mailto:Yassine.benajiba@oracle.com)).
 
 <!-- <div style="text-align: center; margin-top: 20px; margin-bottom: 30px;">
   <a class="btn btn--primary btn--large" href="{{ '/assets/docs/EACL2026-Sponsorship-Booklet.pdf' | relative_url }}" target="_blank" rel="noopener">
