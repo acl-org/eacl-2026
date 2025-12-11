@@ -65,6 +65,8 @@ toc_title: "On this page"
 
 ### Saturday, March 28: Workshops & Tutorials
 
+SEE [WORKSHOP](https://2026.eacl.org/program/workshops/) & [TUTORIAL](https://2026.eacl.org/program/tutorials/) FOR DETAIL SCHEDULE
+
 | Time | Event |
 | :--- | :--- |
 | 08:30 - 17:00 | **Registration** |
@@ -77,6 +79,8 @@ toc_title: "On this page"
 | 16:00 - 17:30 | **Session 4** |
 
 ### Sunday, March 29: Workshops & Tutorials
+
+SEE [WORKSHOP](https://2026.eacl.org/program/workshops/) & [TUTORIAL](https://2026.eacl.org/program/tutorials/) FOR DETAIL SCHEDULE
 
 | Time | Event |
 | :--- | :--- |
