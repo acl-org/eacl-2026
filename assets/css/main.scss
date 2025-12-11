@@ -134,3 +134,14 @@ $page-max-width: 904px;
 
 /* Optional: make cards a bit wider so long affiliations look nice */
 .committee-list { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 1.25rem; }
+/* Make the navbar logo bigger */
+.site-logo img {
+  max-height: 2.5rem;   /* try 3.0–4.0rem and adjust to taste */
+}
+
+/* Optional: on very small screens, keep it a bit smaller */
+@media (max-width: 600px) {
+  .site-logo img {
+    max-height: 2rem;
+  }
+}
