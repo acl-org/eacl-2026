@@ -72,3 +72,76 @@ $page-max-width: 904px;
 @import "buttons";
 @import "inputs";
 @import "cards";
+
+
+/* Committee cards */
+.committee-list {
+  margin: 0;
+  padding: 0;
+}
+
+.committee-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid #e5e7eb; /* subtle divider */
+}
+
+.committee-card:last-child {
+  border-bottom: 0;
+}
+
+.committee-card img {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #eef2f7; /* light ring */
+}
+
+.committee-card__name {
+  font-weight: 700;
+  font-size: 1.25rem; /* ~20px */
+  line-height: 1.2;
+  margin-bottom: 2px;
+}
+
+.committee-card__name a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.committee-card__name a:hover {
+  text-decoration: underline;
+}
+
+.committee-card__affil {
+  color: #6b7280; /* gray-500 */
+  font-size: 1rem;
+}
+/* --- Organizing Committee Layout --- */
+.committee-list {
+  display: grid;
+  /* This creates columns that are at least 250px wide */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem; /* This adds space between the cards */
+  margin-bottom: 2rem; /* Adds space below each group */
+}
+/* Show full name and affiliation (no truncation) */
+.committee-card__name,
+.committee-card__affil { white-space: normal; overflow: visible; text-overflow: unset; }
+
+/* Optional: make cards a bit wider so long affiliations look nice */
+.committee-list { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 1.25rem; }
+/* Make the navbar logo bigger */
+.site-logo img {
+  max-height: 2.5rem;   /* try 3.0–4.0rem and adjust to taste */
+}
+
+/* Optional: on very small screens, keep it a bit smaller */
+@media (max-width: 600px) {
+  .site-logo img {
+    max-height: 2rem;
+  }
+}

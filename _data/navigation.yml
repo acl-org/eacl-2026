@@ -1,30 +1,55 @@
 # main links
 main:
   - title: "Calls"
-    url: /calls/papers
+    url: /calls/papers/
   - title: "Committees"
-    url: /committees/organization
-  - title: "Venue"
-    url: /venue
+    url: /committees/organization/
+  - title: "Participant Information"
+    url: /participants/
   - title: "Registration"
-    url: /registration
+    url: /registration/
   - title: "Program"
-    url: /program/main    
+    url: /program/
   - title: "Sponsors"
-    url: /sponsors
+    url: /sponsors/
 
-
-program:
-  - title: Program
+attending:
+  - title: Participant Information
     children:
-      - title: "EACL 2024 Program of Events"
-        url: /program/main/   
-      - title: "Invited Speakers"
-        url: /program/invited/             
+      - title: Visa Requirements
+        url: /participants/visa/
+      - title: Conference Venue
+        url: /participants/venue/
+        # url: "{{ '/participants/venue/' | relative_url }}"
+
+
+# program:
+#   - title: Program
+#     children:
+#       - title: "EACL 2026 Program of Events"
+#         url: /program/overview/
+#       - title: "Invited Speakers"
+#         url: /program/invited/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+#       - title: "Main Conference Accepted Papers"
+#         url: /program/main-accepted/
+#       - title: "Findings Accepted Papers"
+#         url: /program/findings-accepted/
+#       - title: "Best Paper Awards"
+#         url: /program/best-paper/
+program:
+  - title: Programs
+    children:
+      - title: "Conference Overview"
+        url: /program/
+
       - title: "Workshops"
         url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
+      - title: "Invited Speakers"
+        url: /program/invited/
       - title: "Main Conference Accepted Papers"
         url: /program/main-accepted/
       - title: "Findings Accepted Papers"
@@ -35,28 +60,33 @@ program:
 registration:
   - title: Registration
     children:
-      - title: "EACL 2024 Registration"
-        url: /registration       
+      - title: "EACL 2026 Registration"
+        url: /registration/
       - title: "Virtual Discounted Registration"
-        url: /virtualdiscounts
+        url: /virtualdiscounts/
 
 calls:
   - title: Call for
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
+      - title: "Student Research Workshop"
+        url: /calls/srw/
       - title: "System Demonstrations"
-        url: /calls/demos/        
+        url: /calls/demos/
       - title: "Workshops"
         url: /calls/workshops/
+      - title: "Industry Track"
+        url: /calls/industry/
       - title: "Tutorials"
         url: /calls/tutorials/
-      - title: "diversity & inclusion subsidies"
-        url: /calls/d-i-subsidies/        
+      - title: "Diversity & Inclusion Subsidies"
+        url: /calls/d-i-subsidies/
       - title: "Student Volunteers"
         url: /calls/student-volunteers/
       - title: ""
-        url: /program/oral-poster/       
+        url: /program/oral-poster/
+
 ethics:
   - title: Ethics
     children:
@@ -64,7 +94,6 @@ ethics:
         url: /ethics/faq/
       - title: "Ethics Review Questions"
         url: /ethics/review-questions/
-
 
 committees:
   - title: Committees

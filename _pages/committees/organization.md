@@ -1,93 +1,192 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "EACL 2024 organizing committee."
+excerpt: "EACL 2026 organizing committee."
 permalink: /committees/organization/
 sidebar:
   nav: committees
 ---
+<style>
+.committee-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:1.25rem;margin-bottom:2rem;}
+.committee-card{display:flex;align-items:center;gap:.75rem;}
+.committee-card img{width:64px;height:64px;border-radius:9999px;object-fit:cover;}
+.committee-card__text{flex:1 1 auto;}
+.committee-card__name{font-weight:700;font-size:1.125rem;line-height:1.2;white-space:normal;overflow:visible;text-overflow:unset;}
+.committee-card__affil{white-space:normal;overflow:visible;text-overflow:unset;line-height:1.35;margin-top:.125rem;}
+/* remove any residual dividers inside cards */
+.committee-card, .committee-card * { border: 0 !important; box-shadow: none !important; }
 
-### General Chair
-<a href="http://michael.kimstrube.de/">Michael Strube</a>, Heidelberg Institute for Theoretical Studies
+/* grey line just under each section title (applies only when a .committee-list follows) */
+h3 + .committee-list {
+  border-top: 1px solid #e5e7eb;  /* gray-200 */
+  padding-top: .75rem;            /* space between line and cards */
+  margin-top: .25rem;             /* space between title and line */
+}
 
-### Program Chairs 
-<i>(contact: <a href = "mailto:eacl2024pcs@googlegroups.com">eacl2024pcs@googlegroups.com</a>)</i><br />
-<i>(ARR submission/process: <a href = "mailto:editors@aclrollingreview.org">editors@aclrollingreview.org</a>)</i><br />
-<i>(General queries: <a href = "mailto:eacl2024general@googlegroups.com">eacl2024general@googlegroups.com</a>)</i><br />
+/* optional: a little space above each title */
+.page__content h3 { margin-top: 2rem; }
 
-<a href="https://www.scss.tcd.ie/~ygraham/">Yvette Graham</a>, Trinity College Dublin<br />
-<a href="https://www.eecs.qmul.ac.uk/~mpurver/">Matthew Purver</a>, Queen Mary University of London & Jožef Stefan Institute<br />
-<!-- <a href="/committees/program">Senior Area Chairs</a>
- -->
+/* contact line & thin divider (for ED&I section) */
+.committee-contact{margin:.25rem 0 .5rem;color:#4b5563;font-size:.95rem;}
+.heading-divider{border-top:1px solid #e5e7eb;margin:.25rem 0 1rem;}
+</style>
 
-### Workshop Chairs 
-<a href="https://ns-moosavi.github.io/">Nafise Moosavi</a>, University of Sheffield<br />
-<a href="https://zeerak.org/">Zeerak Talat</a>, Simon Fraser University<br />
+{% comment %} Map short role categories -> display headings {% endcomment %}
+{% assign role_headings =  {
+  "General": "General Chair",
+  "Program": "Program Chair",
+  "Local Organization": "Local Organization Chair",
+  "Workshop": "Workshop Chair",
+  "Tutorial": "Tutorial Chair",
+  "Internal Communications": "Internal Communications Chair",
 
-### Tutorial Chairs
-<a href="https://sites.google.com/site/loaicigasharid/">Sharid Loaiciga</a>, University of Gothenburg <br/>
-<a href="https://mohsen-mesgar.io/">Mohsen Mesgar</a>, Bosch Center for Artificial Intelligence
+  "Demo": "Demonstration Chair",
+  "SRW": "Student Research Workshop Chair",
+  "Faculty SRW": "Faculty Advisor to the Student Research Workshop",
+  "Industry": "Industry Chair",
+  "Sponsorship": "Sponsorship Chair",
+  "Publication": "Publication Chair",
+  "Publicity": "Publicity Chair",
+  "Communications": "Internal Communications Chair",  <!-- fallback if CSV uses "Communications" -->
+  "Website": "Website Chair",
+  "Local": "Local Arrangements Chair",
+  "ED&I": "Diversity and Inclusion Chair"
+} %}
 
-### Demonstration Chairs
-<a href="https://nikosaletras.com/">Nikolaos Aletras</a>, University of Sheffield<br/>
-<a href="https://research.flw.ugent.be/nl/orphee.declercq">Orphee de Clercq</a>, Ghent University
+{% assign preferred = "General|Program|Local Organization|Workshop|Tutorial|Internal Communications" | split:"|" %}
+{% assign groups = site.data.organizers | group_by: "Role" %}
 
-### Student Research Workshop Chairs
-<a href="https://www.ims.uni-stuttgart.de/institut/team/Falk/">Neele Falk</a>, University of Stuttgart <br/>
-<a href="https://mt.fbk.eu/author/spapi/">Sara Papi</a>, University of Trento & Fondazione Bruno Kessler <br/>
-<a href="https://jjzha.github.io//">Mike Zhang</a>, IT University Copenhagen <br/>
+{% comment %} 1) Print preferred roles in this exact order {% endcomment %}
+{% for r in preferred %}
+  {% assign bucket = groups | where: "name", r | first %}
+  {% if bucket and bucket.items.size > 0 %}
 
-### Faculty Advisors to Student Research Workshop Chairs
-<a href="https://steffeneger.github.io/">Steffen Eger</a>, University of Bielefeld<br/>
-<a href="https://www.cse.msu.edu/~kordjams/">Parisa Kordjamshidi</a>, Michigan State University<br/>
+    {% comment %} Get base heading; avoid double-adding "Chair" if role already ends with it {% endcomment %}
+    {% assign _mapped = role_headings[r] %}
+    {% if _mapped %}
+      {% assign heading = _mapped %}
+    {% else %}
+      {% assign _last = r | split: ' ' | last %}
+      {% if _last == "Chair" or _last == "Chairs" %}
+        {% assign heading = r %}
+      {% else %}
+        {% assign heading = r | append: " Chair" %}
+      {% endif %}
+    {% endif %}
 
-### Publication Chairs
-<a href="http://art.uniroma2.it/croce/">Danilo Croce</a>, University of Rome, Tor Vergata<br/>
-<a href="https://gozdesahin.github.io/">Goezde Guel Sahin</a>, Koc University<br/>
+    {% comment %} Pluralize when more than one person {% endcomment %}
+    {% if bucket.items.size > 1 %}
+      {% assign _last_word = heading | split: ' ' | last %}
+      {% if _last_word == "Chair" %}
+        {% assign heading = heading | append: "s" %}
+      {% endif %}
+    {% endif %}
 
-### Handbook Chair
-<a href="http://www.di.uniba.it/~swap/index.php?n=Membri.MarcoPolignano">Marco Polignano</a>, University of Bari<br/>
+### {{ heading }}
+{% comment %} ED&I contact line (preferred loop) {% endcomment %}
+{% if r == "ED&I" or r == "Diversity and Inclusion" %}
+<p class="committee-contact">
+  Contact: <a href="mailto:eacl2026deichairs@gmail.com">eacl2026deichairs@gmail.com</a>
+</p>
+<div class="heading-divider"></div>
+{% endif %}
+<div class="committee-list">
+  {%- assign _annot = "" -%}
+  {%- for p in bucket.items -%}
+    {%- assign _name = p.Name | strip -%}
+    {%- comment -%} take last token as surname; strip parentheses like "(May)" {%- endcomment -%}
+    {%- assign _surname = _name | replace: "(", " " | replace: ")", " " | split: " " | last | downcase -%}
+    {%- assign _annot = _annot
+        | append: _surname | append: "§" | append: forloop.index0
+        | append: "¶" -%}
+  {%- endfor -%}
+  {%- assign _rows = _annot | split: "¶" | sort_natural -%}
+  {%- for row in _rows -%}
+    {%- unless row == "" -%}
+      {%- assign _parts = row | split: "§" -%}
+      {%- assign _idx = _parts[1] | plus: 0 -%}
+      {%- assign person = bucket.items[_idx] -%}
+      {% include committee_card.html
+           name=person.Name
+           affiliation=person.Affiliation
+           photo=person.Photo
+           url=person.Scholar %}
+    {%- endunless -%}
+  {%- endfor -%}
+</div>
 
-### Sponsorship Chairs
-<a href="https://www.cl.uni-heidelberg.de/~dahlmeier/">Daniel Dahlmeier</a>, SAP <br/>
-<a href="http://www.neuralnoise.com/">Pasquale Minervini</a>, University of Edinburgh <br/>
+  {% endif %}
+{% endfor %}
+
+{% comment %} 2) Then print any remaining roles not listed above {% endcomment %}
+{% for g in groups %}
+  {% unless preferred contains g.name %}
+
+    {% comment %} Get base heading; avoid double-adding "Chair" {% endcomment %}
+    {% assign _mapped = role_headings[g.name] %}
+    {% if _mapped %}
+      {% assign heading = _mapped %}
+    {% else %}
+      {% assign _last = g.name | split: ' ' | last %}
+      {% if _last == "Chair" or _last == "Chairs" %}
+        {% assign heading = g.name %}
+      {% else %}
+        {% assign heading = g.name | append: " Chair" %}
+      {% endif %}
+    {% endif %}
+
+    {% if g.items.size > 1 %}
+      {% assign _last_word = heading | split: ' ' | last %}
+      {% if _last_word == "Chair" %}
+        {% assign heading = heading | append: "s" %}
+      {% endif %}
+    {% endif %}
+
+### {{ heading }}
+{% comment %} ED&I contact line (remaining-groups loop) {% endcomment %}
+{% if g.name == "ED&I" or g.name == "Diversity and Inclusion" %}
+<p class="committee-contact">
+  Contact: <a href="mailto:eacl2026deichairs@gmail.com">eacl2026deichairs@gmail.com</a>
+</p>
+<div class="heading-divider"></div>
+{% endif %}
+<div class="committee-list">
+  {%- assign _annot = "" -%}
+  {%- for p in g.items -%}
+    {%- assign _name = p.Name | strip -%}
+    {%- assign _surname = _name | replace: "(", " " | replace: ")", " "
+                              | split: " " | last | downcase -%}
+    {%- assign _annot = _annot
+        | append: _surname | append: "§" | append: forloop.index0
+        | append: "¶" -%}
+  {%- endfor -%}
+  {%- assign _rows = _annot | split: "¶" | sort_natural -%}
+  {%- for row in _rows -%}
+    {%- unless row == "" -%}
+      {%- assign _parts = row | split: "§" -%}
+      {%- assign _idx = _parts[1] | plus: 0 -%}
+      {%- assign person = g.items[_idx] -%}
+      {% include committee_card.html
+           name=person.Name
+           affiliation=person.Affiliation
+           photo=person.Photo
+           url=person.Scholar %}
+    {%- endunless -%}
+  {%- endfor -%}
+</div>
+
+  {% endunless %}
+{% endfor %}
 
 
-### Diversity and Inclusion Chairs
-<a href="https://mbzuai.ac.ae/study/faculty/hanan-al-darmaki/">Hanan Al Darmaki</a>, MBZUAI <br/>
-<a href="http://zil.ipipan.waw.pl/MaciejOgrodniczuk">Maciej Ogrodniczuk</a>, Institute of Computer Science, Polish Academy of Sciences <br/>
-Sabine Weber, VDI/VDE Innovation <br/>
+## Contact
 
+- **General Chair**: [Aline Villavicencio](https://sites.google.com/view/alinev)
+- **Program Chairs**: [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg.html), [Kentaro Inui](https://kentaro-inui.github.io/), Lluís Marquez Villodre
 
-### Publicity Chairs
-<a href="https://people.cs.kuleuven.be/~miryam.delhoneux/">Miryam de Lhoneux</a>, KU Leuven <br/>
-<a href="https://sdeva14.github.io/">Sungho Jeon</a>, Heidelberg Institute for Theoretical Studies <br/>
-<a href="https://www.cs.bgu.ac.il/~pintery/">Yuval Pinter</a>, Ben-Gurion University of the Negev <br/>
+For questions related to paper submission, email: <editors@aclrollingreview.org>  
 
-### Website Chairs
-<a href="mailto:m.karan@qmul.ac.uk">Mladen Karan</a>, Queen Mary University of London<br/>
-<a href="mailto:wei.zhao@h-its.org">Wei Zhao</a>, Heidelberg Institute for Theoretical Studies & University of Aberdeen<br/>
+For questions related to paper commitment and program, email: <eacl26-pcs@googlegroups.com>  
 
-
-### Local Ambassador
-<a href="https://www.maxbartolo.com/">Max Bartolo</a>, Cohere <br/>
-
-### Ethics Chairs
-<a href="https://annefried.github.io/">Annemarie Friedrich</a>, University of Augsburg<br/>
-<a href="https://anne-lauscher.de/">Anne Lauscher</a>, University of Hamburg<br/>
-
-### Student Volunteer Chairs
-<a href="https://www.um.edu.mt/profile/claudiaborg">Claudia Borg</a>, University of Malta<br/>
-<a href="https://di.ku.dk/english/staff/vip/researchers_nlp/?pure=en/persons/631668">Desmond Eliott</a>, University of Copenhagen<br/>
-<a href="https://www.juntaoyu.com/">Juntao Yu</a>, Queen Mary University of London<br/>
-
-### Visa Chairs
-<a href="https://www.um.edu.mt/profile/claudiaborg">Claudia Borg</a>, University of Malta<br/>
-<a href="https://yufanghou.github.io/">Yufang Hou</a>, IBM Research Ireland<br/>
-<a href = "">Megan Haddad</a>, ACL Office<br/>
-
-### Technical Infrastructure Chairs 
-<a href="https://www.h-its.org/people/wei-liu/">Wei Liu</a>, Heidelberg Institute for Theoretical Studies<br/>
-<a href="https://sdeva14.github.io/">Sungho Jeon</a>, Heidelberg Institute for Theoretical Studies<br/>
-
+For all other questions, email: <eacl2026.contact@gmail.com>
 

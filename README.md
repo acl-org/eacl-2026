@@ -1,6 +1,6 @@
-# EACL 2021 official website
+# EACL 2026 official website
 
-This is the code for the official website for the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL).
+This is the code for the official website for the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL).
 
 It's using the modified version of [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
