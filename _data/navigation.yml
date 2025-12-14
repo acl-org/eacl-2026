@@ -84,6 +84,9 @@ calls:
         url: /calls/d-i-subsidies/
       - title: "Student Volunteers"
         url: /calls/student-volunteers/
+      - title: "Shared Interest & Affinity Groups (BoF)"
+        url: /calls/bof/
+
       - title: ""
         url: /program/oral-poster/
 
