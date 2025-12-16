@@ -31,6 +31,8 @@ program:
         url: /program/
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
   - title: "ACCEPTED"
     children:
       - title: "Main Conference Accepted Papers"
