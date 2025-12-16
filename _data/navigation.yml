@@ -23,39 +23,26 @@ attending:
         # url: "{{ '/participants/venue/' | relative_url }}"
 
 
-# program:
-#   - title: Program
-#     children:
-#       - title: "EACL 2026 Program of Events"
-#         url: /program/overview/
-#       - title: "Invited Speakers"
-#         url: /program/invited/
-#       - title: "Workshops"
-#         url: /program/workshops/
-#       - title: "Tutorials"
-#         url: /program/tutorials/
-#       - title: "Main Conference Accepted Papers"
-#         url: /program/main-accepted/
-#       - title: "Findings Accepted Papers"
-#         url: /program/findings-accepted/
-#       - title: "Best Paper Awards"
-#         url: /program/best-paper/
+
 program:
-  - title: Programs
+  - title: "PROGRAMS"
     children:
       - title: "Conference Overview"
         url: /program/
-
       - title: "Workshops"
         url: /program/workshops/
-      - title: "Invited Speakers"
-        url: /program/invited/
+  - title: "ACCEPTED"
+    children:
       - title: "Main Conference Accepted Papers"
         url: /program/main-accepted/
       - title: "Findings Accepted Papers"
         url: /program/findings-accepted/
       - title: "Best Paper Awards"
         url: /program/best-paper/
+  - title: "EVENTS"
+    children:
+      - title: "Keynote Speakers"
+        url: /program/keynotes/
 
 registration:
   - title: Registration
