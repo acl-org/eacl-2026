@@ -20,6 +20,9 @@ sidebar:
 * **Location:** Pavillon DE RABAT (Level 1)
 * **Time:** Half Day 14:00 - 17:30
 
+
+## Sunday, March 29, 2026
+
 ### T3: Encoding and Decoding Language in the Brain with Language Models
 * **Organizers:** Anuja Negim, Mathis Lamarre, Christine Tseng, Subba Reddy Oota
 * **Description:** Expository talks with code running
