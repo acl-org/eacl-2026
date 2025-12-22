@@ -33,8 +33,7 @@ Candidates will be assessed based on their application package (details below). 
 
 * Applicants must be full-time students.
 * Submission requires a completed [Application Form](https://forms.gle/FQsaESw61dZGCcyX8) with a few questions and a concise one-page CV (resume).
-* Travel and accommodations should be arranged independently, regardless of the application outcome.
-* Special Rate Lodging is secured by ACL months in advance to the conference. The discounted rates can be seen and secured by going to the Conference website > Participant Info > Accommodations.
+* Travel and accommodations should be arranged independently, regardless of the application outcome. Special Rate Lodging is secured by ACL months in advance to the conference. The discounted rates can be seen and secured by going to the Conference website > Participant Info > Accommodations.
 
 ### Application Instructions:
 
