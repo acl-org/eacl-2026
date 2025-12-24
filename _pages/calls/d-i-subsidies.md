@@ -37,9 +37,11 @@ This is for getting a waiver for EACL 2026 registration. You can also request AC
 
 We are also providing travel and accommodation subsidies. Priority will be given to authors, first-time attendees and individuals from underrepresented communities with financial hurdles.
 
-If you would like to attend the in-person meeting, please keep in mind that if your waiver application is accepted, accommodations and travel expenses (e.g., flight tickets) **can only be reimbursed after the conference**. The number of accepted applicants and the amount of money subsidised will vary depending on the number of applicants and the funding availability.
+If you would like to attend the in-person meeting, please keep in mind that if your waiver application is accepted, accommodations and travel expenses (e.g., flight tickets, hotel receipt, ground transportation) can only be reimbursed after the conference and must have a receipt submitted. **Note: The ACL does not book any of the above grants and it is the awardees are responsible for making their own travel and accommodation arrangements and for using the funds responsibly.**
 
-Please answer questions regarding whether you have previously attended any *ACL conferences (NAACL, EACL, AACL, ACL, EMNLP and COLING) accurately as we would like to give all first-time attendees a chance.
+The number of accepted applicants and the amount of money subsidised will vary depending on the number of applicants and the funding availability.
+
+Please answer questions regarding whether you have previously attended any *ACL conferences (NAACL, EACL, AACL, ACL, EMNLP and COLING) accurately as we would like to give all first-time attendees a chance.*
 
 ### Caregiving and accessibility subsidies
 
