@@ -20,6 +20,12 @@ Welcome to the 19th Conference of the European Chapter of the Association for Co
 
 ## News
 
+
+<div class="notice--info" markdown="1">
+  <h2 id="keynotes">EACL Keynote Speakers</h2>
+  EACL 2026 [Keynote Speakers](https://2026.eacl.org/program/keynotes/) announced !
+</div>
+
 <div class="notice--info" markdown="1">
 **December 10, 2025**  
 The list of accepted tutorials is out and available in the [EACL 2026 Tutorials page](https://2026.eacl.org/program/tutorials/).
