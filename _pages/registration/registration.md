@@ -11,9 +11,10 @@ sidebar:
 
 We offer early and late rates to encourage early registrations. This helps us estimate the number of onsite and virtual attendees for planning space, food, beverage, supplies, and to avoid system crashes and other glitches from unexpectedly high volume with last-minute registrations.
 
+* **Presenting Author Registration:** Ends February 17, 2026 (AOE)
 * **Early Registration:** Ends February 24, 2026 (AOE)
-* **Late Registration:** Ends March 23, 2026 23:59 (GMT +8)
-* **On-site Registration:** Opens March 24–29 (See onsite registration times in GMT +8)
+* **Late Registration:** Ends March 23, 2026 23:59 (Local Conference Time)
+* **On-site Registration:** Opens March 24–29. See onsite registration times (Local Conference Time)
 
 ---
 
