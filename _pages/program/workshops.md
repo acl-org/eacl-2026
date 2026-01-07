@@ -45,7 +45,7 @@ sidebar:
 * **Session:** Full Day
 
 ### [W7: Workshop on Linguistic Analysis for Health (HeaLing)](https://healing-workshop.github.io/)
-* **Organizers:** Murathan Kurfali, Vera Danilova, Ylva Söderfeldt, Julia Reed and Gavin Farrell
+* **Organizers:** Vera Danilova, Murathan Kurfalı, Julia Reed, Ylva Söderfeldt, and Gavin Farrell
 * **Description:** This workshop will provide a forum for researchers studying medical and healthcare language in the humanities and social sciences to discuss and compare their use of both quantitative and qualitative methods in their research.
 * **Location:** SALLE Les Oudayas (Level 2 - Stairs Required)
 * **Session:** Half Day: 14:00 - 17:30
