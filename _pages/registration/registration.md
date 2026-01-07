@@ -13,8 +13,15 @@ We offer early and late rates to encourage early registrations. This helps us es
 
 * **Presenting Author Registration:** Ends February 17, 2026 (AOE)
 * **Early Registration:** Ends February 24, 2026 (AOE)
-* **Late Registration:** Ends March 23, 2026 23:59 (Local Conference Time)
-* **On-site Registration:** Opens March 24–29. See onsite registration times (Local Conference Time)
+* **Late Registration:** Ends for In-Person and Virtual: March 23, 2026 23:59 (Rabat, Morocco Time)
+* **On-site Registration:** Will open for In-Person and Virtual on March 24–29.
+  * **Tuesday, March 24:** 08:00 – 20:30
+  * **Wednesday, March 25:** 07:30 – 17:00
+  * **Thursday, March 26:** 08:30 – 17:00
+  * **Friday, March 27:** 08:30 – 17:00
+  * **Saturday, March 28:** 08:30 – 17:00
+  * **Sunday, March 29:** 08:30 – 17:00
+  *(All times are Rabat, Morocco Time)*
 
 ---
 
@@ -25,6 +32,66 @@ The ACL Executive Committee has established three registration tiers. Each has a
 * **Industry Pricing:** For-profit organizations; highest tier; helps subsidize other categories.
 * **Academic / Regular Pricing:** Universities and research institutions; standard tier for non-students.
 * **Student Pricing:** Discounted tier for enrolled students; requires proof of status.
+
+---
+
+## Registration Rates
+
+### In-Person Full Conference Rates
+
+| Category | Early (Jan 14 - Feb 24) | Late (Feb 25 - Mar 23) | Onsite (Mar 24 - Mar 29) |
+| :--- | :--- | :--- | :--- |
+| Registering Paper Industry | $1150 | $1300 | $1450 |
+| Industry | $950 | $1100 | $1250 |
+| Registering Paper Academic | $850 | $1000 | $1150 |
+| Academic | $650 | $800 | $950 |
+| Registering Paper Student | $525 | $625 | $725 |
+| Student | $325 | $425 | $525 |
+
+### In-Person Workshops/Tutorials Rates
+
+| Category | Early (Jan 14 - Feb 24) | Late (Feb 25 - Mar 23) | Onsite (Mar 24 - Mar 29) |
+| :--- | :--- | :--- | :--- |
+| 2 Day - Registering Paper Industry | $550 | $600 | $650 |
+| 2 Day - Industry | $350 | $400 | $450 |
+| 2 Day - Registering Paper Academic | $450 | $500 | $550 |
+| 2 Day - Academic | $250 | $300 | $350 |
+| 2 Day - Registering Paper Student | $350 | $400 | $450 |
+| 2 Day - Student | $150 | $200 | $250 |
+| 1 Day - Registering Paper Industry | $375 | $400 | $425 |
+| 1 Day - Industry | $175 | $200 | $225 |
+| 1 Day - Registering Paper Academic | $325 | $350 | $375 |
+| 1 Day - Academic | $125 | $150 | $175 |
+| 1 Day - Registering Paper Student | $275 | $300 | $325 |
+| 1 Day - Student | $75 | $100 | $125 |
+
+### Virtual Full Conference Rates
+
+| Category | Early (Jan 14 - Feb 24) | Late (Feb 25 - Mar 23) | Onsite (Mar 24 - Mar 29) |
+| :--- | :--- | :--- | :--- |
+| Registering Paper Industry | $550 | $700 | $700 |
+| Industry | $450 | $600 | $600 |
+| Registering Paper Academic | $450 | $550 | $550 |
+| Academic | $350 | $450 | $450 |
+| Registering Paper Student | $250 | $350 | $350 |
+| Student | $150 | $250 | $250 |
+
+### Virtual Workshops/Tutorials Rates
+
+| Category | Early (Jan 14 - Feb 24) | Late (Feb 25 - Mar 23) | Onsite (Mar 24 - Mar 29) |
+| :--- | :--- | :--- | :--- |
+| 2 Day - Registering Paper Industry | $250 | $300 | $300 |
+| 2 Day - Industry | $150 | $200 | $200 |
+| 2 Day - Registering Paper Academic | $200 | $250 | $250 |
+| 2 Day - Academic | $100 | $150 | $150 |
+| 2 Day - Registering Paper Student | $150 | $200 | $200 |
+| 2 Day - Student | $50 | $100 | $100 |
+| 1 Day - Registering Paper Industry | $175 | $200 | $200 |
+| 1 Day - Industry | $75 | $100 | $100 |
+| 1 Day - Registering Paper Academic | $150 | $175 | $175 |
+| 1 Day - Academic | $50 | $75 | $75 |
+| 1 Day - Registering Paper Student | $125 | $150 | $150 |
+| 1 Day - Student | $25 | $50 | $50 |
 
 ---
 
@@ -65,13 +132,13 @@ Invited speakers and panelists will receive a registration code. Additional invi
 
 ## D&I Subsidies and Regional Waivers
 * D&I subsidies remain available to offset registration and travel costs.
-
 * Papers with all authors in regions eligible for free/sliding-scale virtual registration may register under those terms.
-* If you have submitted a subsidy application, please select the payment option: “My registration has been approved by an ACL grant code.” If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full to gain entry to the conference.
+* If you have submitted a subsidy application, please select the payment option: **“My registration has been approved by an ACL grant code.”**
+* If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full to gain entry to the conference.
 
 ---
 
-## Registration Rates
+## Registration Inclusions
 
 ### In-Person Main Conference Registration Includes
 * Access to all in-person and virtual sessions, plus recordings for one month post-conference.
@@ -121,7 +188,7 @@ Registrants may switch to Virtual Attendance, and ACL will refund the difference
 
 ---
 
-## Code of Ethics 
+## Code of Ethics
 
 **Code of Ethics Policy** ACL adopts the [ACM Code of Ethics (2018)](https://www.acm.org/code-of-ethics), applied in the ACL context. Violations may result in sanctions, including removal from membership. ACL emphasizes:
 * Open exchange of ideas.
@@ -132,6 +199,6 @@ Harassment includes intimidation, degrading comments, stalking, unwelcome contac
 
 ## Anti-Harassment Policy
 
-ACL 2026 strictly follows the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). 
-* Anyone experiencing harassment may contact the **ACL Professional Conduct Committee** or **Jennifer Rachford** (available on-site at the registration desk). 
+ACL 2026 strictly follows the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
+* Anyone experiencing harassment may contact the **ACL Professional Conduct Committee** or **Jennifer Rachford** (available on-site at the registration desk).
 * All concerns will remain confidential, with consultation before actions are taken.
