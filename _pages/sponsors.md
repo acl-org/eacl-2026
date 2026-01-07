@@ -35,6 +35,16 @@ For any questions regarding sponsorship, please email the EACL Sponsorship Chair
   </div>
 </div>
 
+## Bronze
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
+  <div class="sponsor-logo">
+    <a href="https://www.elra.info/" target="_blank">
+      <img src="/assets/images/sponsors/elra_v2.png" alt="ELRA" style="max-height: 100px; width: auto;">
+    </a>
+  </div>
+</div>
+
 <!-- ## Diamond
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; align-items: center; margin-bottom: 40px;">
