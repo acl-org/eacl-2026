@@ -47,8 +47,7 @@ h3 + .committee-list {
   "Sponsorship": "Sponsorship Chair",
   "Publication": "Publication Chair",
   "Publicity": "Publicity Chair",
-  "Communications": "Internal Communications Chair",  <!-- fallback if CSV uses "Communications" -->
-  "Website": "Website Chair",
+  "Communications": "Internal Communications Chair",  "Website": "Website Chair",
   "Local": "Local Arrangements Chair",
   "ED&I": "Diversity and Inclusion Chair"
 } %}
@@ -91,28 +90,43 @@ h3 + .committee-list {
 <div class="heading-divider"></div>
 {% endif %}
 <div class="committee-list">
-  {%- assign _annot = "" -%}
-  {%- for p in bucket.items -%}
-    {%- assign _name = p.Name | strip -%}
-    {%- comment -%} take last token as surname; strip parentheses like "(May)" {%- endcomment -%}
-    {%- assign _surname = _name | replace: "(", " " | replace: ")", " " | split: " " | last | downcase -%}
-    {%- assign _annot = _annot
-        | append: _surname | append: "§" | append: forloop.index0
-        | append: "¶" -%}
-  {%- endfor -%}
-  {%- assign _rows = _annot | split: "¶" | sort_natural -%}
-  {%- for row in _rows -%}
-    {%- unless row == "" -%}
-      {%- assign _parts = row | split: "§" -%}
-      {%- assign _idx = _parts[1] | plus: 0 -%}
-      {%- assign person = bucket.items[_idx] -%}
+  {% if r == "Local Organization" %}
+    {% comment %} 
+       SPECIAL CASE: For Local Organization, DO NOT SORT. 
+       Respect the order in the _data file (e.g. to keep the main contact first).
+    {% endcomment %}
+    {%- for person in bucket.items -%}
       {% include committee_card.html
            name=person.Name
            affiliation=person.Affiliation
            photo=person.Photo
            url=person.Scholar %}
-    {%- endunless -%}
-  {%- endfor -%}
+    {%- endfor -%}
+  {% else %}
+    {% comment %} For all other roles, sort alphabetically by surname {% endcomment %}
+    {%- assign _annot = "" -%}
+    {%- for p in bucket.items -%}
+      {%- assign _name = p.Name | strip -%}
+      {%- comment -%} take last token as surname; strip parentheses like "(May)" {%- endcomment -%}
+      {%- assign _surname = _name | replace: "(", " " | replace: ")", " " | split: " " | last | downcase -%}
+      {%- assign _annot = _annot
+          | append: _surname | append: "§" | append: forloop.index0
+          | append: "¶" -%}
+    {%- endfor -%}
+    {%- assign _rows = _annot | split: "¶" | sort_natural -%}
+    {%- for row in _rows -%}
+      {%- unless row == "" -%}
+        {%- assign _parts = row | split: "§" -%}
+        {%- assign _idx = _parts[1] | plus: 0 -%}
+        {%- assign person = bucket.items[_idx] -%}
+        {% include committee_card.html
+             name=person.Name
+             affiliation=person.Affiliation
+             photo=person.Photo
+             url=person.Scholar %}
+      {%- endunless -%}
+    {%- endfor -%}
+  {% endif %}
 </div>
 
   {% endif %}
@@ -189,4 +203,3 @@ For questions related to paper submission, email: <editors@aclrollingreview.org>
 For questions related to paper commitment and program, email: <eacl26-pcs@googlegroups.com>  
 
 For all other questions, email: <eacl2026.contact@gmail.com>
-
