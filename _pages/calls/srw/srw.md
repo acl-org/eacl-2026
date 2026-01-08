@@ -123,6 +123,12 @@ h2 + .news-feed { margin-top: 0.5rem; }
 <div class="news-feed" role="feed" aria-label="Recent updates">
   <ul class="news-feed__list">
     <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2025-12-05">Jan 8, 2026</time>
+      <div class="news-feed__content">
+        The grant application details have been published. The deadline for grant application is February 10, 2026.
+      </div>
+    </li>
+    <li class="news-feed__item" role="article">
       <time class="news-feed__date" datetime="2025-12-01">Dec 1, 2025</time>
       <div class="news-feed__content">
         The author guidelines and FAQ have been updated to include a limit on first-author submissions.
@@ -194,7 +200,7 @@ All accepted papers and thesis proposals will be presented in **the main confere
 * **ARR Commitment deadline**: January 6, 2026
 * **Notification of acceptance**: February 2, 2026
 * **Camera-ready papers due**: February 16, 2026
-* **Grant application deadline**: February 9, 2026
+* **Grant application deadline**: ~~February 9, 2026~~ February 10, 2026
 * **Grant application notification**: February 16, 2026
 * **Workshop dates**: TBC (the same as the main conference)
 
@@ -262,8 +268,16 @@ The deadline for ARR commitment is January 6, 2026, which is shortly after the E
 We require all authors to have an OpenReview account to submit their papers. If you do not have an OpenReview account, please create one at [https://openreview.net/signup](https://openreview.net/signup) well in advance of the submission deadline. We do not accept late submissions due to account creation issues except for exceptional circumstances.
 
 ## Grants
-We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted here.
+We will offer a limited number of grants to help students cover the costs of attending the SRW. The grants will cover registration fees, and may also include travel and accommodation expenses depending on the availability of funds. Candidates will be assessed based on their application package (details below).
 
+To apply for a grant, please submit your application through the grant application form (link to be provided in due course) by February 10, 2026 (AoE). The notification of grant awards will be sent out by February 16, 2026 (AoE).
+
+**Eligibility criteria**:  
+* Applicants must be full-time students.
+* Submission requires a completed Application Form with a few questions and a concise one-page CV (resume).
+* Travel and accommodations should be arranged independently, regardless of the application outcome.
+
+Authors are encouraged to apply for other schemes of financial support provided by EACL 2026, including [Diversity & Inclusion Subsidies]({{ '/calls/d-i-subsidies/' | relative_url }}) and [Student Volunteer Grant]({{ '/calls/student-volunteers/' | relative_url }}).
 
 ## Contact Information
 For more information, please follow us on X/Twitter <a href="https://x.com/eacl_srw">@eacl_srw</a>.  
