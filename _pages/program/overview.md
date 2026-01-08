@@ -8,8 +8,41 @@ toc: true
 toc_title: "On this page"
 ---
 
+<style>
+  /* Base text adjustments */
+  body, p, li {
+    font-size: 16px !important; /* Smaller font (standard is usually 16-18px) */
+    line-height: 1.4 !important; /* Reduces space between lines */
+  }
+  
+  /* Make tables compact */
+  table {
+    font-size: 14px !important;
+    width: 100%;
+    margin-bottom: 1.5em;
+  }
+  th, td {
+    padding: 6px 10px !important; /* Reduces whitespace inside table cells */
+  }
+  
+  /* Tighten Headings */
+  h2 {
+    font-size: 1.6em !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 0.5em !important;
+  }
+  h3 {
+    font-size: 1.3em !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.5em !important;
+  }
+  
+  /* Reduce spacing around lists */
+  ul, ol {
+    margin-bottom: 10px !important;
+  }
+</style>
 
-**Program Overview**
 
 ### Tuesday, March 24: Pre-Conference
 

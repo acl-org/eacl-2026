@@ -146,3 +146,33 @@ $page-max-width: 904px;
     max-height: 2rem;
   }
 }
+
+
+/* --- GLOBAL FONT ADJUSTMENTS --- */
+
+/* 1. Reset Root Size (Keep titles large) */
+html {
+  font-size: 100% !important; /* Ensures titles stay at default size */
+}
+
+/* 2. Shrink ONLY the content text (Paragraphs, Lists, Tables) */
+body, p, li, td, th, div {
+  font-size: 18px !important; /* Adjust this number to make text smaller */
+  line-height: 1.5 !important; /* Condensed spacing */
+}
+
+/* 3. Compact Tables */
+table {
+  width: 100%;
+}
+td, th {
+  padding: 6px 10px !important; /* Reduces whitespace inside cells */
+}
+
+/* 4. Ensure Headings remain large and distinct */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important;
+  line-height: 1.25 !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.5em !important;
+}
