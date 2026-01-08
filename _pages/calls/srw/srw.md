@@ -277,7 +277,7 @@ To apply for a grant, please submit your application through the grant applicati
 * Submission requires a completed Application Form with a few questions and a concise one-page CV (resume).
 * Travel and accommodations should be arranged independently, regardless of the application outcome.
 
-Authors are encouraged to apply for other schemes of financial support provided by EACL 2026, including [Diversity & Inclusion Subsidies]({{ '/calls/d-i-subsidies/' | relative_url }}) and [Student Volunteer Grant]({{ '/calls/student-volunteers/' | relative_url }}).
+Authors are encouraged to also apply for other schemes of financial support provided by EACL 2026, including [Diversity & Inclusion Subsidies]({{ '/calls/d-i-subsidies/' | relative_url }}) and [Student Volunteer Grant]({{ '/calls/student-volunteers/' | relative_url }}).
 
 ## Contact Information
 For more information, please follow us on X/Twitter <a href="https://x.com/eacl_srw">@eacl_srw</a>.  
