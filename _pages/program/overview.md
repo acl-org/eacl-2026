@@ -48,9 +48,10 @@ toc_title: "On this page"
 
 | Time | Event |
 | :--- | :--- |
-| 08:00 - 09:00 | Arabic Spring School Registration |
-| 10:30 - 19:30 | Main Conference Registration |
-| 18:00 - 20:00 | Welcome Reception |
+| 08:00 - 09:00 | Arabic Spring School Regisration (Closed session. For approved applicants only) |
+| 09:00 - 17:00 |  [Arabic NLP School](https://arabicnlpschool2026.sigarab.org/) (Closed session. For approved applicants only) |
+| 10:30 - 19:30 | Main Conference Registration for Main conference attendees |
+| 18:00 - 20:00 | Welcome Reception for Main conference attendees and their registered guests |
 
 ## Wednesday, March 25, 2026 - Main Conference
 
