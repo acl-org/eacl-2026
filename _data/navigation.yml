@@ -17,12 +17,11 @@ attending:
   - title: Participant Information
     children:
       - title: Visa Requirements
-        url: /participants/visa/
+        url: "{{ '/participants/visa/' | relative_url }}"
       - title: Conference Venue
-        url: /participants/venue/
-        # url: "{{ '/participants/venue/' | relative_url }}"
-
-
+        url: "{{ '/participants/venue/' | relative_url }}"
+      - title: Local Guide – Rabat
+        url: "{{ '/participants/local-guide/' | relative_url }}"
 
 program:
   - title: "PROGRAMS"

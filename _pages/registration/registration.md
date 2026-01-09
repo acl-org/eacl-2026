@@ -134,7 +134,7 @@ The ACL Executive Committee has established three registration tiers. Each has a
 
 **Policy:** At least one author of each accepted paper to an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) must register their paper to present at the conference.
 
-### Presentation Fees
+<!-- ### Presentation Fees
 *(In addition to conference registration cost)*
 * **In-person:** $200
 * **Virtual:** $100
@@ -146,6 +146,20 @@ The ACL Executive Committee has established three registration tiers. Each has a
 * **Coverage:** One fee covers up to **2 accepted papers**. Additional registration fees apply for any papers above 2.
 * **Exceptions:**
     * **Findings papers** that are not being presented do not require registration. (All findings being presented must have 1 author register their paper to present and the presenter must also be registered for the conference.) 
+    * **Workshop shared-task papers** do not need to register their paper to present but if presenting must be registered for the conference. -->
+
+### Presentation Fees
+*(In addition to conference registration cost)*
+* **In-person:** $200
+* **Virtual:** $100
+
+**Note on Fees:** All Paper registration fees are based on the actual hard cost to the conference.
+* The **In-person** Register paper fee of $200 reflects the attendees’ hard costs of food & beverage (breaks, welcome reception, and social dinner) along with meeting space, AV, or poster presentation equipment.
+* The **Virtual** Register paper fees of $100 reflect the virtual costs (internet, AV, content management, platforms).
+
+* **Coverage:** One fee covers up to **2 accepted papers**. Additional registration fees apply for any papers above 2.
+* **Exceptions:**
+    * **Findings papers:** EACL 2026 requires all Findings papers to be presented (either in person or virtually). At least one author must register their paper to present and the presenter must also be registered for the conference.
     * **Workshop shared-task papers** do not need to register their paper to present but if presenting must be registered for the conference.
 
 ### Important Deadlines for Authors
