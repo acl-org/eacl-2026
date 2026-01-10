@@ -40,6 +40,27 @@ sidebar:
   }
 </style>
 
+<!-- ## Registration Tiers
+
+## Author Registration Details
+
+## Subsidies & Regional Waivers
+
+## Registration Inclusions
+
+## Membership Policies
+
+## In-Person Rates
+
+## Virtual Rates
+
+## Cancellation Policy
+
+## Code of Ethics
+
+## Anti-Harassment Policy -->
+
+## Registration Information
 **Conference Dates:** March 24–29, 2026  
 **Registration Link:** [Register now at https://acl.swoogo.com/eacl2026](https://acl.swoogo.com/eacl2026)
 
@@ -49,13 +70,13 @@ We offer early and late rates to encourage early registrations. This helps us es
 * **Early Registration:** Ends February 24, 2026 (AOE)
 * **Late Registration:** Ends for In-Person and Virtual: March 23, 2026 23:59 (UTC)
 * **On-site Registration:** Will open for In-Person and Virtual on March 24–29.
-  * **Tuesday, March 24:** 08:00 – 20:30
+<!--   * **Tuesday, March 24:** 08:00 – 20:30
   * **Wednesday, March 25:** 07:30 – 17:00
   * **Thursday, March 26:** 08:30 – 17:00
   * **Friday, March 27:** 08:30 – 17:00
   * **Saturday, March 28:** 08:30 – 17:00
   * **Sunday, March 29:** 08:30 – 17:00
-  *(All times are Rabat, Morocco Time)*
+  *(All times are Rabat, Morocco Time)* -->
 * **Conference Schedule:** [Click Here for Conference Schedule Overview](/program/)
 
 ---
@@ -69,8 +90,32 @@ The ACL Executive Committee has established three registration tiers. Each has a
 * **Student Pricing:** Discounted tier for enrolled students; requires proof of status.
 
 ---
+<!-- ## Authors Registered Paper Presentation Fees
+
+(In addition to conference registration cost)
+
+Author Register Paper (for presentation) Industrial/Non-Academic, Academic or Student. All Registration fees cover up to 2 accepted papers. Additional registration fees apply for any papers above 2. -->
+## Author Registration Details
+### Authors Registered Paper Presentation Fees
+*(In addition to conference registration cost)*
+
+Author Register Paper (for presentation) Industrial/Non-Academic, Academic or Student. All Registration fees cover up to 2 accepted papers. Additional registration fees apply for any papers above 2.
+
+At least one author of each accepted paper to an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) must register their paper to present at the conference. Exceptions to the statement above:
+* Accepted Finding that are not being presented. (All findings being presented must have 1 author register their paper to present and the presenter must also be registered for the conference.)
+* Workshop shared tasked papers do not need to register their paper to present but if presenting must be registered for the conference.
+
+**Please note: All conference attendees must be registered to attend the conference. If an author is not registered, they will not be able to access the venue or Underline site.**
+
+Note that all Paper registration fees are based on the actual hard cost to the conference.
+* **In-person Register paper fee of $200** reflects the attendees’ hard costs of food & beverage (breaks, welcome reception, and social dinner) along with meeting space, av or poster presentation equipment.
+* **Virtual Register paper fees of $100** reflect the virtual costs (internet, AV, content management, platforms).
+
+
 
 ## Registration Rates
+
+## In-Person Rates
 
 ### In-Person Full Conference Rates
 
@@ -99,6 +144,8 @@ The ACL Executive Committee has established three registration tiers. Each has a
 | 1 Day - Academic | $125 | $150 | $175 |
 | 1 Day - Registering Paper Student | $275 | $300 | $325 |
 | 1 Day - Student | $75 | $100 | $125 |
+
+## Virtual Rates
 
 ### Virtual Full Conference Rates
 
@@ -130,10 +177,10 @@ The ACL Executive Committee has established three registration tiers. Each has a
 
 ---
 
-## Author Registration Details
+<!-- ## Author Registration Details
 
 **Policy:** At least one author of each accepted paper to an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) must register their paper to present at the conference.
-
+ -->
 <!-- ### Presentation Fees
 *(In addition to conference registration cost)*
 * **In-person:** $200
@@ -148,19 +195,7 @@ The ACL Executive Committee has established three registration tiers. Each has a
     * **Findings papers** that are not being presented do not require registration. (All findings being presented must have 1 author register their paper to present and the presenter must also be registered for the conference.) 
     * **Workshop shared-task papers** do not need to register their paper to present but if presenting must be registered for the conference. -->
 
-### Presentation Fees
-*(In addition to conference registration cost)*
-* **In-person:** $200
-* **Virtual:** $100
 
-**Note on Fees:** All Paper registration fees are based on the actual hard cost to the conference.
-* The **In-person** Register paper fee of $200 reflects the attendees’ hard costs of food & beverage (breaks, welcome reception, and social dinner) along with meeting space, AV, or poster presentation equipment.
-* The **Virtual** Register paper fees of $100 reflect the virtual costs (internet, AV, content management, platforms).
-
-* **Coverage:** One fee covers up to **2 accepted papers**. Additional registration fees apply for any papers above 2.
-* **Exceptions:**
-    * **Findings papers:** EACL 2026 requires all Findings papers to be presented (either in person or virtually). At least one author must register their paper to present and the presenter must also be registered for the conference.
-    * **Workshop shared-task papers** do not need to register their paper to present but if presenting must be registered for the conference.
 
 ### Important Deadlines for Authors
 * **Main Conference, Findings, CL/TACL, Demos, Industry & SRW papers:** February 17, 2026
@@ -185,10 +220,9 @@ Invited speakers and panelists will receive a registration code. Additional invi
 ## D&I Subsidies and Regional Waivers
 D&I subsidies remain available to offset registration and travel costs.
 * **D&I Subsidy [Application](https://forms.gle/CRcj82pSTba2WFc37) Deadline:** February 7, 2026 23:59 PM (AOE).
-* **Student Volunteer Subsidy [Application](https://forms.gle/FQsaESw61dZGCcyX8) Deadline:** January 23, 2026 23:59 PM (AOE).
-* **Grant Notifications:** Scheduled for February 16, 2026.
 * Papers with all authors in regions eligible for free/sliding-scale virtual registration may register under those terms.
-* If you have submitted a subsidy application, please select the payment option: **“My registration has been approved by an ACL grant code.”**
+* **Student Volunteer Subsidy [Application](https://forms.gle/FQsaESw61dZGCcyX8) Deadline:** January 23, 2026 23:59 PM (AOE).
+* If you have submitted a subsidy application, please select the payment option: **“My registration has been approved by an ACL grant code.”** Grant notifications are scheduled for February 16, 2026
 * If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full to gain entry to the conference.
 
 ---

@@ -46,12 +46,28 @@ program:
         url: /program/keynotes/
 
 registration:
-  - title: Registration
+  - title: Registration Information
     children:
-      - title: "EACL 2026 Registration"
-        url: /registration/
-      - title: "Virtual Discounted Registration"
-        url: /virtualdiscounts/
+      - title: Registration Tiers
+        url: /registration/#registration-tiers
+      - title: Author Registration Details
+        url: /registration/#author-registration-details
+      - title: Subsidies & Regional Waivers
+        url: /registration/#D\&I-Subsidies-and-Regional-Waivers
+      - title: Registration Inclusions
+        url: /registration/#registration-inclusions
+      - title: Membership Policies
+        url: /registration/#membership-policy
+      - title: In-Person Rates
+        url: /registration/#in-person-rates
+      - title: Virtual Rates
+        url: /registration/#virtual-rates
+      - title: Cancelation Policy
+        url: /registration/#cancellation-policy
+      - title: Code of Ethics
+        url: /registration/#code-of-ethics
+      - title: Anti Harassment Policy
+        url: /registration/#anti-harassment-policy
 
 calls:
   - title: Call for
