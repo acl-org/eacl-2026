@@ -217,7 +217,7 @@ Invited speakers and panelists will receive a registration code. Additional invi
 
 ---
 
-## D&I Subsidies and Regional Waivers
+## Subsidies and Regional Waivers
 D&I subsidies remain available to offset registration and travel costs.
 * **D&I Subsidy [Application](https://forms.gle/CRcj82pSTba2WFc37) Deadline:** February 7, 2026 23:59 PM (AOE).
 * Papers with all authors in regions eligible for free/sliding-scale virtual registration may register under those terms.
