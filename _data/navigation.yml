@@ -18,15 +18,15 @@ attending:
     children:
       - title: Venue
         url: /participants/venue/
-        children:   # <--- THIS SECTION ADDS THE SUBTITLES
-          - title: Conference Venue
-            url: /participants/venue/#conference-venue
-          - title: Accommodations
-            url: /participants/venue/#accommodations
-          - title: About Vienna
-            url: /participants/venue/#about-vienna
-          - title: Language
-            url: /participants/venue/#language
+        # children:   # <--- THIS SECTION ADDS THE SUBTITLES
+        #   - title: Conference Venue
+        #     url: /participants/venue/#conference-venue
+        #   - title: Accommodations
+        #     url: /participants/venue/#accommodations
+        #   - title: About Vienna
+        #     url: /participants/venue/#about-vienna
+        #   - title: Language
+        #     url: /participants/venue/#language
       - title: Travel
         url: /participants/local-guide/
       - title: Visa
