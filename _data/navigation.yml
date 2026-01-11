@@ -5,7 +5,7 @@ main:
   - title: "Committees"
     url: /committees/organization/
   - title: "Participant Information"
-    url: /participants/
+    url: /participants/venue/
   - title: "Registration"
     url: /registration/
   - title: "Program"
@@ -14,15 +14,23 @@ main:
     url: /sponsors/
 
 attending:
-  - title: Participant Information
+  - title: Information For
     children:
-      - title: Visa Requirements
-        url: "{{ '/participants/visa/' | relative_url }}"
-      - title: Conference Venue
-        url: "{{ '/participants/venue/' | relative_url }}"
-      - title: Local Guide – Rabat
-        url: "{{ '/participants/local-guide/' | relative_url }}"
-
+      - title: Venue
+        url: /participants/venue/
+        children:   # <--- THIS SECTION ADDS THE SUBTITLES
+          - title: Conference Venue
+            url: /participants/venue/#conference-venue
+          - title: Accommodations
+            url: /participants/venue/#accommodations
+          - title: About Vienna
+            url: /participants/venue/#about-vienna
+          - title: Language
+            url: /participants/venue/#language
+      - title: Travel
+        url: /participants/local-guide/
+      - title: Visa
+        url: /participants/visa/
 program:
   - title: "PROGRAMS"
     children:

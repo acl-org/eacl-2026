@@ -31,27 +31,10 @@ h3 + .committee-list {
 .heading-divider{border-top:1px solid #e5e7eb;margin:.25rem 0 1rem;}
 </style>
 
-{% comment %} Map short role categories -> display headings {% endcomment %}
-{% assign role_headings =  {
-  "General": "General Chair",
-  "Program": "Program Chair",
-  "Local Organization": "Local Organization Chair",
-  "Workshop": "Workshop Chair",
-  "Tutorial": "Tutorial Chair",
-  "Internal Communications": "Internal Communications Chair",
-
-  "Demo": "Demonstration Chair",
-  "SRW": "Student Research Workshop Chair",
-  "Faculty SRW": "Faculty Advisor to the Student Research Workshop",
-  "Industry": "Industry Chair",
-  "Sponsorship": "Sponsorship Chair",
-  "Publication": "Publication Chair",
-  "Publicity": "Publicity Chair",
-  "Communications": "Internal Communications Chair",  "Website": "Website Chair",
-  "Local": "Local Arrangements Chair",
-  "ED&I": "Diversity and Inclusion Chair"
-} %}
-
+{% comment %} 
+  NOTE: Ensure these keys match the exact "Role" string in your _data/organizers.yml 
+  Example: if your data says "Communications", this list must say "Communications" (not "Internal Communications").
+{% endcomment %}
 {% assign preferred = "General|Program|Local Organization|Workshop|Tutorial|Internal Communications" | split:"|" %}
 {% assign groups = site.data.organizers | group_by: "Role" %}
 
@@ -60,8 +43,17 @@ h3 + .committee-list {
   {% assign bucket = groups | where: "name", r | first %}
   {% if bucket and bucket.items.size > 0 %}
 
-    {% comment %} Get base heading; avoid double-adding "Chair" if role already ends with it {% endcomment %}
-    {% assign _mapped = role_headings[r] %}
+    {% comment %} MAPPING LOGIC REPLACEMENT {% endcomment %}
+    {% assign _mapped = nil %}
+    {% case r %}
+      {% when "Student SRW" %}{% assign _mapped = "Student Research Workshop Chair" %}
+      {% when "Faculty SRW" %}{% assign _mapped = "Faculty Advisor to the Student Research Workshop" %}
+      {% when "Communications" %}{% assign _mapped = "Internal Communications Chair" %}
+      {% when "Local" %}{% assign _mapped = "Local Arrangements Chair" %}
+      {% when "ED&I" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
+      {% when "Diversity and Inclusion" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
+    {% endcase %}
+
     {% if _mapped %}
       {% assign heading = _mapped %}
     {% else %}
@@ -93,7 +85,7 @@ h3 + .committee-list {
   {% if r == "Local Organization" %}
     {% comment %} 
        SPECIAL CASE: For Local Organization, DO NOT SORT. 
-       Respect the order in the _data file (e.g. to keep the main contact first).
+       Respect the order in the _data file.
     {% endcomment %}
     {%- for person in bucket.items -%}
       {% include committee_card.html
@@ -136,8 +128,17 @@ h3 + .committee-list {
 {% for g in groups %}
   {% unless preferred contains g.name %}
 
-    {% comment %} Get base heading; avoid double-adding "Chair" {% endcomment %}
-    {% assign _mapped = role_headings[g.name] %}
+    {% comment %} MAPPING LOGIC REPLACEMENT {% endcomment %}
+    {% assign _mapped = nil %}
+    {% case g.name %}
+      {% when "Student SRW" %}{% assign _mapped = "Student Research Workshop Chair" %}
+      {% when "Faculty SRW" %}{% assign _mapped = "Faculty Advisor to the Student Research Workshop" %}
+      {% when "Communications" %}{% assign _mapped = "Internal Communications Chair" %}
+      {% when "Local" %}{% assign _mapped = "Local Arrangements Chair" %}
+      {% when "ED&I" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
+      {% when "Diversity and Inclusion" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
+    {% endcase %}
+
     {% if _mapped %}
       {% assign heading = _mapped %}
     {% else %}
@@ -157,13 +158,16 @@ h3 + .committee-list {
     {% endif %}
 
 ### {{ heading }}
+
+<div class="heading-divider"></div>
+
 {% comment %} ED&I contact line (remaining-groups loop) {% endcomment %}
 {% if g.name == "ED&I" or g.name == "Diversity and Inclusion" %}
 <p class="committee-contact">
   Contact: <a href="mailto:eacl2026deichairs@gmail.com">eacl2026deichairs@gmail.com</a>
 </p>
-<div class="heading-divider"></div>
 {% endif %}
+
 <div class="committee-list">
   {%- assign _annot = "" -%}
   {%- for p in g.items -%}
@@ -192,11 +196,10 @@ h3 + .committee-list {
   {% endunless %}
 {% endfor %}
 
-
 ## Contact
 
 - **General Chair**: [Aline Villavicencio](https://sites.google.com/view/alinev)
-- **Program Chairs**: [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg.html), [Kentaro Inui](https://kentaro-inui.github.io/), Lluís Marquez Villodre
+- **Program Chairs**: [Vera Demberg](https://www.uni-saarland.de/en/lehrstuhl/demberg.html), [Kentaro Inui](https://kentaro-inui.github.io/), Lluís Marquez Villodre
 
 For questions related to paper submission, email: <editors@aclrollingreview.org>  
 

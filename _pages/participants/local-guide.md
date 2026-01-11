@@ -1,5 +1,5 @@
 ---
-title: "Local Guide – Rabat"
+title: "Local Guide"
 layout: single
 permalink: /participants/local-guide/
 sidebar:

@@ -60,7 +60,7 @@ sidebar:
 
 ## Anti-Harassment Policy -->
 
-## Registration Information
+<!-- ## Registration Information -->
 **Conference Dates:** March 24–29, 2026  
 **Registration Link:** [Register now at https://acl.swoogo.com/eacl2026](https://acl.swoogo.com/eacl2026)
 
@@ -70,13 +70,6 @@ We offer early and late rates to encourage early registrations. This helps us es
 * **Early Registration:** Ends February 24, 2026 (AOE)
 * **Late Registration:** Ends for In-Person and Virtual: March 23, 2026 23:59 (UTC)
 * **On-site Registration:** Will open for In-Person and Virtual on March 24–29.
-<!--   * **Tuesday, March 24:** 08:00 – 20:30
-  * **Wednesday, March 25:** 07:30 – 17:00
-  * **Thursday, March 26:** 08:30 – 17:00
-  * **Friday, March 27:** 08:30 – 17:00
-  * **Saturday, March 28:** 08:30 – 17:00
-  * **Sunday, March 29:** 08:30 – 17:00
-  *(All times are Rabat, Morocco Time)* -->
 * **Conference Schedule:** [Click Here for Conference Schedule Overview](/program/)
 
 ---

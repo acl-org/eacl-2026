@@ -1,12 +1,14 @@
 ---
-title: "Conference Venue"
+title: "Venue"
 layout: single
 permalink: /participants/venue/
 sidebar:
   nav: attending
 toc: true
-toc_title: "On this page"
+toc_sticky: true           # MOVES it to the right sidebar and makes it follow the scroll
+toc_label: "On this page"
 ---
+
 
 
 ## Conference Venue
