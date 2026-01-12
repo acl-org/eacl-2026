@@ -94,8 +94,8 @@ Author Register Paper (for presentation) Industrial/Non-Academic, Academic or St
 
 Author Register Paper (for presentation) Industrial/Non-Academic, Academic or Student. All Registration fees cover up to 2 accepted papers. Additional registration fees apply for any papers above 2.
 
-At least one author of each accepted paper to an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) must register their paper to present at the conference. Exceptions to the statement above:
-* Accepted Finding that are not being presented. (All findings being presented must have 1 author register their paper to present and the presenter must also be registered for the conference.)
+At least one author of each accepted paper to an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) must register their paper to present at the conference. EACL 2026 requires all Findings papers to be presented (either in person or virtually). Exceptions to the statement above:
+
 * Workshop shared tasked papers do not need to register their paper to present but if presenting must be registered for the conference.
 
 **Please note: All conference attendees must be registered to attend the conference. If an author is not registered, they will not be able to access the venue or Underline site.**
