@@ -32,16 +32,16 @@ Spanning over **11,000 m²**, it offers versatile spaces for conferences, exhibi
 * **Starting Rates:** Single occupancy **2490 MAD** / Double occupancy **2690 MAD**
 
 
-**Reservations Instructions**
+**Reservations Instructions:**
+To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki@sofitel.com)** with the following details:
 
-Email: aziza.sadiki@sofitel.com
-Subject line should read: “EACL26Sofitel Reservation needed”
-Body of email should include: 
-Legal name on Passport
-Date of Arrival
-Date of Departure
-Single or Double Occupancy
-Any accessibility needs
+* **Subject Line:** “EACL26Sofitel Reservation needed”
+* **Body of email:**
+  * Legal name on Passport
+  * Date of Arrival
+  * Date of Departure
+  * Single or Double Occupancy
+  * Any accessibility needs
 
 
 **Notes:**
@@ -61,7 +61,6 @@ Any accessibility needs
 **La Tour Hassan Palace (5★)**
 * **Address:** 26 B.P. 14 Av. Chellah, Rabat 10000
 * **Phone:** +212 5372-39000
-* **Rates:** Single 2450 MAD / Double 3300 MAD
 
 **Hotel Rabat (5★)**
 * **Address:** 21 Avenue Chellah Hassan 10000 Rabat
