@@ -270,7 +270,7 @@ We require all authors to have an OpenReview account to submit their papers. If 
 ## Grants
 We will offer a limited number of grants to help students cover the costs of attending the SRW. The grants will cover registration fees, and may also include travel and accommodation expenses depending on the availability of funds. Candidates will be assessed based on their application package (details below).
 
-To apply for a grant, please submit your application through the grant application form (link to be provided in due course) by February 10, 2026 (AoE). The notification of grant awards will be sent out by February 16, 2026 (AoE).
+To apply for a grant, please submit your application through [https://forms.gle/mxjQ77JQjewdMMsW9](https://forms.gle/mxjQ77JQjewdMMsW9) by February 10, 2026 (AoE). The notification of grant awards will be sent out by February 16, 2026 (AoE).
 
 **Eligibility criteria**:  
 * Applicants must be full-time students.
