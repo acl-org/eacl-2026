@@ -163,15 +163,6 @@ Tap water in Rabat is generally treated and considered safe for washing and brus
 * Don’t bargain aggressively in professional or formal settings
 * Avoid drinking alcohol in public areas outside licensed venues
 
-## Public Transportation Etiquette
-* Always wait in line and allow passengers to exit before boarding buses, trams, or trains
-* Offer seats to elderly passengers, pregnant women, and people with disabilities
-* Keep your voice low and avoid loud phone conversations
-* Do not eat or drink on public transport unless it is explicitly allowed
-* Respect personal space and avoid overcrowding where possible
-* Hold onto handrails when standing on moving vehicles for safety
-* Validate your ticket or pass before boarding and keep it handy for inspection
-* Be courteous to drivers, conductors, and fellow passengers at all times
 
 ## Tipping
 * Tipping in Morocco is appreciated but not required.
@@ -241,13 +232,23 @@ Tap water in Rabat is generally treated and considered safe for washing and brus
 
 ### From Airport/Train Station to Palais des Congrès Bouregreg
 
-**From Rabat–Salé Airport to Palais des Congrès Bouregreg**
-* **Grand Taxi / Private Transfer:** Recommended for a direct ride; travel time is about 15–20 minutes
-* **Car Rental / Ride-Hailing:** Services like private transfer or local apps are convenient alternatives
+**From Rabat–Salé Airport to city center (Rabat Ville Train Station OR Rabat Agdal Train Station)**
+* **The shuttle bus from Rabat–Salé Airport to the city center is available for a fare of 25 Moroccan dirhams. The last departure is around 11pm.** 
+* **A Taxi station is located at the exit gate of the Airport. Fares are posted in the Public Hall for all the destinations. For instance, for Rabat city center, the fare is 150DH day/ 200DH night.** 
+* **Car Rental / Ride-Hailing**: Services like private transfer or local apps are convenient alternatives.  
 
-**From Rabat Ville Train Station to Palais des Congrès Bouregreg**
+**From Rabat Ville Train Station to Venue**
 * **Grand Taxi / Private Transfer:** About 10–15 minutes ride.
-* **Tram + Taxi:** You can take the tram within the city and then use a short Grand Taxi ride if needed. Note: Petit Taxis are only suitable for short trips
+* **Tram + Taxi:** You can take the tram within the city and then use a short Grand Taxi ride if needed.
+
+## Public Transportation Etiquette
+* Always wait in line and allow passengers to exit before boarding buses, trams, or trains
+* Offer seats to elderly passengers, pregnant women, and people with disabilities
+* Keep your voice low and avoid loud phone conversations
+* Validate your ticket before boarding.
+
+For more details on transportation, click [here](/participants/local-guide/).
+
 
 ## Important Notes
 
