@@ -31,11 +31,22 @@ Spanning over **11,000 m²**, it offers versatile spaces for conferences, exhibi
 * **Phone:** +212 5376-75656
 * **Starting Rates:** Single occupancy **2490 MAD** / Double occupancy **2690 MAD**
 
+
+**Reservations Instructions**
+
+Email: aziza.sadiki@sofitel.com
+Subject line should read: “EACL26Sofitel Reservation needed”
+Body of email should include: 
+Legal name on Passport
+Date of Arrival
+Date of Departure
+Single or Double Occupancy
+Any accessibility needs
+
+
 **Notes:**
 * Complimentary shuttle service provided to and from the venue.
 * This hotel will be the location for the conference social event.
-
-> 📩 **Email and discount code for reservation coming soon!**
 
 ---
 
