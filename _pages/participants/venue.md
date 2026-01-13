@@ -25,6 +25,8 @@ Spanning over **11,000 m²**, it offers versatile spaces for conferences, exhibi
 
 ### Conference Host Hotel
 
+Listed below are the EACL ‘26 recommended conference hotels. When conference attendees book at one of these hotels, you will receive a shuttle pass at check-in to access the shuttle to and from the Venue. To receive your pass, you will need to show proof of registration for the conference. Be sure to print your registration confirmation ahead of time to have it available at the time of check-in. 
+
 **Sofitel Rabat Jardin des Roses (5★)**
 
 * **Address:** Avenue Imam Malek, Impasse, Rabat 10000, Morocco
@@ -112,7 +114,50 @@ To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki
 
 ---
 
-## Local Information About Rabat
+## Transportation
+
+### Recommended Transportation Options
+**Blassty** is the first multimodal mobility application in Morocco, launched by Rabat Région Mobilité (RRM) to unify urban transportation across Rabat, Salé, and Témara. It provides real-time bus and tram schedules, parking availability, bicycle-taxi locations, and optimized route planning based on time, cost, and distance.
+
+* **Trains (ONCF)** – Efficient for traveling between Rabat and nearby cities like Casablanca, Kenitra. Comfortable and reliable for conference attendees. It can also be used to travel to major Moroccan cities such as Tangier and Marrakech
+* **Trams (Rabat-Salé Tramway)** – Modern tram network connecting major districts, ideal for daily commuting within the city
+
+**Taxis**
+* **Petit Taxi** – Small, affordable taxis for short trips within the city. Always agree on the fare in advance or make sure the meter is running. Petit taxis cannot travel between cities, so they cannot be used to go from Rabat to Salé or vice versa. Each city has its own distinctive color for petit taxis (blue for Rabat and beige for Sale)
+* **Grand Taxi** – Larger taxis are ideal for longer distances or group travel and can be shared with other passengers. They usually follow predefined routes and directions, are typically white in color, and are allowed to travel between cities
+
+* **[Buses](https://traveling.com/en-us/bus/station/rabat-bus-station)** – Public buses cover most city areas; inexpensive but may be slower due to traffic
+* **Car Rentals / Ride-Hailing** – Services like private transfer or local car rentals offer flexibility for sightseeing or business travel
+* **Walking** – Central areas, medinas, and riverfront promenades are pedestrian-friendly, especially for short distances
+* **Bicycles and Scooters** – Some areas provide bike lanes or rental services for eco-friendly travel
+
+### From Airport/Train Station to Palais des Congrès Bouregreg
+
+**From Rabat–Salé Airport to city center (Rabat Ville Train Station OR Rabat Agdal Train Station)**
+* **The shuttle bus from Rabat–Salé Airport to the city center is available for a fare of 25 Moroccan dirhams. The last departure is around 11pm.** 
+* **A Taxi station is located at the exit gate of the Airport. Fares are posted in the Public Hall for all the destinations. For instance, for Rabat city center, the fare is 150DH day/ 200DH night.** 
+* **Car Rental / Ride-Hailing**: Services like private transfer or local apps are convenient alternatives.  
+
+**From Rabat Ville Train Station to Venue**
+* **Grand Taxi / Private Transfer:** About 10–15 minutes ride.
+* **[Tram](https://www.tram-way.ma/en/) + Taxi:** You can take the tram within the city and then use a short Grand Taxi ride if needed.
+
+## Public Transportation Etiquette
+* Always wait in line and allow passengers to exit before boarding buses, trams, or trains
+* Offer seats to elderly passengers, pregnant women, and people with disabilities
+* Keep your voice low and avoid loud phone conversations
+* Do not eat or drink on public transport unless it is explicitly allowed
+* Respect personal space and avoid overcrowding where possible
+* Hold onto handrails when standing on moving vehicles for safety
+* Validate your ticket or pass before boarding and keep it handy for inspection
+* Be courteous to drivers, conductors, and fellow passengers at all times
+
+
+For more details on transportation, click [here](/participants/local-guide/).
+
+---
+
+## About Rabat
 
 ![Rabat Cityscape](/assets/images/rabat-city.jpg)
 
@@ -125,13 +170,13 @@ The official language of Morocco is Arabic. As it is the case of all Arabic coun
 Rabat has a mild Mediterranean climate influenced by the Atlantic Ocean. Temperatures are generally moderate throughout the year, with comfortable winters and warm summers. Rainfall is concentrated mainly between November and March. Sea breezes help keep the climate pleasant, especially during warmer months.
 
 ### Weather in March
-March marks the transition from winter to spring in Rabat. Average daytime temperatures range between 16°C and 20°C, with cooler evenings. Rainfall decreases compared to winter months, and sunny days become more frequent. March offers comfortable conditions ideal for outdoor activities, and city exploration.
+March marks the transition from winter to spring in Rabat. Average daytime temperatures range between **16°C** and **20°C**, with cooler evenings. Rainfall decreases compared to winter months, and sunny days become more frequent. March offers comfortable conditions ideal for outdoor activities, and city exploration.
 
 ## Currency
 The official currency of Morocco is the Moroccan Dirham (MAD). Banknotes are issued in denominations of 20, 50, 100, and 200 dirhams, with coins in smaller values. Foreign currencies can be exchanged at banks, hotels, and authorized exchange offices. Major credit and debit cards are widely accepted in hotels, restaurants, and larger shops. ATMs are readily available throughout Rabat and at the airport. Cash is recommended for small purchases, taxis, and local markets. The Moroccan Dirham is a controlled currency and cannot be taken out of the country. Currency exchange receipts should be kept until departure.
 
 ## Power Plugs/Outlets
-Morocco uses Type C and Type E electrical outlets. The standard voltage is 220V with a frequency of 50Hz. Type C plugs have two round pins and are common across Europe. Type E plugs also have two round pins with a grounding pin. Most modern hotels and conference venues support both plug types. Visitors from the UK, USA, Gulf countries, or other regions may need a plug adapter. Voltage converters are recommended for devices that do not support 220V. USB charging ports are increasingly available in hotels and airports.
+Morocco uses **Type C** and **Type E** electrical outlets. The standard voltage is **220V** with a frequency of **50Hz**. Type C plugs have two round pins and are common across Europe. Type E plugs also have two round pins with a grounding pin. Most modern hotels and conference venues support both plug types. Visitors from the UK, USA, Gulf countries, or other regions may need a plug adapter. Voltage converters are recommended for devices that do not support 220V. USB charging ports are increasingly available in hotels and airports.
 
 ## Clothing
 Rabat has a modern and relaxed dress style. Light, breathable clothing is recommended during the day, especially in warmer weather. Smart casual or business attire is suitable for conferences and professional meetings. A light jacket or sweater is useful for cooler evenings and air-conditioned venues. Comfortable footwear is recommended for walking and city exploration. Sunglasses and sun protection are useful on bright days. Evenings may feel cooler near the coast, so layering is practical. In March, layered clothing works best due to mild days and cooler nights.
@@ -213,41 +258,6 @@ Tap water in Rabat is generally treated and considered safe for washing and brus
 * **Bouregreg Marina Promenade** – Leisurely walks, cafés, and occasional live music
 * **Rabat Beaches (Plage de Temara, Plage des Nations)** – Sunbathing, beach sports, and boat rides
 
-## Transportation
-
-### Recommended Transportation Options
-**Blassty** is the first multimodal mobility application in Morocco, launched by Rabat Région Mobilité (RRM) to unify urban transportation across Rabat, Salé, and Témara. It provides real-time bus and tram schedules, parking availability, bicycle-taxi locations, and optimized route planning based on time, cost, and distance.
-
-* **Trains (ONCF)** – Efficient for traveling between Rabat and nearby cities like Casablanca, Kenitra. Comfortable and reliable for conference attendees. It can also be used to travel to major Moroccan cities such as Tangier and Marrakech
-* **Trams (Rabat-Salé Tramway)** – Modern tram network connecting major districts, ideal for daily commuting within the city
-
-**Taxis**
-* **Petit Taxi** – Small, affordable taxis for short trips within the city. Always agree on the fare in advance or make sure the meter is running. Petit taxis cannot travel between cities, so they cannot be used to go from Rabat to Salé or vice versa. Each city has its own distinctive color for petit taxis (blue for Rabat and beige for Sale)
-* **Grand Taxi** – Larger taxis are ideal for longer distances or group travel and can be shared with other passengers. They usually follow predefined routes and directions, are typically white in color, and are allowed to travel between cities
-
-* **Buses** – Public buses cover most city areas; inexpensive but may be slower due to traffic
-* **Car Rentals / Ride-Hailing** – Services like private transfer or local car rentals offer flexibility for sightseeing or business travel
-* **Walking** – Central areas, medinas, and riverfront promenades are pedestrian-friendly, especially for short distances
-* **Bicycles and Scooters** – Some areas provide bike lanes or rental services for eco-friendly travel
-
-### From Airport/Train Station to Palais des Congrès Bouregreg
-
-**From Rabat–Salé Airport to city center (Rabat Ville Train Station OR Rabat Agdal Train Station)**
-* **The shuttle bus from Rabat–Salé Airport to the city center is available for a fare of 25 Moroccan dirhams. The last departure is around 11pm.** 
-* **A Taxi station is located at the exit gate of the Airport. Fares are posted in the Public Hall for all the destinations. For instance, for Rabat city center, the fare is 150DH day/ 200DH night.** 
-* **Car Rental / Ride-Hailing**: Services like private transfer or local apps are convenient alternatives.  
-
-**From Rabat Ville Train Station to Venue**
-* **Grand Taxi / Private Transfer:** About 10–15 minutes ride.
-* **Tram + Taxi:** You can take the tram within the city and then use a short Grand Taxi ride if needed.
-
-## Public Transportation Etiquette
-* Always wait in line and allow passengers to exit before boarding buses, trams, or trains
-* Offer seats to elderly passengers, pregnant women, and people with disabilities
-* Keep your voice low and avoid loud phone conversations
-* Validate your ticket before boarding.
-
-For more details on transportation, click [here](/participants/local-guide/).
 
 
 ## Important Notes
