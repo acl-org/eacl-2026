@@ -174,9 +174,9 @@ Tap water in Rabat is generally treated and considered safe for washing and brus
 * Be courteous to drivers, conductors, and fellow passengers at all times
 
 ## Tipping
-Tipping in Morocco is appreciated but not required.
-In restaurants and cafés, as well as for hotel staff, tour guides, drivers, etc., a modest tip is often given as a thank-you for good service. The common 10-15% is not necessarily respected.
-Tips are generally given in cash and generally range between 5 to 20 MAD.
+* Tipping in Morocco is appreciated but not required.
+* In restaurants and cafés, as well as for hotel staff, tour guides, drivers, etc., a modest tip is often given as a thank-you for good service. The common 10-15% is not necessarily respected.
+* Tips are generally given in cash and generally range between 5 to 20 MAD.
 
 ## Things to Do in Rabat
 
