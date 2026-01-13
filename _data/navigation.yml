@@ -46,6 +46,8 @@ program:
         url: /program/main-accepted/
       - title: "Findings Accepted Papers"
         url: /program/findings-accepted/
+      - title: "Industry Track Accepted Papers"   
+        url: /program/industry-accepted/          
       - title: "Best Paper Awards"
         url: /program/best-paper/
   - title: "EVENTS"
