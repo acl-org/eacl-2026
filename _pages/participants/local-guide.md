@@ -44,6 +44,7 @@ Rabat–Salé Airport is located about 10 km from the city center. Here are the 
 * **Price:** around 100–150 MAD (10–15 USD)
 * **Type:** Grand Taxi (white color)
 * **Where to find it?** Taxis are available directly outside the terminal.
+    * Recommended if you have luggage or arrive at night.
 
 ### Shuttle Bus (Cheaper Option)
 * **Line:** ALSA Bus Shuttle – Line 2
