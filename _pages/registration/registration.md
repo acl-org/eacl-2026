@@ -89,6 +89,21 @@ The ACL Executive Committee has established three registration tiers. Each has a
 
 Author Register Paper (for presentation) Industrial/Non-Academic, Academic or Student. All Registration fees cover up to 2 accepted papers. Additional registration fees apply for any papers above 2. -->
 ## Author Registration Details
+
+### Important Deadlines for Authors
+* **Main Conference, Findings, CL/TACL, Demos, Industry & SRW papers:** February 17, 2026
+* **Workshops:** February 24, 2026 (Early registration deadline; after this, fees increase).
+
+### Important Notes
+* Every paper must be linked to a registered “Author Paper Presenter” (Regular or Student).
+* Papers not registered by the deadlines will be removed from the proceedings and program.
+* Every workshop paper must have one registered author to the conference.
+* Shared task papers are exempt from paying the registering paper fee.
+* Workshop acceptances announced after February 24 may be added to an existing registration.
+* Student presenters may register under the student rate.
+* All conference attendees (including presenting authors) must also be registered for the conference to access the venue or Underline platform.
+
+
 ### Authors Registered Paper Presentation Fees
 *(In addition to conference registration cost)*
 
@@ -96,7 +111,7 @@ Author Register Paper (for presentation) Industrial/Non-Academic, Academic or St
 
 At least one author of each accepted paper to an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) must register their paper to present at the conference. EACL 2026 requires all Findings papers to be presented (either in person or virtually). Exceptions to the statement above:
 
-* Workshop shared tasked papers do not need to register their paper to present but if presenting must be registered for the conference.
+* Workshop shared task papers do not need to register their paper to present but if presenting must be registered for the conference.
 
 **Please note: All conference attendees must be registered to attend the conference. If an author is not registered, they will not be able to access the venue or Underline site.**
 
@@ -189,19 +204,6 @@ Note that all Paper registration fees are based on the actual hard cost to the c
     * **Workshop shared-task papers** do not need to register their paper to present but if presenting must be registered for the conference. -->
 
 
-
-### Important Deadlines for Authors
-* **Main Conference, Findings, CL/TACL, Demos, Industry & SRW papers:** February 17, 2026
-* **Workshops:** February 24, 2026 (Early registration deadline; after this, fees increase).
-
-### Important Notes
-* Every paper must be linked to a registered “Author Paper Presenter” (Regular or Student).
-* Papers not registered by the deadlines will be removed from the proceedings and program.
-* Every workshop paper must have one registered author to the conference.
-* Shared task papers are exempt from paying the registering paper fee.
-* Workshop acceptances announced after February 24 may be added to an existing registration.
-* Student presenters may register under the student rate.
-* All conference attendees (including presenting authors) must also be registered for the conference to access the venue or Underline platform.
 
 ---
 
