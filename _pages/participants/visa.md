@@ -80,4 +80,7 @@ When filling out the online verification form, it is essential to follow the spe
 
 Once the status is verified, the participant must follow the instructions displayed on the website (e-Visa application, AEVM, or consular contact for a physical visa).
 
-For people who need a visa, they can fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSceu1uWn48EB-0-xg9i0VL1wNWbwVd43rk1uIsZfmsR8Khttg/viewform?usp=publish-editor) if they require a letter of invitation.
+<!-- For people who need a visa, they can fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSceu1uWn48EB-0-xg9i0VL1wNWbwVd43rk1uIsZfmsR8Khttg/viewform?usp=publish-editor) if they require a letter of invitation. -->
+For Authors who need a visa and require a letter of invitation, they can fill out this [Authors Form](https://docs.google.com/forms/d/e/1FAIpQLSceu1uWn48EB-0-xg9i0VL1wNWbwVd43rk1uIsZfmsR8Khttg/viewform?usp=publish-editor).
+
+For Organizers who need a visa and require a letter of invitation, they can fill out the [Organizers Form](https://docs.google.com/forms/d/e/1FAIpQLSfWqVBZBJg4JubC1N15L6t5C2uGDHFMDgiFveOcskuecZzbqQ/viewform?usp=header).
