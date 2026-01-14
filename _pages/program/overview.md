@@ -59,7 +59,7 @@ toc_title: "On this page"
 | :--- | :--- |
 | 07:30 - 17:00 | Registration |
 | 09:00 - 10:00 | Session 1: Plenary |
-| 10:00 - 11:00 | Keynote Speaker |
+| 10:00 - 11:00 | Keynote Speaker： Nizar Habash |
 | 11:00 - 11:30 | Break |
 | 11:30 - 13:00 | Session 2: Oral/Posters A |
 | 13:00 - 14:30 | Lunch Break |
@@ -80,7 +80,7 @@ toc_title: "On this page"
 | 14:15 - 14:30 | Transition to Oral Sessions |
 | 14:30 - 16:00 | Session 8: Oral/Posters F |
 | 16:00 - 16:30 | Break |
-| 16:30 - 17:30 | Session 9: Plenary, Keynote Speaker |
+| 16:30 - 17:30 | Session 9: Plenary, Keynote Speaker: Marta R. Costa-Jussà |
 | 19:00 - 22:00 | Social Event |
 
 ## Friday, March 27, 2026 - Main Conference
@@ -92,7 +92,7 @@ toc_title: "On this page"
 | 10:30 - 11:00 | Coffee Break |
 | 11:00 - 12:30 | Session 11: Oral/Posters H |
 | 12:30 - 14:00 | Lunch Break |
-| 14:00 - 15:30 | Session 12: Plenary, Keynote Speaker |
+| 14:00 - 15:30 | Session 12: Plenary, Keynote Speaker: Mariya Toneva |
 | 15:30 - 16:00 | Coffee Break |
 | 16:00 - 17:00 | Session 13: Plenary, Karen Spärck Jones Prize |
 | 17:00 - 17:30 | Closing Session |
