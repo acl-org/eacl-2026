@@ -32,5 +32,5 @@ sidebar:
 ### T4: Multimodal Large Language Models for Human-AI Interaction: Foundations, Agents, and Inclusive Applications
 * **Organizers:** Shafiq Joty, Enamul Hoque, Ahmed Masry, Spandana Gella and Samira Ebrahimi Kahou
 * **Description:** Expository talks with code running
-* **Location:** Pavillon DE RABAT (Level 1)
-* **Time:** Half Day 14:00 - 17:30
+* **Location:** Salle Le Riad (Level 1)
+* **Time:** Half Day 9:00-12:30
