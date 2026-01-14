@@ -59,7 +59,7 @@ toc_title: "On this page"
 | :--- | :--- |
 | 07:30 - 17:00 | Registration |
 | 09:00 - 10:00 | Session 1: Plenary |
-| 10:00 - 11:00 | Keynote Speaker： Nizar Habash |
+| 10:00 - 11:00 | Keynote Speaker: Nizar Habash |
 | 11:00 - 11:30 | Break |
 | 11:30 - 13:00 | Session 2: Oral/Posters A |
 | 13:00 - 14:30 | Lunch Break |
