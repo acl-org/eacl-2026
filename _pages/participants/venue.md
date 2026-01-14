@@ -283,3 +283,31 @@ Tap water in Rabat is generally treated and considered safe for washing and brus
 * **Embassy / Consulate:** Keep your country’s embassy or consulate contact details handy for consular assistance
 * **First Aid:** Basic first aid kits are available in most hotels and conference venues
 * **Stay Calm and Follow Instructions:** Follow local authorities’ directions and inform someone of your location if traveling alone
+
+
+
+<style>
+  /* 1. Target the List Items (The rows) */
+  .sidebar .nav__list li {
+      margin-bottom: 0px !important; /* Remove space between items */
+      line-height: 1.1 !important;   /* Crunch lines closer together */
+      font-size: 1em !important;  /* Keep your small font */
+  }
+
+  /* 2. Target the Links (The clickable text) <--- THIS IS THE FIX */
+  .sidebar .nav__list li a {
+      padding-top: 0px !important;    /* Remove top cushion */
+      padding-bottom: 0px !important; /* Remove bottom cushion */
+  }
+
+  /* 3. Do the same for the Right Sidebar (Table of Contents) */
+  .toc__menu li {
+      margin-bottom: 0px !important;
+      line-height: 1.1 !important;
+      font-size: 0.85em !important;
+  }
+  .toc__menu li a {
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+  }
+</style>
