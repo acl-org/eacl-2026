@@ -119,7 +119,19 @@ Note that all Paper registration fees are based on the actual hard cost to the c
 * **In-person Register paper fee of $200** reflects the attendees’ hard costs of food & beverage (breaks, welcome reception, and social dinner) along with meeting space, av or poster presentation equipment.
 * **Virtual Register paper fees of $100** reflect the virtual costs (internet, AV, content management, platforms).
 
+---
 
+## Membership Policy
+All attendees must be 2026 ACL members. Memberships had to have been purchased in December 2025 or later to be a current member. If memberships have not been paid, a balance will be due at time of registration check-in.
+* **$100:** Industry/Academic
+* **$50:** Students
+
+**Benefits (Jan–Dec 2026):**
+* Access to all ACL conferences without repaying membership.
+* Open access to ACL Anthology, CL Journal, TACL Journal.
+* Notifications of calls, journals, and events.
+
+---
 
 ## Registration Rates
 
@@ -242,17 +254,6 @@ D&I subsidies remain available to offset registration and travel costs.
 * Access to the virtual Presentation.
 * Recorded sessions are available on demand for one month.
 
----
-
-## Membership Policy
-All attendees must be 2026 ACL members. Memberships had to have been purchased in December 2025 or later to be a current member. If memberships have not been paid, a balance will be due at time of registration check-in.
-* **$100:** Industry/Academic
-* **$50:** Students
-
-**Benefits (Jan–Dec 2026):**
-* Access to all ACL conferences without repaying membership.
-* Open access to ACL Anthology, CL Journal, TACL Journal.
-* Notifications of calls, journals, and events.
 
 ---
 
