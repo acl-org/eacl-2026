@@ -31,7 +31,7 @@ Listed below are the EACL ‘26 recommended conference hotels. When conference a
 
 * **Address:** Avenue Imam Malek, Impasse, Rabat 10000, Morocco
 * **Phone:** +212 5376-75656
-* **Starting Rates:** Single occupancy **2490 MAD** / Double occupancy **2690 MAD**
+* **Starting Rates:** Single occupancy **2700 MAD** / Double occupancy **2900 MAD plus taxes**
 
 
 **Reservations Instructions:**
