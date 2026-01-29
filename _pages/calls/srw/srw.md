@@ -123,7 +123,13 @@ h2 + .news-feed { margin-top: 0.5rem; }
 <div class="news-feed" role="feed" aria-label="Recent updates">
   <ul class="news-feed__list">
     <li class="news-feed__item" role="article">
-      <time class="news-feed__date" datetime="2025-12-05">Jan 8, 2026</time>
+      <time class="news-feed__date" datetime="2026-01-029">Jan 29, 2026</time>
+      <div class="news-feed__content">
+        The camera-ready submission deadline has been corrected to February 8, 2026.
+      </div>
+    </li>
+    <li class="news-feed__item" role="article">
+      <time class="news-feed__date" datetime="2026-01-08">Jan 8, 2026</time>
       <div class="news-feed__content">
         The grant application details have been published. The deadline for grant application is February 10, 2026.
       </div>
@@ -199,7 +205,7 @@ All accepted papers and thesis proposals will be presented in **the main confere
 * **Direct Workshop paper submission deadline**: December 22, 2025
 * **ARR Commitment deadline**: January 6, 2026
 * **Notification of acceptance**: February 2, 2026
-* **Camera-ready papers due**: February 16, 2026
+* **Camera-ready papers due**: ~~February 16, 2026~~ February 8, 2026
 * **Grant application deadline**: ~~February 9, 2026~~ February 10, 2026
 * **Grant application notification**: February 16, 2026
 * **Workshop dates**: TBC (the same as the main conference)
