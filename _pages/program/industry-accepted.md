@@ -206,9 +206,6 @@ toc_sticky: true
 **SYMDIREC: A Neuro-Symbolic Divide-Retrieve-Conquer Framework for Enhanced RTL Synthesis and Summarization**
 <br> *Prashanth Vijayaraghavan, Apoorva Nitsure, Luyao Shi, Charles Mackin, Ashutosh Jadhav, David Beymer, Ehsan Degan, Vandana Mukherjee*
 
-**Real-time Meme Token Narrative Generation**
-<br> *Han Qiu*
-
 **Benchmarking and Mitigating the Impact of Noisy User Prompts in Medical VLMs via Cross-Modal Reflection**
 <br> *Zhiyu Xue, Reza Abbasi-Asl, Ramtin Pedarsani*
 
