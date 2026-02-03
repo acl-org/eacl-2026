@@ -208,7 +208,7 @@ All accepted papers and thesis proposals will be presented in **the main confere
 * **Camera-ready papers due**: ~~February 16, 2026~~ February 8, 2026
 * **Grant application deadline**: ~~February 9, 2026~~ February 10, 2026
 * **Grant application notification**: February 16, 2026
-* **Workshop dates**: TBC (the same as the main conference)
+* **Workshop dates**: March 26, 2026
 
 **All deadlines are 11:59PM UTC-12 ("anywhere on Earth").**
 
