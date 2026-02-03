@@ -47,7 +47,9 @@ program:
       - title: "Findings Accepted Papers"
         url: /program/findings-accepted/
       - title: "Industry Track Accepted Papers"   
-        url: /program/industry-accepted/          
+        url: /program/industry-accepted/
+      - title: "Student Research Workshop Accepted Papers"
+        url: /program/srw-accepted/          
       - title: "Best Paper Awards"
         url: /program/best-paper/
   - title: "EVENTS"
