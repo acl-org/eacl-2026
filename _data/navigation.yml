@@ -18,19 +18,51 @@ attending:
     children:
       - title: Venue
         url: /participants/venue/
-        # children:   # <--- THIS SECTION ADDS THE SUBTITLES
-        #   - title: Conference Venue
-        #     url: /participants/venue/#conference-venue
-        #   - title: Accommodations
-        #     url: /participants/venue/#accommodations
-        #   - title: About Vienna
-        #     url: /participants/venue/#about-vienna
-        #   - title: Language
-        #     url: /participants/venue/#language
-      - title: Travel
-        url: /participants/local-guide/
+        children:
+          - title: Conference Venue
+            url: /participants/venue/#conference-venue
+          - title: Accommodations
+            url: /participants/venue/#accommodations
+      - title: Transportation/Travel
+        url: /participants/travel/
+        children:
+          - title: Travel & Transport
+            url: /participants/travel/#travel--transport
+          - title: City Transportation
+            url: /participants/travel/#city-transportation
+          - title: Venue/Hotel Shuttle Transportation
+            url: /participants/travel/#venuehotel-shuttle-transportation
+      - title: About Rabat
+        url: /participants/about-rabat/
+        children:
+          - title: About Rabat
+            url: /participants/about-rabat/#about-rabat
+          - title: Language
+            url: /participants/about-rabat/#language
+          - title: Weather
+            url: /participants/about-rabat/#weather
+          - title: Currency
+            url: /participants/about-rabat/#currency
+          - title: Power Plugs/Outlets
+            url: /participants/about-rabat/#power-plugsoutlets
+          - title: Clothing
+            url: /participants/about-rabat/#clothing
+          - title: Walking
+            url: /participants/about-rabat/#walking
+          - title: Water
+            url: /participants/about-rabat/#water
+          - title: Local Customs
+            url: /participants/about-rabat/#local-customs-dos-and-donts-in-morocco
+          - title: Tipping
+            url: /participants/about-rabat/#tipping
+          - title: Things to Do
+            url: /participants/about-rabat/#things-to-do-in-rabat
+          - title: In Case of Emergency
+            url: /participants/about-rabat/#in-case-of-an-emergency
       - title: Visa
         url: /participants/visa/
+      - title: Poster Printing
+        url: /participants/poster-printing/
 program:
   - title: "PROGRAMS"
     children:

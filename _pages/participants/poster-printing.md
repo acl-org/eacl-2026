@@ -1,8 +1,7 @@
 ---
-title: "Travel & Transport"
+title: "Poster Printing"
 layout: single
-permalink: /participants/local-guide/
-redirect_to: /participants/travel/
+permalink: /participants/poster-printing/
 sidebar:
   nav: attending
 toc: true
@@ -10,7 +9,9 @@ toc_sticky: true
 toc_label: "On this page"
 ---
 
-This page has been moved. Please visit the [Transportation/Travel](/participants/travel/) page for the complete travel and transportation information.
+## Poster Printing Services
+
+Information about poster printing services for EACL 2026 will be available soon. Please check back for updates on local printing shops, recommendations, and any special arrangements for conference attendees.
 
 <style>
   /* 1. Target the List Items (The rows) */
