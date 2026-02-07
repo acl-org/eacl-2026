@@ -61,8 +61,10 @@ sidebar:
 ## Anti-Harassment Policy -->
 
 <!-- ## Registration Information -->
-**Conference Dates:** March 24–29, 2026  
+**Conference Dates:** March 24–29, 2026
 **Registration Link:** [Register now at https://acl.swoogo.com/eacl2026](https://acl.swoogo.com/eacl2026)
+
+> **📞 Questions?** Visit our [Complete Contact Directory](/committees/contact-directory/) for all EACL 2026 email contacts organized by category.
 
 We offer early and late rates to encourage early registrations. This helps us estimate the number of onsite and virtual attendees for planning space, food, beverage, supplies, and to avoid system crashes and other glitches from unexpectedly high volume with last-minute registrations.
 

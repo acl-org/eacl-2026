@@ -198,11 +198,14 @@ h3 + .committee-list {
 
 ## Contact
 
+**📞 Looking for a specific contact? Visit our [Complete Contact Directory](/committees/contact-directory/)** for a comprehensive list of all EACL 2026 email contacts organized by category.
+
 - **General Chair**: [Aline Villavicencio](https://sites.google.com/view/alinev)
 - **Program Chairs**: [Vera Demberg](https://www.uni-saarland.de/en/lehrstuhl/demberg.html), [Kentaro Inui](https://kentaro-inui.github.io/), Lluís Marquez Villodre
 
-For questions related to paper submission, email: <editors@aclrollingreview.org>  
-
-For questions related to paper commitment and program, email: <eacl26-pcs@googlegroups.com>  
-
-For all other questions, email: <eacl2026.contact@gmail.com>
+**Quick Contact Guide:**
+- Paper submission questions: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
+- Paper commitment & program: [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com)
+- All other questions: [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com)
+- **Visa invitation letters**: See [Visa Page](/participants/visa/)
+- **Registration questions**: See [Registration Page](/registration/)

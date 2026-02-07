@@ -43,6 +43,7 @@ To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki
   * Date of Arrival
   * Date of Departure
   * Single or Double Occupancy
+  * Room Type
   * Any accessibility needs
 
 
@@ -54,7 +55,27 @@ To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki
 
 ### EACL Partner Hotels
 
-> 📩 **Email and discount codes coming soon.**
+
+
+**Hotel Oscar Rabat (3★)**
+
+- **Address:** 401 Av. Hassan II, Rabat  
+- **Phone:** +212 682-012289  
+
+- **Starting rates:** Single occupancy: **80 USD** / Double occupancy: **95 USD** **plus taxes**  
+
+**Reservations Instructions**: To book your stay, please email **Amwajvoyage@gmail.com** with the following details:
+
+**Subject:** `EACL26 Oscar Reservation needed`  
+
+**Email body (please include):**
+- Legal name on passport
+- Date of arrival
+- Date of departure
+- Single or double occupancy
+- Room type
+- Any accessibility needs
+
 
 ---
 
@@ -95,10 +116,6 @@ To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki
 **Annakhil Hotel Rabat (3★)**
 * **Address:** Av. d'Alger, Rabat
 * **Phone:** +212 5377-23355
-
-**Hotel Oscar Rabat (3★)**
-* **Address:** 401 Av. Hassan II, Rabat
-* **Phone:** +212 682-012289
 
 **Hôtel Bouregreg (3★)**
 * **Address:** Angle Avenue Hassan II Et Rue Nador, 69, Rabat 10000

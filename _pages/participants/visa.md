@@ -13,7 +13,9 @@ sidebar:
 .visa-table-wrap th,.visa-table-wrap td{vertical-align:top;}
 </style>
 
-## Visa Instructions For EACL’26 Conference
+## Visa Instructions For EACL'26 Conference
+
+> **📞 Need help?** Visit our [Complete Contact Directory](/committees/contact-directory/) for all EACL 2026 email contacts, including visa invitation letter requests.
 
 ### I. The Official Reference Portal
 

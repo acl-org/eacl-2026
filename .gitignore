@@ -12,3 +12,7 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+# Windows device name accidentally detected
+nul
+NUL
+
