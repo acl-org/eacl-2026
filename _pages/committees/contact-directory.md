@@ -29,6 +29,7 @@ This page provides a comprehensive list of contact emails for all EACL 2026 trac
 |---------|------------|---------|
 | **Visa Letters (Authors)** | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSceu1uWn48EB-0-xg9i0VL1wNWbwVd43rk1uIsZfmsR8Khttg/viewform?usp=publish-editor) | Authors needing visa invitation letters |
 | **Visa Letters (Organizers)** | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfWqVBZBJg4JubC1N15L6t5C2uGDHFMDgiFveOcskuecZzbqQ/viewform?usp=header) | Organizers needing visa invitation letters |
+| **Visa Questions (Chairs)** | [eacl.2026.visa.chairs@gmail.com](mailto:eacl.2026.visa.chairs@gmail.com) | Visa-related questions |
 | **Registration Portal** | [https://acl.swoogo.com/eacl2026](https://acl.swoogo.com/eacl2026) | Conference registration |
 | **General Questions** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | Registration inquiries |
 

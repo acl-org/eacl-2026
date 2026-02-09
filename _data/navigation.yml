@@ -63,6 +63,8 @@ attending:
         url: /participants/visa/
       - title: Poster Printing
         url: /participants/poster-printing/
+      - title: Contact Directory
+        url: /committees/contact-directory/
 program:
   - title: "PROGRAMS"
     children:
@@ -118,6 +120,9 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
+        children:
+          - title: "Contact information"
+            url: /committees/contact-directory/
       - title: "Student Research Workshop"
         url: /calls/srw/
       - title: "System Demonstrations"
@@ -153,3 +158,5 @@ committees:
         url: /committees/organization/
       - title: "Senior Program"
         url: /committees/senior/
+      - title: "Contact information"
+        url: /committees/contact-directory/
