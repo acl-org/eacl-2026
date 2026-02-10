@@ -81,7 +81,7 @@ toc: false
       <span class="paper-authors">Yu Cui; Sicheng Pan; Yifei Liu; Haibin Zhang; Cong Zuo</span></li>
   <li><span class="paper-title">VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought</span>
       <span class="paper-authors">Eunsoo Lee; Jeongwoo Lee; Minki Hong; Jangho Choi; Jihie Kim</span></li>
-  <li><span class="paper-title">$\texttt{KNN-SSD}$: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization</span>
+  <li><span class="paper-title">KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization</span>
       <span class="paper-authors">Mingbo Song; Heming Xia; Jun Zhang; Chak Tou Leong; Qiancheng Xu; Wenjie Li; Sujian Li</span></li>
   <li><span class="paper-title">Seeing Between the Verbs: Resolving Ambiguities with Multimodal Sense Clustering</span>
       <span class="paper-authors">Louie Hong Yao; Nicholas Jarvis; Tianyu Jiang</span></li>
@@ -723,7 +723,7 @@ toc: false
       <span class="paper-authors">Guy Mor-Lan; Tamir Sheafer; Shaul R. Shenhav</span></li>
   <li><span class="paper-title">Vietnamese Automatic Speech Recognition: A Revisit</span>
       <span class="paper-authors">Thi Vu; Linh The Nguyen; Dat Quoc Nguyen</span></li>
-  <li><span class="paper-title">\textit{MapCoder-Lite}: Distilling Multi-Agent Coding into a Single Small LLM</span>
+  <li><span class="paper-title">MapCoder-Lite: Distilling Multi-Agent Coding into a Single Small LLM</span>
       <span class="paper-authors">Woongkyu Lee; Junhee Cho; Jungwook Choi</span></li>
   <li><span class="paper-title">When Do Language Models Endorse Limitations on Human Rights Principles?</span>
       <span class="paper-authors">Keenan Samway; Miu Nicole Takagi; Rada Mihalcea; Bernhard Schölkopf; Ilias Chalkidis; Daniel Hershcovich; Zhijing Jin</span></li>
