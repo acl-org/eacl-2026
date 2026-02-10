@@ -76,13 +76,17 @@ program:
         url: /program/tutorials/
   - title: "ACCEPTED"
     children:
-      - title: "Main Conference Accepted Papers"
+      - title: "Main Conference Papers"
         url: /program/main-accepted/
-      - title: "Findings Accepted Papers"
+      - title: "Findings Papers"
         url: /program/findings-accepted/
-      - title: "Industry Track Accepted Papers"   
+      - title: "TACL Papers"
+        url: /program/tacl-papers/
+      - title: "CL Papers"
+        url: /program/cl-papers/
+      - title: "Industry Track Papers"   
         url: /program/industry-accepted/
-      - title: "Student Research Workshop Accepted Papers"
+      - title: "Student Research Workshop Papers"
         url: /program/srw-accepted/          
       - title: "Best Paper Awards"
         url: /program/best-paper/

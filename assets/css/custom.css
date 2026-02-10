@@ -1,0 +1,20 @@
+.sidebar .nav__sub-title,
+.sidebar__right .nav__sub-title,
+.sidebar__left .nav__sub-title,
+.nav__list .nav__sub-title{
+  font-size: 1.1rem !important;      /* 字体更大：1.4~1.8 自己调 */
+  font-weight: 800 !important;
+  letter-spacing: .03em;
+
+  margin-top: 2rem !important;       /* 上方空白更多 */
+  padding-top: .6rem !important;
+
+  border-bottom: 1px solid #e5e7eb !important;
+  padding-bottom: .6rem !important;
+  margin-bottom: .9rem !important;
+}
+
+/* 第一个分组标题不要空太多（可选） */
+.nav__list > ul > li:first-child .nav__sub-title{
+  margin-top: .8rem !important;
+}
