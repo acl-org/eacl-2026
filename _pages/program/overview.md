@@ -44,6 +44,10 @@ toc_title: "On this page"
 </style>
 
 
+Click [Here](https://docs.google.com/spreadsheets/d/1MMdrEz__6HNDzBZM8b5pI7Ve30AoLRQ4fupSMF-iMOU/edit?usp=sharing) for Detailed Program (Please check back for updates)
+
+To authors with an accepted paper, please note if there are any title or author name changes, misspellings, or if you need to change your presentation type from in-person or virtual, or from virtual to in-person, you will need to complete this form [Here](https://eacl2026-paper-author-update.paperform.co/).
+
 ### Tuesday, March 24: Pre-Conference
 
 | Time | Event |
