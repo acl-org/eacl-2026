@@ -23,12 +23,9 @@ Poster printing fees are paid through the **registration system**. If you are al
 
 If you are unable to add a poster through the portal, please email **EACLinfo@yesevents.com** and request that a poster be added to your registration. A balance-due link for payment will be sent to you.
 
-### After payment
-After payment, **both** your payment invoice **and** your poster PDF must be uploaded for confirmation that your poster has been paid for and approved for printing.
-
+After payment, **both** your payment invoice **and** your poster PDF must be uploaded for confirmation that your poster has been paid for and approved for printing. 
 Individuals who have completed their payment may use the designated **submission form** to provide all required information so that their poster is made available at the conference venue.
 
-### Deadlines & onsite payment
 - Onsite orders can be placed **24 hours before pick-up** and must be placed by **noon** for **next-day noon** delivery.
 - Onsite payment can be made in **MAD currency (150 MAD)**.
 
