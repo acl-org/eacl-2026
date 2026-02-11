@@ -23,9 +23,10 @@ Spanning over **11,000 m²**, it offers versatile spaces for conferences, exhibi
 
 ## Accommodations
 
-### Conference Host Hotel
 
 Listed below are the EACL '26 recommended conference hotels. When conference attendees book at one of these hotels, you will receive a shuttle pass at check-in to access the shuttle to and from the Venue. To receive your pass, you will need to show proof of registration for the conference. Be sure to print your registration confirmation ahead of time to have it available at the time of check-in.
+
+### Conference Host Hotel
 
 **Sofitel Rabat Jardin des Roses (5★)**
 
