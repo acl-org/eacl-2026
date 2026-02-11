@@ -9,25 +9,22 @@ toc_sticky: true
 toc_label: "On this page"
 ---
 
-## Poster Printing Services
+## EACL 2026 Poster Printing
 
-We offer **onsite poster printing** for EACL 2026.
+Poster pre-orders and payments will be processed through the conference registration system.
+If you are already registered and would like to have your poster printed onsite, please log in to your registration portal and select “Yes” for onsite poster printing. You will be prompted to upload a PDF of your poster during this process. If you are unable to access your registration account, please contact EACLinfo@yesevents.com for assistance. Once your poster order has been added, the remaining balance will be reflected in your account. Payment must be received prior to poster pickup.
 
-### Poster format (A0)
-- **Size:** 841 × 1189 mm (33.1 × 46.8 inches) — 84.1 × 118.9 cm  
-- **Orientation:** Portrait  
-- **Price:** **$15**
+On-site orders can be placed 24 hours before pick up and must be placed by noon (around lunch time) for delivery at noon the next day. 
 
-### How to request onsite printing
-Poster printing fees are paid through the **registration system**. If you are already registered and would like a poster printed onsite, log in to your registration portal and select **“Yes”** for onsite poster printing.
+Poster Pick-up will be in the registration/orientation area in the Foyer on the ground level, beginning on Wednesday at 8:00 am. 
 
-If you are unable to add a poster through the portal, please email **EACLinfo@yesevents.com** and request that a poster be added to your registration. A balance-due link for payment will be sent to you.
+## Orientation: Portrait
+Size A0: 84.1 x 118.9 cm / 33.1 x 46.8 inches
 
-After payment, **both** your payment invoice **and** your poster PDF must be uploaded for confirmation that your poster has been paid for and approved for printing. 
-Individuals who have completed their payment may use the designated **submission form** to provide all required information so that their poster is made available at the conference venue.
+Price: 15$
 
-- Onsite orders can be placed **24 hours before pick-up** and must be placed by **noon** for **next-day noon** delivery.
-- Onsite payment can be made in **MAD currency (150 MAD)**.
+Deadline for online submission: March 21st
+
 
 
 <style>
