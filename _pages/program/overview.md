@@ -108,7 +108,7 @@ To authors with an accepted paper, please note if there are any title or author 
 
 ## Saturday, March 28, 2026 - Workshops & Tutorials
 
-SEE [WORKSHOP](https://2026.eacl.org/program/workshops/) & [TUTORIAL](https://2026.eacl.org/program/tutorials/) FOR DETAIL SCHEDULE
+SEE [WORKSHOP](https://2026.eacl.org/program/workshops/) & [TUTORIAL](https://2026.eacl.org/program/tutorials/) FOR DETAILED SCHEDULE
 
 | Time | Event |
 | :--- | :--- |
@@ -123,7 +123,7 @@ SEE [WORKSHOP](https://2026.eacl.org/program/workshops/) & [TUTORIAL](https://20
 
 ## Sunday, March 29, 2026 - Workshops & Tutorials
 
-SEE [WORKSHOP](https://2026.eacl.org/program/workshops/) & [TUTORIAL](https://2026.eacl.org/program/tutorials/) FOR DETAIL SCHEDULE
+SEE [WORKSHOP](https://2026.eacl.org/program/workshops/) & [TUTORIAL](https://2026.eacl.org/program/tutorials/) FOR DETAILED SCHEDULE
 
 | Time | Event |
 | :--- | :--- |
