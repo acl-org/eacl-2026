@@ -94,7 +94,8 @@ program:
     children:
       - title: "Keynote Speakers"
         url: /program/keynotes/
-
+      - title: "Paper Presentations"
+        url: /program/oral-poster/
 registration:
   - title: Registration Information
     children:
@@ -144,8 +145,6 @@ calls:
       - title: "Shared Interest & Affinity Groups (BoF)"
         url: /calls/bof/
 
-      - title: ""
-        url: /program/oral-poster/
 
 ethics:
   - title: Ethics
