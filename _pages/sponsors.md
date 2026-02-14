@@ -55,10 +55,21 @@ For any questions regarding sponsorship, please email the EACL Sponsorship Chair
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
   <div class="sponsor-logo">
     <a href="https://translated.com/" target="_blank">
-      <img src="/assets/images/sponsors/translated.png" alt="ELRA" style="max-height: 100px; width: auto;">
+      <img src="/assets/images/sponsors/translated.png" alt="Translated" style="max-height: 100px; width: auto;">
     </a>
   </div>
 </div>
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
+  <div class="sponsor-logo">
+    <a href="" target="_blank">
+      <img src="/assets/images/sponsors/Orange_Master_Logo_RGB.png" alt="Orange" style="max-height: 100px; width: auto;">
+    </a>
+  </div>
+</div>
+
+
 
 <!-- ## Diamond
 
