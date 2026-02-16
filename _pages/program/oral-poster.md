@@ -11,12 +11,9 @@ toc: false
 <h1>Paper Presentations</h1>
 
 <p>
-The schedule of oral and poster presentations for EACL 2026 will be made available closer to the conference dates.
+The detailed program is available on the Program page. This page provides practical information about oral/poster presentation formats and timing.
 </p>
 
-<p>
-This page will list the papers assigned to each presentation format. Please check back for updates.
-</p>
 
 <h2>Talk Presentation Information</h2>
 

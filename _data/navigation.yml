@@ -63,6 +63,8 @@ attending:
         url: /participants/visa/
       - title: Poster Printing
         url: /participants/poster-printing/
+      - title: Presentation Guidelines
+        url: /program/oral-poster/
       - title: Contact Directory
         url: /committees/contact-directory/
 program:
@@ -70,6 +72,8 @@ program:
     children:
       - title: "Conference Overview"
         url: /program/
+      - title: "Presentation Guidelines"
+        url: /program/oral-poster/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
@@ -94,8 +98,7 @@ program:
     children:
       - title: "Keynote Speakers"
         url: /program/keynotes/
-      - title: "Paper Presentations"
-        url: /program/oral-poster/
+
 registration:
   - title: Registration Information
     children:
