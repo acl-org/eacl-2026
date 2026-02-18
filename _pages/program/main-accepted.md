@@ -154,7 +154,7 @@ toc: false
       <span class="paper-authors">Priyansh Singhal; Piyush Joshi</span></li>
   <li><span class="paper-title">CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures</span>
       <span class="paper-authors">Punya Syon Pandey; Yongjin Yang; Jiarui Liu; Zhijing Jin</span></li>
-  <li><span class="paper-title">Improving German-language LLM pre-training with model-based data curation and synthetic data generation</span>
+  <li><span class="paper-title">Aleph-Alpha-GermanWeb: Improving German-language LLM pre-training with model-based data curation and synthetic data generation</span>
       <span class="paper-authors">Thomas F Burns; Letitia Parcalabescu; Stephan Waeldchen; Michael Barlow; Gregor Ziegltrum; Volker Stampa; Bastian Harren; Björn Deiseroth</span></li>
   <li><span class="paper-title">Ultra-Low-Dimensional Prompt Tuning via Random Projection</span>
       <span class="paper-authors">Zijun Wu; Yongchang Hao; Lili Mou</span></li>
@@ -170,7 +170,7 @@ toc: false
       <span class="paper-authors">Yifei Shen; Yilun Zhao; Justice Ou; Tinglin Huang; Arman Cohan</span></li>
   <li><span class="paper-title">Lost in Activations: A Neuron-level Analysis of Encoders for Cross-Lingual Emotion Detection</span>
       <span class="paper-authors">Pranaydeep Singh; Orphee De Clercq; Els Lefever</span></li>
-  <li><span class="paper-title">iBERT: Interpretable Style Embeddings via Sense Decomposition</span>
+  <li><span class="paper-title">iBERT: Interpretable Embeddings via Sense Decomposition</span>
       <span class="paper-authors">Vishal Anand; Milad Alshomary; Kathleen McKeown</span></li>
   <li><span class="paper-title">Attacker&#x27;s Noise Can Manipulate Your Audio-based LLM in the Real World</span>
       <span class="paper-authors">Vinu Sankar Sadasivan; Soheil Feizi; Rajiv Mathews; Lun Wang</span></li>
@@ -257,7 +257,7 @@ toc: false
   <li><span class="paper-title">Layer-wise Swapping for Generalizable Multilingual Safety</span>
       <span class="paper-authors">Hyunseo Shin; Wonseok Hwang</span></li>
   <li><span class="paper-title">Measuring Idiomaticity in Text Embedding Models with $\epsilon$-compositionality</span>
-      <span class="paper-authors">Sondre Wold; Г‰tienne Simon; Erik Velldal; Lilja Г�vrelid</span></li>
+      <span class="paper-authors">Sondre Wold; Étienne Simon; Erik Velldal; Lilja Øvrelid</span></li>
   <li><span class="paper-title">Are My Optimized Prompts Compromised? Exploring Vulnerabilities of LLM-based Optimizers</span>
       <span class="paper-authors">Andrew Zhao; Reshmi Ghosh; Vitor R. Carvalho; Emily Lawton; Keegan Hines; Gao Huang; Jack W. Stokes</span></li>
   <li><span class="paper-title">MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling</span>
@@ -272,7 +272,7 @@ toc: false
       <span class="paper-authors">yuanbo tang; Naifan Zhang; Yan Tang; Meixuan Chen; Shuhan Huang; Tingyu Cao; Yang Li</span></li>
   <li><span class="paper-title">Compact Language Models with Iterative Text Refinement for Health Dialogue Summarization</span>
       <span class="paper-authors">Kellen Tan Cheng; Ganesh Ramesh; Nafiul Rashid; Geoffrey Jay Tso; Jilong Kuang</span></li>
-  <li><span class="paper-title">Mind the Gap: Benchmarking LLM Uncertainty, Discrimination, and Calibration in Specialty-Aware Clinical QA</span>
+  <li><span class="paper-title">Mind the Gap: Benchmarking LLM Uncertainty and Calibration with Specialty-Aware Clinical QA and Reasoning-Based Behavioural Features</span>
       <span class="paper-authors">Alberto Testoni; Iacer Calixto</span></li>
   <li><span class="paper-title">Controlling Reading Ease with Gaze-Guided Text Generation</span>
       <span class="paper-authors">Andreas Säuberli; Darja Jepifanova; Diego Frassinelli; Barbara Plank</span></li>
@@ -371,7 +371,7 @@ toc: false
   <li><span class="paper-title">Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application</span>
       <span class="paper-authors">Haoyu Jiang; Boan Qu; Fanjie Zeng; Xiaojie Lin; Wei Zhong</span></li>
   <li><span class="paper-title">AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders</span>
-      <span class="paper-authors">Aparin Georgii; Tasnima Sadekova; Alexey Rukhovich; Assel Yermekova; Laida Kushnareva; Vadim Popov; Kristian Kuznetsov; Irina Piontkovskaya</span></li>
+      <span class="paper-authors">Georgii Aparin; Tasnima Sadekova; Alexey Rukhovich; Assel Yermekova; Laida Kushnareva; Vadim Popov; Kristian Kuznetsov; Irina Piontkovskaya</span></li>
   <li><span class="paper-title">Vision-Language Models Align with Human Neural Representations in Concept Processing</span>
       <span class="paper-authors">Anna Bavaresco; Marianne de Heer Kloots; Sandro Pezzelle; Raquel Fernández</span></li>
   <li><span class="paper-title">FAID: Fine-grained AI-generated Text Detection using Multi-task Auxiliary and Multi-level Contrastive Learning</span>
@@ -593,7 +593,7 @@ toc: false
   <li><span class="paper-title">DIVINE : Coordinating Multimodal Disentangled Representations for Oro-Facial Neurological Disorder Assessment</span>
       <span class="paper-authors">Mohd Mujtaba Akhtar; Girish; Muskaan Singh</span></li>
   <li><span class="paper-title">Biasless Language Models Learn Unnaturally: How LLMs Fail to Distinguish the Possible from the Impossible</span>
-      <span class="paper-authors">Imry Ziv; Nur Lan; Emmanuel Chemla; Roni Katzir</span></li>
+      <span class="paper-authors">Imry Ziv; Nur Lan; Emmanuel Chemla</span></li>
   <li><span class="paper-title">Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech</span>
       <span class="paper-authors">Mohd Mujtaba Akhtar; Girish; Farhan Sheth; Muskaan Singh</span></li>
   <li><span class="paper-title">Detecting Non-Membership in LLM Training Data via Rank Correlations</span>
@@ -776,7 +776,7 @@ toc: false
       <span class="paper-authors">Bojan Batalo; Erica K. Shimomoto; Dipesh Satav; Neil Millar</span></li>
   <li><span class="paper-title">H3Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs</span>
       <span class="paper-authors">Selim Furkan Tekin; Fatih Ilhan; Sihao Hu; Tiansheng Huang; Yichang Xu; Zachary Yahn; Ling Liu</span></li>
-  <li><span class="paper-title">Revisiting Generalization Across Difficulty Levels: It’s Not So Easy</span>
+  <li><span class="paper-title">Revisiting Generalization Across Difficulty Levels: It's Not So Easy</span>
       <span class="paper-authors">Yeganeh Kordi; Nihal V. Nayak; Max Zuo; Ilana Nguyen; Stephen Bach</span></li>
   <li><span class="paper-title">BLUR: A Bi-Level Optimization Approach for LLM Unlearning</span>
       <span class="paper-authors">Hadi Reisizadeh; Jinghan Jia; Zhiqi Bu; Bhanukiran Vinzamuri; Anil Ramakrishna; Kai-Wei Chang; Volkan Cevher; Sijia Liu; Mingyi Hong</span></li>
@@ -856,7 +856,7 @@ toc: false
       <span class="paper-authors">Renxi Wang; Honglin Mu; Liqun Ma; Lizhi Lin; Yunlong Feng; Timothy Baldwin; Xudong Han; Haonan Li</span></li>
   <li><span class="paper-title">Look Before You Leap: A Lookahead Reasoning Quality Gate for Speculative Decoding</span>
       <span class="paper-authors">Hiroaki Kingetsu; Kaoru Yokoo; Kenji Fukumizu; Manohar Kaul</span></li>
-  <li><span class="paper-title">AnonGuard: A Culturally-Aware Moderation Filter for Arabic Language Models</span>
+  <li><span class="paper-title">FanarGuard: A Culturally-Aware Moderation Filter for Arabic Language Models</span>
       <span class="paper-authors">Masoomali Fatehkia; Enes Altinisik; Husrev Taha Sencar</span></li>
   <li><span class="paper-title">BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation</span>
       <span class="paper-authors">Tsung-Min Pai; Jui-I Wang; Li-Chun Lu; Shao-Hua Sun; Hung-yi Lee; Kai-Wei Chang</span></li>

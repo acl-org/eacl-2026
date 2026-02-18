@@ -426,7 +426,7 @@ toc: false
   <li><span class="paper-title">BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage</span>
       <span class="paper-authors">Kalyan Nakka; Nitesh Saxena</span></li>
   <li><span class="paper-title">The Problem of Ambiguity in Table Question Answering</span>
-      <span class="paper-authors">Jorge Osés Grijalba; L. Alfonso Ureña; Eugenio Martínez-Cámara; Jose Camacho-Collados</span></li>
+      <span class="paper-authors">Jorge Osés Grijalba; L. Alfonso Ureña López; Eugenio Martínez Cámara; Jose Camacho-Collados</span></li>
   <li><span class="paper-title">Beyond Multiple Choice: Evaluating Steering Vectors for Summarization</span>
       <span class="paper-authors">Joschka Braun; Carsten Eickhoff; Seyed Ali Bahrainian</span></li>
   <li><span class="paper-title">Similar Region Search using LLMs on Spatial Feature Space</span>
