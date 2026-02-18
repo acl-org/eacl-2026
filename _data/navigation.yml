@@ -81,7 +81,7 @@ program:
   - title: "ACCEPTED"
     children:
       - title: "Main Conference Papers"
-        url: /program/main-accepted/
+        url: /program/main-accepted.sot-updated/
       - title: "Findings Papers"
         url: /program/findings-accepted/
       - title: "TACL Papers"
