@@ -81,7 +81,7 @@ toc: false
       <span class="paper-authors">Yu Cui; Sicheng Pan; Yifei Liu; Haibin Zhang; Cong Zuo</span></li>
   <li><span class="paper-title">VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought</span>
       <span class="paper-authors">Eunsoo Lee; Jeongwoo Lee; Minki Hong; Jangho Choi; Jihie Kim</span></li>
-  <li><span class="paper-title">`KNN-SSD`: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization</span>
+  <li><span class="paper-title">$\texttt{KNN-SSD}$: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization</span>
       <span class="paper-authors">Mingbo Song; Heming Xia; Jun Zhang; Chak Tou Leong; Qiancheng Xu; Wenjie Li; Sujian Li</span></li>
   <li><span class="paper-title">Seeing Between the Verbs: Resolving Ambiguities with Multimodal Sense Clustering</span>
       <span class="paper-authors">Louie Hong Yao; Nicholas Jarvis; Tianyu Jiang</span></li>
