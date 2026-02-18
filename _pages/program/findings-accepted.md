@@ -27,7 +27,7 @@ toc: false
       <span class="paper-authors">Rrubaa Panchendrarajan; Arkaitz Zubiaga</span></li>
   <li><span class="paper-title">WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning</span>
       <span class="paper-authors">Yuchen Zhuang; Di Jin; Jiaao Chen; Wenqi Shi; Hanrui Wang; Chao Zhang</span></li>
-  <li><span class="paper-title">Being Kind Isn’t Always Being Safe: Diagnosing Affective Hallucination in LLMs</span>
+  <li><span class="paper-title">Being Kind Isn't Always Being Safe: Diagnosing Affective Hallucination in LLMs</span>
       <span class="paper-authors">Sewon Kim; Jiwon Kim; SeungWoo Shin; Hyejin Chung; Daeun Moon; Yejin Kwon; Hyunsoo Yoon</span></li>
   <li><span class="paper-title">Aligning Large Vision-Language Models via Joint Multimodal Preference Optimization</span>
       <span class="paper-authors">Jiwon Kim; Hyunsoo Yoon</span></li>
@@ -81,7 +81,7 @@ toc: false
       <span class="paper-authors">Yu Cui; Sicheng Pan; Yifei Liu; Haibin Zhang; Cong Zuo</span></li>
   <li><span class="paper-title">VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought</span>
       <span class="paper-authors">Eunsoo Lee; Jeongwoo Lee; Minki Hong; Jangho Choi; Jihie Kim</span></li>
-  <li><span class="paper-title">KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization</span>
+  <li><span class="paper-title">`KNN-SSD`: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization</span>
       <span class="paper-authors">Mingbo Song; Heming Xia; Jun Zhang; Chak Tou Leong; Qiancheng Xu; Wenjie Li; Sujian Li</span></li>
   <li><span class="paper-title">Seeing Between the Verbs: Resolving Ambiguities with Multimodal Sense Clustering</span>
       <span class="paper-authors">Louie Hong Yao; Nicholas Jarvis; Tianyu Jiang</span></li>
@@ -220,7 +220,7 @@ toc: false
   <li><span class="paper-title">Best-of-L: Cross-Lingual Reward Modeling for Mathematical Reasoning</span>
       <span class="paper-authors">Sara Rajaee; Rochelle Choenni; Ekaterina Shutova; Christof Monz</span></li>
   <li><span class="paper-title">Nuanced Toxicity Detection in Spanish: A New Corpus and Benchmark Study</span>
-      <span class="paper-authors">Alba María Mármol-Romero; Robiert Sepúlveda-Torres; Estela Saquete; María-Teresa Martín-Valdivia; L. Alfonso Ureña</span></li>
+      <span class="paper-authors">Alba María Mármol-Romero, Robiert Sepúlveda-Torres, Estela Saquete, María-Teresa Martín-Valdivia, Alfonso Ureña</span></li>
   <li><span class="paper-title">Persona Switch: Mixing Distinct Perspectives in Decoding Time</span>
       <span class="paper-authors">Junseok Kim; Nakyeong Yang; Kyomin Jung</span></li>
   <li><span class="paper-title">Revealing the Truth with ConLLM for Detecting Multi-Modal Deepfakes</span>
@@ -710,7 +710,7 @@ toc: false
   <li><span class="paper-title">DeVisE: Towards the Behavioral Testing of Medical Large Language Models</span>
       <span class="paper-authors">Camila Zurdo Tagliabue; Heloisa Oss Boll; Aykut Erdem; Erkut Erdem; Iacer Calixto</span></li>
   <li><span class="paper-title">Improving Decoder-only Language Models for Sequence Labeling through Sequence Repetition</span>
-      <span class="paper-authors">Matija Luka KukiД‡; Marko ДЊuljak; David DukiД‡; Martin Tutek; Jan Е najder</span></li>
+      <span class="paper-authors">Matija Luka Kukić; Marko Čuljak; David Dukić; Martin Tutek; Jan Šnajder</span></li>
   <li><span class="paper-title">MEENA (PersianMMMU): Multimodal-Multilingual Educational Exams for N-level Assessment</span>
       <span class="paper-authors">Omid Ghahroodi; Arshia Hemmat; Marzia Nouri; Seyed Mohammad Hadi Hosseini; Doratossadat Dastgheib; Mohammad Vali Sanian; Alireza Sahebi; Reihaneh Zohrabi; Mohammad Hossein Rohban; Ehsaneddin Asgari; Mahdieh Soleymani Baghshah</span></li>
   <li><span class="paper-title">Teaching Old Tokenizers New Words: Efficient Tokenizer Adaptation for Pretrained Models</span>
