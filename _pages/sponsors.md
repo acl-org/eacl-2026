@@ -63,7 +63,7 @@ For any questions regarding sponsorship, please email the EACL Sponsorship Chair
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
   <div class="sponsor-logo">
-    <a href="http://www.orange.com/en/accueil" target="_blank">
+    <a href="https://www.orange.com/en" target="_blank">
       <img src="/assets/images/sponsors/Orange_Master_Logo_RGB.png" alt="Orange" style="max-height: 100px; width: auto;">
     </a>
   </div>
