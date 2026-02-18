@@ -60,6 +60,7 @@ To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki
 EACL 2026 is pleased to provide a limited number of discounted rooms for registered student attendees. Accommodations are available at the National Institute for Court Clerks and Legal and Judicial Professionals at the following rates:
 
 **Room rates**
+
 Single occupancy: 180 MAD per night  
 Double occupancy: 280 MAD per night  
 
