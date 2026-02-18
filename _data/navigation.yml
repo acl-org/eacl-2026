@@ -23,6 +23,8 @@ attending:
             url: /participants/venue/#conference-venue
           - title: Accommodations
             url: /participants/venue/#accommodations
+          - title: Student Accommodations
+            url: /participants/venue/#student-accommodations
       - title: Transportation/Travel
         url: /participants/travel/
         children:

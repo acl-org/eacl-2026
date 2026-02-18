@@ -53,6 +53,38 @@ To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki
 * This hotel will be the location for the conference social event.
 
 ---
+## Student Accommodations
+
+### Special Accommodation Offer for EACL 2026 Student Attendees
+
+EACL 2026 is pleased to provide a limited number of discounted rooms for registered student attendees. Accommodations are available at the National Institute for Court Clerks and Legal and Judicial Professionals at the following rates:
+
+**Room rates**
+Single occupancy: 180 MAD per night  
+Double occupancy: 280 MAD per night  
+
+A complimentary daily shuttle will transport guests to and from the conference venue.
+
+### Reservation & payment details
+Requests are processed on a first‑come, first‑served basis, determined by payment received.
+Once payment is completed, your room is **fully guaranteed**.
+
+### No refunds will be issued
+If your application is selected, an invoice will be emailed to you. Payment is required within 48 hours. If payment is not received, your room will be offered to the next applicant.
+
+
+### Submit your request
+If interested, please complete the application (form)[https://forms.gle/KJeDHtTrjqwsj3XK7]:  
+
+
+If you are unable to access the form, please see the attached pdf [Here]({{ "/assets/docs/EACL 26 Student Accommodation Request.pdf" | relative_url }}) and email your responses to **events@randrplanning.com**.
+
+<!-- Optional: if you upload a PDF application form, uncomment and set the correct path:
+If you cannot access the online form, you can also download the PDF application form here:
+[Student accommodation application (PDF)]({{ "/assets/docs/student-accommodation-application.pdf" | relative_url }})
+-->
+
+---
 
 ### EACL Partner Hotels
 
