@@ -22,6 +22,7 @@ The detailed program is available on the Program page. This page provides practi
   <li>Each oral presentation has an <strong>18-minute slot</strong>: <strong>14 minutes</strong> for the talk + <strong>4 minutes</strong> for Q&amp;A.</li>
   <li>Please plan to finish slightly early to allow for chair announcements and speaker changeover.</li>
   <li>Session chairs will keep time to ensure sessions run on schedule.</li>
+  <li>In the <strong>Industry Track</strong>, each oral presentation has a <strong>15-minute</strong> slot: <strong>13 minutes</strong> for the talk + <strong>2 minutes</strong> for Q&A</li>
 </ul>
 
 <h3>Virtual oral presentations</h3>
