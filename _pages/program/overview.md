@@ -82,7 +82,7 @@ To authors with an accepted paper, please note if there are any title or author 
 | 10:30 - 11:00 | Break |
 | 11:00 - 12:30 | Session 6: Oral/Posters E |
 | 12:30 - 13:30 | Lunch Break |
-| 12:45 - 14:45 | Virtual Session 3 - via Zoom (Main, Industry, SRW & Demo) |
+| 12:45 - 14:15 | Virtual Session 3 - via Zoom (Main, Industry, SRW & Demo) |
 | 13:30 - 14:15 | Session 7: Business Meeting |
 | 14:15 - 14:30 | Transition to Oral Sessions |
 | 14:30 - 16:00 | Session 8: Oral/Posters F |
