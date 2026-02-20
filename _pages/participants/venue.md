@@ -113,6 +113,9 @@ If you are unable to access the form, please see the attached pdf [Here]({{ "/as
 
 ### Additional Local Hotel Options
 
+To inquire about room reservation on the hotels listed below, visit Booking.com or call/WhatsApp the hotel directly with the number provided.
+
+
 **La Tour Hassan Palace (5★)**
 * **Address:** 26 B.P. 14 Av. Chellah, Rabat 10000
 * **Phone:** +212 5372-39000
