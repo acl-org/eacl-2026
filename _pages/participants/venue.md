@@ -32,20 +32,6 @@ Listed below are the EACL '26 recommended conference hotels. When conference att
 
 * **Address:** Avenue Imam Malek, Impasse, Rabat 10000, Morocco
 * **Phone:** +212 5376-75656
-<!-- * **Starting Rates:** Single occupancy **2700 MAD** / Double occupancy **2900 MAD plus taxes**
-
-
-**Reservations Instructions:**
-To book your stay, please email **[aziza.sadiki@sofitel.com](mailto:aziza.sadiki@sofitel.com)** with the following details:
-
-* **Subject Line:** "EACL26Sofitel Reservation needed"
-* **Body of email:**
-  * Legal name on Passport
-  * Date of Arrival
-  * Date of Departure
-  * Single or Double Occupancy
-  * Room Type
-  * Any accessibility needs -->
 
 **Host hotel is fully booked. You can call the hotel to see if they have had any cancelations however the group rate is no longer available.**
 
