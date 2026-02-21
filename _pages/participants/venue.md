@@ -81,7 +81,7 @@ If your application is selected, an invoice will be emailed to you. Payment is r
 If interested, please complete the application [form](https://forms.gle/KJeDHtTrjqwsj3XK7):  
 
 
-If you are unable to access the form, please see the attached pdf [Here]({{ "/assets/docs/EACL 26 Student Accommodation Request.pdf" | relative_url }}) and email your responses to **[events@randrplanning.com](mailto:aziza.sadiki@sofitel.com)**.
+If you are unable to access the form, please see the attached pdf [Here]({{ "/assets/docs/EACL 26 Student Accommodation Request.pdf" | relative_url }}) and email your responses to **[acladmin@aclweb.org](mailto:acladmin@aclweb.org)**.
 
 ---
 
