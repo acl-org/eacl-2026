@@ -42,6 +42,18 @@ toc_title: "On this page"
   ul, ol {
     margin-bottom: 10px !important;
   }
+
+  /* Keep the Time column on one line (match the yellow example) */
+  table td:first-child,
+  table th:first-child {
+    white-space: nowrap !important;
+    width: 9.5rem;           /* adjust if needed */
+  }
+
+  /* Optional: make the time column slightly bolder for readability */
+  table td:first-child {
+    font-weight: 600;
+  }
 </style>
 
 
