@@ -1,7 +1,7 @@
 ---
 title: "Conference Overview"
 layout: single
-permalink: /program/
+permalink: /program/overview
 sidebar:
   nav: program
 toc: true
