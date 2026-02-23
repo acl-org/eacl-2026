@@ -139,7 +139,7 @@ Below you can find the keynote speakers for EACL 2026, including the scheduled d
 
 <div class="speaker-container">
   <div class="speaker-photo">
-    <img src="/assets/images/speakers/andrew_yates.jpg" alt="Andrew Yates" onerror="this.src='https://placehold.co/150x150?text=Andrew'">
+    <img src="/assets/images/speakers/andrewyates.jpg" alt="Andrew Yates" onerror="this.src='https://placehold.co/150x150?text=Andrew'">
   </div>
   <div class="speaker-info">
     <h3 class="speaker-name">Andrew Yates</h3>
