@@ -22,9 +22,10 @@ toc_title: "On this page"
     margin-bottom: 1.5em;
   }
   th, td {
-    padding: 6px 10px !important; /* Reduces whitespace inside table cells */
+    padding: 6px 10px !important;
+    vertical-align: top !important; /* <-- add this */
   }
-  
+    
   /* Tighten Headings */
   h2 {
     font-size: 1.6em !important;
