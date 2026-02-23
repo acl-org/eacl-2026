@@ -73,7 +73,7 @@ program:
   - title: "PROGRAMS"
     children:
       - title: "Conference Overview"
-        url: /program/
+        url: /program/overview.sot-updated/
       - title: "Presentation Guidelines"
         url: /program/oral-poster/
       - title: "Workshops"
