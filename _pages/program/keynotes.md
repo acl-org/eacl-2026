@@ -84,7 +84,7 @@ Below you can find the keynote speakers for EACL 2026, including the scheduled d
     <div class="speaker-affiliation">Professor of Computer Science, New York University Abu Dhabi</div>
 
     <div class="talk-details">
-      <div class="talk-meta"><strong>Date:</strong> Wednesday, March 25, 2026 &nbsp; <strong>Time:</strong> 10:00–11:00 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1</div>
+      <div class="talk-meta"><strong>Date:</strong> Wednesday, March 25, 2026 &nbsp; <strong>Time:</strong> 10:00–11:00 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1)</div>
       <div class="talk-title"><strong>Title:</strong> Arabic and Technology: A 40-Year Perspective</div>
       <div class="talk-abstract"><strong>Abstract:</strong> Over the past four decades, work at the intersection of Arabic and technology has evolved alongside major technical breakthroughs and shifting regional and global political dynamics. In this talk, I revisit the development of Arabic NLP and AI, from early foundational efforts to today’s large-scale generative systems, and highlight how each phase has engaged with distinct aspects of Arabic’s linguistic complexity. I reflect on the language’s ambiguous orthography, rich morphology, diglossic landscape, and wide geographic and historical reach, and on the growing research community committed to ensuring that AI technologies meaningfully support Arabic and its diverse cultural expressions. I conclude with a forward-looking vision for building a cohesive and sustainable ecosystem that advances Arabic in AI through strengthened training, deeper collaboration, and sustained innovation for the next generation of researchers and practitioners.</div>
     </div>
@@ -105,7 +105,7 @@ Below you can find the keynote speakers for EACL 2026, including the scheduled d
     <div class="speaker-affiliation">Research Scientist, FAIR at Meta</div>
 
     <div class="talk-details">
-      <div class="talk-meta"><strong>Date:</strong> Thursday, March 26, 2026 &nbsp; <strong>Time:</strong> 16:30–17:30 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1</div>
+      <div class="talk-meta"><strong>Date:</strong> Thursday, March 26, 2026 &nbsp; <strong>Time:</strong> 16:30–17:30 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1)</div>
       <div class="talk-title"><strong>Title:</strong> TBA (to be announced)</div>
       <div class="talk-abstract"><strong>Abstract:</strong> TBA (to be announced)</div>
     </div>
@@ -126,7 +126,7 @@ Below you can find the keynote speakers for EACL 2026, including the scheduled d
     <div class="speaker-affiliation">Faculty Member, Max Planck Institute for Software Systems</div>
 
     <div class="talk-details">
-      <div class="talk-meta"><strong>Date:</strong> Friday, March 27, 2026 &nbsp; <strong>Time:</strong> 14:00–15:30 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1</div>
+      <div class="talk-meta"><strong>Date:</strong> Friday, March 27, 2026 &nbsp; <strong>Time:</strong> 14:00–15:30 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1)</div>
       <div class="talk-title"><strong>Title:</strong> Large Language Models as Model Organisms of Language in the Human Brain</div>
       <div class="talk-abstract"><strong>Abstract:</strong> Language is one of the richest and most complex human cognitive capacities. Yet, we lack a model organism to study its underlying neural mechanisms: unlike other important cognitive capacities, such as vision or memory, language does not have a clear counterpart in non-human animals, leaving a gap in our ability to develop and test mechanistic hypotheses. In recent years, large language models (LLMs) have emerged as the closest computational analogs we have but how can we use them effectively as model organisms for language in the human brain? In this talk, I will discuss the promise and challenges of this approach. I will present our recent work on brain-tuning using naturalistic brain recordings to refine LLMs so that their internal representations and processing better align with human neural data. But beyond representational similarity, a key question remains: do LLMs rely on mechanisms that are similar to those in the brain? And at what level of abstraction should we assess this similarity? This research direction aims to transform LLMs from mere engineering artifacts into powerful scientific tools for uncovering how the brain supports our most distinctive cognitive ability</div>
     </div>
@@ -147,7 +147,7 @@ Below you can find the keynote speakers for EACL 2026, including the scheduled d
     <div class="speaker-affiliation">Senior Research Scientist at Johns Hopkins University</div>
 
     <div class="talk-details">
-      <div class="talk-meta"><strong>Date:</strong> Friday, March 27, 2026 &nbsp; <strong>Time:</strong> 16:00–17:00 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1</div>
+      <div class="talk-meta"><strong>Date:</strong> Friday, March 27, 2026 &nbsp; <strong>Time:</strong> 16:00–17:00 &nbsp; <strong>Location:</strong> Salle Le Riad (Level 1)</div>
       <div class="talk-title"><strong>Title:</strong> Search with Complex Topics and Learned Sparse Retrieval</div>
       <div class="talk-abstract"><strong>Abstract:</strong> Today, search is used by LLMs to support retrieval-augmented generation as well as by humans. In this new setting, how does what we want from a search engine change, and what are promising approaches to take? I will describe work on two themes related to these questions: (1) retrieving documents to support complex information needs in the context of long-form retrieval-augmented generation and (2) exploring learned sparse retrieval as a promising paradigm for first-stage retrieval. In the former line of work, I will discuss search systems aimed at maximizing coverage of relevant information and approaches for evaluating their ability to do so independent of a generation system. In the latter line of work, I will describe research positioning learned sparse retrieval as a compelling alternative to dense retrieval.</div>
     </div>
