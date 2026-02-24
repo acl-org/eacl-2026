@@ -102,6 +102,8 @@ program:
         url: /program/keynotes/
       - title: "Social Event"
         url: /program/social-event/
+      - title: "Birds of Feather"
+        url: /program/birds-of-feather/
 
 
 registration:
