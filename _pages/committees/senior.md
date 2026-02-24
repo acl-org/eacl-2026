@@ -32,7 +32,7 @@ toc: false
 
 <p class="spc-note">
 For now, Senior Program Committee members are listed in <strong>alphabetical order</strong>.
-Area/role assignments will be added once confirmed by the Program Chairs.
+Area/role assignments will be added once confirmed.
 </p>
 
 <ul class="spc-list">
