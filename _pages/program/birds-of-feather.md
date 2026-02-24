@@ -11,6 +11,15 @@ toc_title: "On this page"
 
 <h1>Birds of Feather</h1>
 
+<style>
+/* Birds of Feather schedule: keep times on one line */
+.page__content table td:first-child,
+.page__content table th:first-child{
+  white-space: nowrap;
+  width: 9.5rem;
+}
+</style>
+
 <p>Birds of Feather Sessions will take place during the Main conference Days on Wednesday, March 25 - Friday, March 27, 2026. Please see the online conference schedule on Underline or Whova for session details. Overview</p>
 
 <p>Please also check the online conference schedule on Underline/Whova for the latest updates.</p>
