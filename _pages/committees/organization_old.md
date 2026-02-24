@@ -35,7 +35,7 @@ h3 + .committee-list {
   NOTE: Ensure these keys match the exact "Role" string in your _data/organizers.yml 
   Example: if your data says "Communications", this list must say "Communications" (not "Internal Communications").
 {% endcomment %}
-{% assign preferred = "General|Program|Local Organization|Workshop|ACL Workshop Officers|Tutorial|Internal Communications|Open Review Technical Platform Chair|Softconf Technical Platform Chair" | split:"|" %}
+{% assign preferred = "General|Program|Local Organization|Workshop|Tutorial|Internal Communications" | split:"|" %}
 {% assign groups = site.data.organizers | group_by: "Role" %}
 
 {% comment %} 1) Print preferred roles in this exact order {% endcomment %}
@@ -57,30 +57,11 @@ h3 + .committee-list {
     {% if _mapped %}
       {% assign heading = _mapped %}
     {% else %}
-      {% assign _raw_role = r | strip %}
-      {% assign _nochair = false %}
-      {% if _raw_role contains "Editors-in-Chief" or _raw_role contains "Editor-in-Chief" %}
-        {% assign _nochair = true %}
-      {% endif %}
-      {% if _raw_role contains "Team" or _raw_role contains "Staff" or _raw_role contains "Officers" or _raw_role contains "Volunteer" or _raw_role contains "Infrastructure" %}
-        {% assign _nochair = true %}
-      {% endif %}
-      {% if _raw_role contains "Audio Visual" %}
-        {% assign _nochair = true %}
-      {% endif %}
-      {% if _raw_role == "Underline" %}
-        {% assign _nochair = true %}
-      {% endif %}
-
-      {% if _nochair %}
-        {% assign heading = _raw_role %}
+      {% assign _last = r | split: ' ' | last %}
+      {% if _last == "Chair" or _last == "Chairs" %}
+        {% assign heading = r %}
       {% else %}
-        {% assign _last = _raw_role | split: ' ' | last %}
-        {% if _last == "Chair" or _last == "Chairs" %}
-          {% assign heading = _raw_role %}
-        {% else %}
-          {% assign heading = _raw_role | append: " Chair" %}
-        {% endif %}
+        {% assign heading = r | append: " Chair" %}
       {% endif %}
     {% endif %}
 
@@ -161,30 +142,11 @@ h3 + .committee-list {
     {% if _mapped %}
       {% assign heading = _mapped %}
     {% else %}
-      {% assign _raw_role = g.name | strip %}
-      {% assign _nochair = false %}
-      {% if _raw_role contains "Editors-in-Chief" or _raw_role contains "Editor-in-Chief" %}
-        {% assign _nochair = true %}
-      {% endif %}
-      {% if _raw_role contains "Team" or _raw_role contains "Staff" or _raw_role contains "Officers" or _raw_role contains "Volunteer" or _raw_role contains "Infrastructure" %}
-        {% assign _nochair = true %}
-      {% endif %}
-      {% if _raw_role contains "Audio Visual" %}
-        {% assign _nochair = true %}
-      {% endif %}
-      {% if _raw_role == "Underline" %}
-        {% assign _nochair = true %}
-      {% endif %}
-
-      {% if _nochair %}
-        {% assign heading = _raw_role %}
+      {% assign _last = g.name | split: ' ' | last %}
+      {% if _last == "Chair" or _last == "Chairs" %}
+        {% assign heading = g.name %}
       {% else %}
-        {% assign _last = _raw_role | split: ' ' | last %}
-        {% if _last == "Chair" or _last == "Chairs" %}
-          {% assign heading = _raw_role %}
-        {% else %}
-          {% assign heading = _raw_role | append: " Chair" %}
-        {% endif %}
+        {% assign heading = g.name | append: " Chair" %}
       {% endif %}
     {% endif %}
 
