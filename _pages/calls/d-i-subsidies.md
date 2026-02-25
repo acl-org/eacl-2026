@@ -13,6 +13,13 @@ toc_icon: "cog"
 
 ## Call for Diversity & Inclusion Subsidies
 
+<div class="notice--danger" markdown="1">
+The application period for EACL 2026 D&I grants is now officially closed. Please note that <strong>we are unable to reopen the application form or accept any late submissions</strong>, including requests sent via email.  
+
+All available funds for this cycle have been fully committed and allocated. We thank all applicants for their interest and look forward to seeing the community in Rabat.
+</div>
+
+
 ### Instructions
 
 Applicants should fill out [this form](https://forms.gle/CRcj82pSTba2WFc37) before **February 7, 2026, 23:59 PM (UTC-12:00 “Anywhere on Earth”)**.
