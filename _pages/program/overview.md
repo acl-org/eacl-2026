@@ -4,7 +4,7 @@ layout: single
 permalink: /program/
 sidebar:
   nav: program
-toc: true
+toc: false
 toc_title: "On this page"
 ---
 
