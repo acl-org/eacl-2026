@@ -148,7 +148,7 @@ Below you can find the keynote speakers for EACL 2026, including the scheduled d
   </div>
   <div class="speaker-info">
     <h3 class="speaker-name">Andrew Yates</h3>
-    <div class="speaker-award">Karen Spärck Jones Award recipient</div>
+    <div class="speaker-award">Karen Spärck Jones Awardee and Lecture</div>
     <div class="speaker-affiliation">Senior Research Scientist at Johns Hopkins University</div>
 
     <div class="talk-details">
