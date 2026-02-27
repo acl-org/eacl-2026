@@ -43,7 +43,7 @@ toc_title: "On this page"
 | 11:00 - 12:30 | Biomedical Retrieval and RAG: In the Lab and Beyond | Salle Les Oudayas (stairs) |
 | 13:00 - 13:45 | SomosNLP - Salle Lamrissa (stairs) | Salle Les Oudayas (stairs) |
 | 14:00 - 15:30 | Mechanistic Interpretability vs. Neuro-symbolic Reasoning in LLMs | Salle Les Oudayas (stairs) |
-| 14:00 - 15:30 | Multilingual and Low-Resource NLP: Challenges and Lessons from Practice | Salle Lamrissa (stairs) |
+|               | Multilingual and Low-Resource NLP: Challenges and Lessons from Practice | Salle Lamrissa (stairs) |
 
 ## Friday, March 27, 2026
 
