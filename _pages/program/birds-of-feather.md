@@ -28,26 +28,26 @@ toc_title: "On this page"
 
 | Time | Topic | Location |
 | :--- | :--- | :--- |
-| 11:00 - 12:30 | Arabic NLP | Lamrissa (stairs) |
-| 11:00 - 12:30 | Emotion Analysis and Generation | Les Oudayas (stairs) |
-| 13:15 - 14:15 | SomosNLP | Les Oudayas (stairs) |
-| 14:00 - 15:30 | EquiCL | Les Oudayas (stairs) |
-| 16:00 - 17:30 | Learning and Reasoning for Structured Data | Les Oudayas (stairs) |
-| 16:00 - 17:30 | Multilingual and Multimodal Cultural Inclusivity in LLMs | Lamrissa (stairs) |
+| 11:00 - 12:30 | Arabic NLP | Salle Lamrissa (stairs) |
+| 11:00 - 12:30 | Emotion Analysis and Generation | Salle Les Oudayas (stairs) |
+| 13:30 - 14:15 | SomosNLP | Salle Lamrissa (stairs)  |
+| 14:00 - 15:30 | EquiCL | Salle Les Oudayas (stairs) |
+| 16:00 - 18:00 | Learning and Reasoning for Structured Data | Salle Les Oudayas (stairs) |
+|               | Multilingual and Multimodal Cultural Inclusivity in LLMs | Salle Lamrissa (stairs) |
 
 ## Thursday, March 26, 2026
 
 | Time | Topic | Location |
 | :--- | :--- | :--- |
-| 09:00 - 10:30 | Muslims in ML | Les Oudayas (stairs) |
-| 11:00 - 12:30 | Biomedical Retrieval and RAG: In the Lab and Beyond | Les Oudayas (stairs) |
-| 13:00 - 13:45 | Sociotechnical Challenges of GenAI | Les Oudayas (stairs) |
-| 14:00 - 15:30 | Mechanistic Interpretability vs. Neuro-symbolic Reasoning in LLMs | Les Oudayas (stairs) |
-| 14:00 - 15:30 | Multilingual and Low-Resource NLP: Challenges and Lessons from Practice | Lamrissa (stairs) |
+| 09:00 - 10:30 | Muslims in ML | Salle Les Oudayas (stairs) |
+| 11:00 - 12:30 | Biomedical Retrieval and RAG: In the Lab and Beyond | Salle Les Oudayas (stairs) |
+| 13:00 - 13:45 | SomosNLP - Salle Lamrissa (stairs) | Salle Les Oudayas (stairs) |
+| 14:00 - 15:30 | Mechanistic Interpretability vs. Neuro-symbolic Reasoning in LLMs | Salle Les Oudayas (stairs) |
+| 14:00 - 15:30 | Multilingual and Low-Resource NLP: Challenges and Lessons from Practice | Salle Lamrissa (stairs) |
 
 ## Friday, March 27, 2026
 
 | Time | Topic | Location |
 | :--- | :--- | :--- |
-| 11:00 - 12:30 | Multilingual and Low-Resource NLP: Challenges and Lessons from Practice | Lamrissa (stairs) |
-| 11:00 - 12:30 | Tokenization &amp; Beyond | Les Oudayas (stairs) |
+| 11:00 - 12:30 | Multilingual and Low-Resource NLP: Challenges and Lessons from Practice | Salle Lamrissa (stairs) |
+| 11:00 - 12:30 | Tokenization &amp; Beyond | Salle Les Oudayas (stairs) |
