@@ -116,10 +116,10 @@ To authors with an accepted paper, please note if there are any title or author 
 | 10:30 - 11:00 | Coffee Break |
 | 11:00 - 12:30 | Session 11: Oral/Poster H/Industry/BoF<br><strong>Orals</strong><br>Information Extraction - Salle Le Lixus Level 1<br>Measuring Social, Political, and Cultural Biases - Salle Walili - Level 0<br>Mechanistic Interpretability - Salle Le Riad Level 1<br>Parameter-Efficient Tuning and Training Dynamics - Pavillon De Rabat Level 1<br>Training and Inference Dynamics in Language Models - Salle La Palmeraie - Level 1<br><strong>BoF</strong><br>Multilingual and Low-Resource NLP: Challenges and Lessons from Practice - Salle Lamrissa (stairs)<br>Tokenization & Beyond - Salle Les Qudayas (stairs) |
 | 12:30 - 14:00 | Lunch Break |
-| 14:00 - 15:30 | Session 12: Plenary - Invited Keynote Speaker: [Mariya Toneva](https://mtoneva.com/)<br>Title: Large Language Models as Model Organisms of Language in the Human Brain |
-| 15:30 - 16:00 | Coffee Break |
-| 16:00 - 17:00 | Session 13: Plenary - Karen Spärck Jones Awardee: Andrew Yates<br>Title: Search with Complex Topics and Learned Sparse Retrieval |
-| 17:00 - 17:30 | Session 14: Plenary<br>Closing Session |
+| 14:00 - 15:00 | Session 12: Plenary - Invited Keynote Speaker: [Mariya Toneva](https://mtoneva.com/)<br>Title: Large Language Models as Model Organisms of Language in the Human Brain |
+| 15:00 - 15:30 | Coffee Break |
+| 15:30 - 16:30 | Session 13: Plenary - Karen Spärck Jones Awardee: Andrew Yates<br>Title: Search with Complex Topics and Learned Sparse Retrieval |
+| 16:30 - 17:00 | Session 14: Plenary<br>Closing Session |
 
 ## Saturday, March 28, 2026 - Workshops & Tutorials
 
