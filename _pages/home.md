@@ -20,7 +20,11 @@ Welcome to the 19th Conference of the European Chapter of the Association for Co
 
 ## News
 
-
+<div class="notice--info" markdown="1">
+  <h2 id="conference-update">Conference Update and Travel Guidance</h2>
+  We are monitoring the evolving situation in the Middle East. At this time, we do not anticipate disruption to EACL 2026 in Rabat, Morocco.
+  <a href="{{ '/news/conference-update-travel-guidance/' | relative_url }}">Read the full update</a>.
+</div>
 
 <div class="notice--info" markdown="1">
   <h2 id="program-update">Updated Program Online</h2>
