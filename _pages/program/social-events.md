@@ -70,7 +70,7 @@ Rabat 10000, Morocco
 Join us for an unforgettable evening celebrating Moroccan culture, cuisine, and community at the beautiful Sofitel Rabat Jardin des Roses.
 </p>
 
-<h3>Evening program</h3>
+<!-- <h3>Evening program</h3>
 <ul>
   <li><strong>18:30 – 18:45 Arrival &amp; Welcome</strong><br>
   Shuttle arrival from the conference venue. Welcome drinks and gathering in the Sofitel’s stunning gardens.</li>
@@ -79,6 +79,20 @@ Join us for an unforgettable evening celebrating Moroccan culture, cuisine, and 
   Enjoy a rich and diverse Moroccan-inspired international buffet.<br>
   Each registered attendee will receive <strong>one complimentary drink ticket</strong>.</li>
 
+  <li><strong>During dinner – Live local Moroccan music</strong><br>
+  Experience traditional Moroccan music performed live throughout dinner.</li>
+</ul> -->
+
+<h3>Evening program</h3>
+<ul>
+  <li><strong>18:00 – 19:00 – Shuttle service from the Conference Venue</strong></li>
+  <li><strong>18:30 – 19:00 – Doors Open</strong> (as transportation allows)</li>
+  <li><strong>18:30 – 19:30 – Welcome Hour &amp; Dinner</strong> (dry reception)</li>
+  <li><strong>18:30 – International World Buffet Opens</strong><br>
+  The Flavors of the World Buffet showcases a blend of international and Moroccan cuisine, featuring seasonal salads, Mediterranean-inspired starters, Moroccan classics like lamb</li>
+  <li><strong>19:30 – Bars Open</strong></li>
+  <li><strong>Evening Activities:</strong> Henna artist, calligraphy, Moroccan tea station</li>
+  <li><strong>Late Evening:</strong> DJ to close the night</li>
   <li><strong>During dinner – Live local Moroccan music</strong><br>
   Experience traditional Moroccan music performed live throughout dinner.</li>
 </ul>
@@ -92,11 +106,6 @@ Join us for an unforgettable evening celebrating Moroccan culture, cuisine, and 
   <li>Local Moroccan entertainment</li>
   <li>Access to the Sofitel’s beautiful gardens</li>
 </ul>
-
-<h3>Closing the night – DJ &amp; dancing</h3>
-<p>
-The evening concludes with a DJ to celebrate and close out the night in style.
-</p>
 
 <h3>Transportation</h3>
 <ul>
