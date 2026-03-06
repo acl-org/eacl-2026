@@ -8,7 +8,32 @@ toc: true
 toc_sticky: true
 toc_label: "Contact Categories"
 ---
+<style>
+/* Force more space in Participant Information sidebar */
+.sidebar .nav__list .nav__items li,
+.sidebar__right .nav__list .nav__items li,
+.sidebar__left .nav__list .nav__items li {
+  margin-top: 0.8rem !important;
+  margin-bottom: 0.8rem !important;
+}
 
+.sidebar .nav__list .nav__items a,
+.sidebar__right .nav__list .nav__items a,
+.sidebar__left .nav__list .nav__items a {
+  display: block !important;
+  line-height: 1.45 !important;
+  padding-top: 0.1rem !important;
+  padding-bottom: 0.1rem !important;
+}
+
+/* Nested items under Venue */
+.sidebar .nav__list .nav__items ul li,
+.sidebar__right .nav__list .nav__items ul li,
+.sidebar__left .nav__list .nav__items ul li {
+  margin-top: 0.55rem !important;
+  margin-bottom: 0.55rem !important;
+}
+</style>
 This page provides a comprehensive list of contact emails for all EACL 2026 tracks, committees, and services. Please use the appropriate email for your inquiry to ensure a timely response.
 
 ---
