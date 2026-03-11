@@ -198,6 +198,16 @@ Description: This shared interest meeting brings together researchers and practi
 
 
 ---
+**Time:** 9:30 - 10:30<br>
+### ACL Mentorship: Navigating Mental Health in Fast-Paced AI Research
+**Organized by:** Oana Ignat, Irene Strauss, Zhijing Jin<br>
+**Location:** Salle Lamrissa Level 2 (stairs)
+
+Description: The ACL Mentorship program (https://mentorship.aclweb.org/) creates a space where students and early-career researchers can ask question directly to experienced researchers in NLP and AI. Many students today face intense pressure - from rapid advances in AI, competitive publishing expectations, uncertainty around jobs, and common struggles such as impostor syndrome, perfectionism, anxiety, and stress. This panel will open a conversation about how researchers navigate these challenges while building meaningful careers.
+
+
+
+
 **Time:** 11:00 – 12:30<br>
 
 ### Tokenization & Beyond
