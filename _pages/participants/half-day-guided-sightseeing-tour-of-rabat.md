@@ -44,5 +44,5 @@ For reservations, please contact <strong>Amwaj Voyage</strong> via WhatsApp:
 </p>
 
 <p>
-<strong>WhatsApp:</strong> <a href="https://wa.me/2126614815">+212 661 4815</a>
+<strong>WhatsApp:</strong> <a href="https://wa.me/212661481584">+212 661 481584</a>
 </p>
