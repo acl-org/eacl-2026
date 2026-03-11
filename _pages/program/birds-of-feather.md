@@ -104,7 +104,7 @@ MusIML is an independent, grassroots initiative committed to advancing equity, r
 **Time:** 9:00 - 10:30<br>
 
 ### Ask us Anything - Conference 101
-**Organized by:** EACL 2026 D&I Committee
+**Organized by:** EACL 2026 D&I Committee<br>
 **Location:** Salle Lamrissa Level 2 (stairs)
 
 Our mentorship program is officially in motion, and we want to ensure you feel fully prepared for the week ahead. Join the D&I committee for a low-pressure AMA (ask me anything) designed to help you navigate the conference with confidence. Whether you’re wondering how to structure your first 1-on-1 mentor meeting, how to approach a senior researcher in the hallway, or how to handle specific application hurdles, we’re here to help.
