@@ -101,6 +101,17 @@ Description: The Muslims in Machine Learning (MusIML) Affinity Group Meeting pro
 
 MusIML is an independent, grassroots initiative committed to advancing equity, representation, and collaboration for Muslims in AI/ML. The organization has hosted three successful workshops at NeurIPS (2020, 2023, 2024, 2025) and ICML 2025, and it regularly organizes social and mentoring events at major conferences, including ACL 2025, ICLR 2025, and AISTATS 2025. MusIML has previously partnered with industry organizations such as Google and Amazon for past events and aims to further expand industry partnerships in the future to support and grow these community-building efforts. MusIML maintains a vibrant Slack community of close to 400 members. More details can be found at: [www.musiml.org](http://www.musiml.org).
 
+**Time:** 9:00 - 10:30<br>
+
+### Ask us Anything - Conference 101
+**Organized by:** EACL 2026 D&I Committee
+**Location:** Salle Lamrissa Level 2 (stairs)
+
+Our mentorship program is officially in motion, and we want to ensure you feel fully prepared for the week ahead. Join the D&I committee for a low-pressure AMA (ask me anything) designed to help you navigate the conference with confidence. Whether you’re wondering how to structure your first 1-on-1 mentor meeting, how to approach a senior researcher in the hallway, or how to handle specific application hurdles, we’re here to help.
+Why join us?: Get advice from a panel that offers a broad range of perspectives. Our members are currently active at every stage of the academic career path, including PhD students, postdocs, early-career researchers, and faculty. This allows us to provide immediate, practical advice on navigating the current landscape while also offering long-term insights into professional development.
+
+
+
 ---
 **Time:** 11:00 – 12:30<br>
 
