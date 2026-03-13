@@ -126,4 +126,4 @@ Please check <strong>Whova or the official conference website</strong> for updat
 
   
 </ul>
-CONFERENCE BADGE REQUIRED FOR ENTRY</li>
+CONFERENCE BADGE REQUIRED FOR ENTRY
