@@ -29,3 +29,9 @@ The detailed program is available on the Program page. This page provides practi
 <p>
 Information about the organization of the virtual presentation sessions (e.g., session format, joining links/platform, and Q&amp;A procedure) will be provided closer to the conference dates.
 </p>
+
+## Underline Help Desk
+
+Underline has prepared a set of guides for attendees, presenters, and session chairs.
+
+Please see the **[Underline Help Desk](https://underline.io/events/519/help-desk)** for the latest guidance and instructions.
