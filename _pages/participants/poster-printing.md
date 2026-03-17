@@ -77,3 +77,9 @@ Deadline for online submission: March 21st
       padding-bottom: 0px !important;
   }
 </style>
+
+## Underline Help Desk
+
+Underline has prepared a set of guides for attendees, presenters, and session chairs.
+
+Please see the **[Underline Help Desk](https://underline.io/events/519/help-desk)** for the latest guidance and instructions.
