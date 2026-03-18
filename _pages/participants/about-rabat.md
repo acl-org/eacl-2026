@@ -168,6 +168,13 @@ Tap water in Rabat is generally treated and considered safe for washing and brus
 * **Embassy / Consulate:** Keep your country's embassy or consulate contact details handy for consular assistance
 * **First Aid:** Basic first aid kits are available in most hotels and conference venues
 * **Stay Calm and Follow Instructions:** Follow local authorities' directions and inform someone of your location if traveling alone
+* **Private Emergency Medical Assistance:** In case of an extreme medical emergency, it is possible to call upon private medical facilities that come to the location of the emergency and also provide ambulance transport.
+* **Language Note:** It is recommended to use your browser’s translation facility, as the following services are in French:
+  * <https://sosmedecinrabat.com/>
+  * <https://www.sosmedecins.ma/>
+  * <https://sosmedecin-maroc.com/>
+  * <https://myhealthassistance.ma/sos-medecin-rabat/>
+
 
 <style>
   /* 1. Target the List Items (The rows) */
