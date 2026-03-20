@@ -69,7 +69,13 @@ For any questions regarding sponsorship, please email the EACL Sponsorship Chair
   </div>
 </div>
 
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
+  <div class="sponsor-logo">
+    <a href="https://risedatalabs.com/" target="_blank">
+      <img src="/assets/images/sponsors/risedatalabs.png" alt="Orange" style="max-height: 100px; width: auto;">
+    </a>
+  </div>
+</div>
 
 <!-- ## Diamond
 
