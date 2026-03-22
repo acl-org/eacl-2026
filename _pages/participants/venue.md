@@ -72,6 +72,9 @@ Listed below are the EACL '26 recommended conference hotels. When conference att
 
 Special Accommodation Offer for EACL 2026 **Student** Attendees
 
+
+**Special Accommodation Offer is no longer available.** 
+
 EACL 2026 is pleased to provide a limited number of discounted rooms for registered student attendees. Accommodations are available at the National Institute for Court Clerks and Legal and Judicial Professionals at the following rates:
 
 **Room rates**
@@ -90,13 +93,19 @@ Once payment is completed, your room is **fully guaranteed**.
 
 If your application is selected, an invoice will be emailed to you. Payment is required within 48 hours. If payment is not received, your room will be offered to the next applicant.
 
+## Important Accommodation Notice
 
-### Submit your request
+If you did not reserve a room directly through the EACL Organizing Staff or Organizing Committee for accommodations at the National Institute for Court Clerks and Legal and Judicial Professionals, please do not attempt to arrive at the Institute.
 
-If interested, please complete the application [form](https://forms.gle/KJeDHtTrjqwsj3XK7):  
+Security has been instructed to allow access only to guests with confirmed, pre‑arranged reservations made by EACL organizers. Any individuals without an official reservation will be turned away by security upon arrival.
 
+All room requests have now been fully finalized, and the accommodation offer is no longer valid.
 
-If you are unable to access the form, please see the attached pdf [Here]({{ "/assets/docs/EACL 26 Student Accommodation Request.pdf" | relative_url }}) and email your responses to **[acladmin@aclweb.org](mailto:acladmin@aclweb.org)**.
+If you require lodging, please make alternative arrangements at nearby hotels.
+
+Thank you for your understanding and cooperation.
+
+EACL Organizing Team
 
 ---
 
