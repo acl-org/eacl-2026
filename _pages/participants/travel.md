@@ -35,7 +35,7 @@ toc_label: "On this page"
 }
 </style>
 
-Visit the Ride Sharing App on Whova here: https://whova.com/webapp/carpool/eacl_202603/
+Visit the Ride Sharing App on Whova here: [https://whova.com/webapp/carpool/eacl_202603/](https://whova.com/webapp/carpool/eacl_202603/)
 
 ## Travel & Transport
 
