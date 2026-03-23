@@ -34,6 +34,9 @@ toc_label: "On this page"
   margin-bottom: 0.55rem !important;
 }
 </style>
+
+Visit the Ride Sharing App on Whova here: https://whova.com/webapp/carpool/eacl_202603/
+
 ## Travel & Transport
 
 ### From Casablanca Mohammed V International Airport (CMN) to Rabat – Centre Ville
