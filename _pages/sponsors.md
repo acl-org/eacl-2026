@@ -46,10 +46,11 @@ For any questions regarding sponsorship, please email the EACL Sponsorship Chair
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-bottom: 40px;">
   <div class="sponsor-logo">
     <a href="https://www.oracle.com/" target="_blank">
-      <img src="/assets/images/sponsors/Oracle.png" alt="Oracle" style="max-height: 100px; width: auto;">
+      <img src="/assets/images/sponsors/Oracle-Logo.png" alt="Oracle" style="max-height: 100px; width: auto;">
     </a>
   </div>
 </div>
+
 ## Bronze
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-bottom: 40px;">
