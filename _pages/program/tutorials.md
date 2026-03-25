@@ -36,8 +36,8 @@ In this tutorial, jointly organized by NLP researchers and a cognitive psycholog
 ## Sunday, March 29, 2026
 
 ### T3: Encoding and Decoding Language in the Brain with Language Models
-* **Organizers:** Anuja Negim, Mathis Lamarre, Christine Tseng, Subba Reddy Oota
-* **Website:** [https://subbareddy248.github.io/tutorials/eacl-2026-brain-ai/](https://subbareddy248.github.io/tutorials/eacl-2026-brain-ai/)
+* **Organizers:** Anuja Negi, Mathis Lamarre, Christine Tseng, Subba Reddy Oota
+* **Website:** [https://denizenslab.github.io/tutorials/eacl26/](https://denizenslab.github.io/tutorials/eacl26/)
 * **Description:** Expository talks with code running
 * **Location:** Pavillon DE RABAT (Level 1)
 * **Time:** Half Day 09:00 - 12:30
