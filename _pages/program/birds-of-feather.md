@@ -5,7 +5,7 @@ layout: single
 permalink: /program/birds-of-feather/
 sidebar:
   nav: program
-toc: false
+toc: True
 toc_title: "On this page"
 ---
 

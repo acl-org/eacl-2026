@@ -21,6 +21,12 @@ Welcome to the 19th Conference of the European Chapter of the Association for Co
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="di-reflection-post">EACL 2026 D&amp;I Grants Reflection Post</h2>
+  The EACL 2026 D&amp;I Chairs have shared a reflection on this year’s grants process, including numbers, funding constraints, and lessons learned.
+  <a href="{{ '/news/di-grants-reflection/' | relative_url }}">Read the full post</a>.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="proceedings-online">EACL 2026 Proceedings on ACL Anthology</h2>
   EACL 2026 proceedings are now available on <a href="https://aclanthology.org/events/eacl-2026/">ACL Anthology</a>.
 </div>

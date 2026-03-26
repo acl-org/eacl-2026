@@ -1,11 +1,9 @@
 ---
 title: "Reflections on the EACL 2026 D&I Grants"
 layout: single
-permalink: /program/birds-of-feather/di-grants-reflection/
-sidebar:
-  nav: program
+permalink: /news/di-grants-reflection/
 toc: false
-toc_title: "On this page"
+
 ---
 
 # Reflections on the EACL 2026 D&I Grants: Supporting Broader Community Participation

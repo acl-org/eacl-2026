@@ -108,9 +108,6 @@ program:
         url: /program/social-event/
       - title: "Birds of Feather"
         url: /program/birds-of-feather/
-        children:
-          - title: D&I Grants Reflection
-            url: /program/birds-of-feather/di-grants-reflection/
         
 
 
