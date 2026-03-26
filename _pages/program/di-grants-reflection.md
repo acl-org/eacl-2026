@@ -4,7 +4,7 @@ layout: single
 permalink: /program/birds-of-feather/di-grants-reflection/
 sidebar:
   nav: program
-toc: true
+toc: false
 toc_title: "On this page"
 ---
 
