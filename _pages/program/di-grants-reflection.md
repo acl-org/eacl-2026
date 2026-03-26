@@ -2,6 +2,8 @@
 title: "Reflections on the EACL 2026 D&I Grants"
 layout: single
 permalink: /program/birds-of-feather/di-grants-reflection/
+sidebar:
+  nav: program
 toc: true
 toc_title: "On this page"
 ---
