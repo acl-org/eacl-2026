@@ -108,6 +108,10 @@ program:
         url: /program/social-event/
       - title: "Birds of Feather"
         url: /program/birds-of-feather/
+        children:
+          - title: Reflections on the EACL 2026 D&I Grants
+            url: /program/di-grants-reflection/
+        
 
 
 registration:
