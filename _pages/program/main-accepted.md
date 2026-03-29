@@ -129,7 +129,7 @@ toc: false
   <li><span class="paper-title">Do NOT Classify and Count: Hybrid Attribute Control Success Evaluation</span>
       <span class="paper-authors">Felix Matthias Saaro; Pius von Däniken; Mark Cieliebak; Jan Milan Deriu</span></li>
   <li><span class="paper-title">Detecting Training Data of Large Language Models via Expectation Maximization</span>
-      <span class="paper-authors">Gyuwan Kim; Yang Li; Evangelia Spiliopoulou; Jie Ma; Miguel Ballesteros; William Yang Wang</span></li>
+      <span class="paper-authors">Gyuwan Kim; Yang Li; Evangelia Spiliopoulou; Jie Ma; William Yang Wang</span></li>
   <li><span class="paper-title">How effective are VLMs in assisting humans in inferring the quality of mental models from Multimodal short answers?</span>
       <span class="paper-authors">Pritam Sil; DURGAPRASAD KARNAM; Vinay Reddy Venumuddala; Pushpak Bhattacharyya</span></li>
   <li><span class="paper-title">Don&#x27;t Trust Generative Agents to Mimic Communication on Social Networks Unless You Benchmarked their Empirical Realism</span>
